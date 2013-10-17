@@ -1,5 +1,5 @@
-import lab2
+import qimport.py
 
-for i in range(lab2.n):
+for i in range(qimport.py):
     print 'hello world'
 
