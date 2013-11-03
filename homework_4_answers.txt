@@ -1,0 +1,57 @@
+Name: Russ Arnold
+Evergreen Login: arnrus09	
+Computer Science Foundations
+Programming as a Way of Life
+Fall 2013
+Homework 4
+
+For each problem that requires a written answer, write (or copy-and-paste)
+your answers in this file.  When you are done, you should have replaced all
+the ellipses (the three dots) with your answers.
+
+At the end, you will turn in this file along with your modified
+dna_analysis.py program.
+
+
+Problem 1:
+
+(No answers in this file.)
+
+Problem 2:
+
+GC-content: 0.43029262963
+
+Problem 3:
+
+It says that linenum is not defined, because the first time linenum is defined it is defined in terms of itself.  It raises an exception for linenum and not seq because linenum is the first to be referenced in the for-loop. 
+
+Problem 4:
+
+AT-content: 0.568993851852
+
+problem 5:
+
+C-count: 5879128
+G-count: 5738773
+T-count: 7661547
+A-count: 7701287
+
+problem 6:
+
+the sum of the letters is less than 100,000 off from len(seq) and total_count.  I can't open fast files on my computer to check but I would guess it's because there are characters in the files that are not A's, T's, C's or G's.
+
+problem 7:
+
+AT/GC ratio: 1.32234161747
+
+problem 8:
+
+moderate GC content
+
+Collaboration:
+
+...
+
+Reflection:
+
+...
