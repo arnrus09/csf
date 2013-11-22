@@ -1,0 +1,10 @@
+You don't have to do the elections homework (Homework 5/7).
+
+Commit and sync all of your project code into your repository, and update your proposal.txt
+so that we know what all the files are called and how to run a demo of your work.
+
+Do this by 5pm on Friday (11/22)
+
+E-mail me and Colin when you've done this.
+phamp@evergreen.edu
+robcol15@evergreen.edu
