@@ -1,0 +1,3 @@
+My project is to right a Python program that accepts sentences from the user and returns sentences of equivilant meaning.
+So far I have a shelve dat file with an organized dictionary.  I just have to debug my converter program that 
+returns the proper usage of each word.
