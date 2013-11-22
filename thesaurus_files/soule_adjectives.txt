@@ -1,0 +1,1575 @@
+
+ BANKRUPT 
+insolvent,
+
+ AGILE 
+lively,nimble,brisk,smart,active,quick,ready,prompt,alert,sprightly,lively,supple,spry,winged,
+
+ BUFFLE-HEADED 
+dull,stupid,doltish,foolish,blockish,simple,witless,thick-skulled,
+
+ BUXOM 
+gay,brisk,sprightly,lively,joyous,joyful,buoyant,vivacious,cheerful,blithe,blithesome,winsome,jocund,sportive,frolicsome,jolly,airy,debonair,in high health and spirits,
+
+ ASSUMING 
+presuming,presumptuous,forward,audacious,bold,shameless,frontless,unblushing,brazen,brazen-faced,arrogant,proud,lofty,stately,haughty,supercilious,overbearing,overweening,conceited,consequential,self-conceited,self-sufficient,
+
+ BRIMFUL 
+quite full,full to the brim,choke full,
+
+ ANALOGOUS 
+resembling,alike,like,cognate,parallel,corresponding,allied,of a piece,
+
+ APPENDANT 
+annexed,attached,concomitant,hanging,
+
+ BEAMY 
+radiant,beaming,
+
+ BOLD 
+fearless,dauntless,daring,valiant,chivalrous,valorous,doughty,undaunted,intrepid,courageous,brave,heroic,audacious,adventurous,manful,manly,stout-hearted,bold-spirited,confident,assured,free from bashfulness,impudent,insolent,rude,impertinent,saucy,forward,pushing,assuming,brazen-faced,bold-faced,conspicuous,striking,prominent,standing out to the view,steep,abrupt,
+
+ ASPIRING 
+ambitious,high-reaching,
+
+ BRAZEN 
+made of brass,bold,brazen-faced,
+
+ AWARE 
+mindful,conscious,cognizant,observant,apprised,sensible,convinced,persuaded,
+
+ ARCHAIC 
+old,ancient,obsolete,antiquated,antique,by-gone,out of use,out of date,out of fashion,old-fashioned,
+
+ ARCUATE 
+bent,bowed,hooked,crooked,aduncous,
+
+ BLINDFOLD 
+blindfolded,
+
+ ARTISTICAL 
+skilful,masterly,workman-like,
+
+ CALLOUS 
+indurated,hardened,hard,insensible,unfeeling,apathetic,obtuse,unsusceptible,unimpressible,sluggish,dull,torpid,indifferent,dead,
+
+ ARTISTIC 
+skilful,masterly,workman-like,
+
+ BARREN 
+unprolific,incapable of bearing offspring,not,prolific,unfertile,fruitless,unproductive,sterile,acarpous,scanty,not copious,
+
+ ADVISABLE 
+expedient,proper,fit,prudent,desirable,fit to,be advised,
+
+ AUTOMATIC 
+self-moving,self-acting,
+
+ ASTUTE 
+cunning,crafty,intriguing,wily,artful,sly,subtle,arch,deep,machiavelian,shrewd,sagacious,acute,sharp,quick,discerning,ingenious,perspicacious,keen,intelligent,long-headed,keen-sighted,clear-,sighted,quick-sighted,eagle-eyed,
+
+ ANTIQUE 
+old,ancient,antiquated,
+
+ ATROCIOUS 
+infamous,villanous,flagitious,heinous,felonious,flagrant,outrageous,enormous,grievous,diabolical,monstrous,infernal,hellish,horrible,black,very wicked,
+
+ BROTHERLY 
+fraternal,affectionate,kind,amicable,friendly,cordial,
+
+ ATTIC 
+chaste,classic,classical,pure,correct,refined,elegant,polished,in good taste,
+
+ ABSTINENT 
+abstaining,fasting,abstemious,sober,temperate,
+
+ BOOKISH 
+given to reading,fond of books,fond of study,very,studious,
+
+ BINDING 
+astringent,contracting,styptic,obligatory,valid,
+
+ BIBULOUS 
+spongy,porous,
+
+ ABSOLUTORY 
+clearing,acquitting,releasing,pardoning,forgiving,absolvatory,
+
+ BASE-MINDED 
+mean,low,vile,grovelling,beggarly,pitiful,despicable,abject,low-minded,mean-spirited,
+
+ BOORISH 
+rustic,rude,clownish,loutish,bearish,awkward,clumsy,ungainly,coarse,rough,unrefined,uncourtly,ungraceful,gawky,lubberly,
+
+ BULBOUS 
+round,roundish,protuberant,swelling out,
+
+ AUTHORITATIVE 
+official,commanding,by authority,ex,cathedra,dictatorial,imperative,imperious,magisterial,oracular,peremptory,dogmatic,
+
+ ARENACEOUS 
+sandy,arenose,
+
+ BRIEF 
+short,concise,succinct,compendious,laconic,curt,transitory,fleeting,transient,temporary,short-lived,ephemeral,
+
+ ACARPOUS 
+sterile,barren,fruitless,unproductive,
+
+ AFORETHOUGHT 
+premeditated,prepense,
+
+ AVAILABLE 
+to be availed of,to be turned to account,serviceable,useful,profitable,advantageous,beneficial,likely to answer the end,
+
+ AMIABLE 
+lovable,lovely,sweet,engaging,charming,winning,facile,benignant,benign,sweet-tempered,kind-hearted,tender-,hearted,worthy of love,
+
+ ASSURED 
+certain,indubitable,unquestionable,confident,sure,secure,sanguine,
+
+ AMENABLE 
+accountable,liable,responsible,answerable,
+
+ BLUNT-WITTED 
+dull,stupid,stolid,doltish,blockish,obtuse,unintelligent,unintellectual,shallow,
+
+ ABSENT-MINDED 
+abstracted,absent,
+
+ ALONE 
+single,solitary,only,lone,lonely,isolated,unaccompanied,by one's self,by itself,without company,without,another,of one's self,of one's own power,without help,
+
+ ANTIQUARIAN 
+archæological,
+
+ BLUSTERING 
+windy,stormy,tempestuous,squally,gusty,swaggering,boasting,bragging,blattering,pompous,assuming,important,arrogant,swelling,big,bluff,self-sufficient,self-,conceited,
+
+ ARMORIAL 
+heraldic,
+
+ BRILLIANT 
+sparkling,glittering,splendid,lustrous,shining,bright,beaming,radiant,effulgent,refulgent,resplendent,illustrious,glorious,celebrated,famous,
+
+ BROKEN-HEARTED 
+disconsolate,inconsolable,comfortless,cheerless,sad,sorrowful,melancholy,woebegone,forlorn,undone,heart-broken,in despair,
+
+ APROPOS 
+[fr.] opportune,seasonable,timely,fit,suitable,apt,apposite,to the point,to the purpose,just the thing,quite the,thing,
+
+ BLEAK 
+cold,chill,chilly,raw,biting,piercing,unsheltered,exposed to cold,exposed to wind,
+
+ BIZARRE 
+[fr.] odd,fantastic,strange,singular,whimsical,
+
+ APOCRYPHAL 
+unauthentic,legendary,uncanonical,of doubtful,authority,
+
+ ACCUSTOMED 
+usual,habitual,wonted,customary,familiar,common,frequent,regular,ordinary,every day,
+
+ AMATORY 
+amorous,erotic,tender,passionate,anacreontic,
+
+ ANTITHETIC 
+contrasted,placed in contrast,
+
+ BOUNTIFUL 
+liberal,munificent,beneficent,generous,princely,bounteous,
+
+ BUCKISH 
+gay,dashing,
+
+ BACK 
+remote,hindmost,in the rear,in a backward direction,
+
+ BOOZY 
+inebriated,fuddled,disguised,maudlin,mellow,slewed,groggy,half drunk,half seas over,
+
+ ANTAGONISTIC 
+opposing,adverse,opposite,hostile,inimical,
+
+ ARABESQUE 
+moorish,moresque,
+
+ ARDENT 
+hot,burning,fiery,warm,passionate,fervent,impassioned,eager,intense,keen,sharp,vehement,fiery,earnest,fervid,glowing,zealous,devoted,enthusiastic,strenuous,sanguine,alcoholic,spirituous,
+
+ ATHEISTICAL 
+godless,given to atheism,
+
+ AMICABLE 
+friendly,brotherly,fraternal,harmonious,cordial,neighborly,peaceable,kind,
+
+ ABSOLUTE 
+independent,unrestricted,unqualified,unlimited,unconditional,unconditioned,complete,perfect,despotic,arbitrary,tyrannical,tyrannous,imperious,imperative,authoritative,autocratic,dictatorial,irresponsible,positive,actual,real,veritable,determinate,decided,genuine,categorical,unequivocal,certain,
+
+ BINARY 
+dual,double,consisting of two,
+
+ AFRAID 
+fearful,haunted with fear,
+
+ AROMATOUS 
+fragrant,spicy,aromatic,
+
+ BLATTERING 
+blustering,swaggering,noisy,
+
+ AFTERMOST 
+hindmost,
+
+ BEDRIDDEN 
+confined to the bed,
+
+ ARISTOCRATICAL 
+noble,princely,patrician,titled,of,high rank,haughty,proud,arrogant,disdainful,overweening,supercilious,overbearing,consequential,
+
+ BLOOMY 
+flowery,
+
+ ALL-POWERFUL 
+almighty,omnipotent,all-sufficient,
+
+ BREATHING 
+living,alive,live,not dead,
+
+ AUGUST 
+imposing,awful,solemn,venerable,majestic,stately,pompous,great,regal,noble,dignified,kingly,princely,magnificent,superb,
+
+ ACCIDENTAL 
+casual,fortuitous,contingent,that happens,by chance,not designed,not planned,incidental,adventitious,non-essential,
+
+ BRISK 
+active,lively,smart,agile,nimble,quick,smart,alert,spry,spirited,vivacious,sprightly,
+
+ ATRAMENTOUS 
+black,inky,
+
+ CALCAREOUS 
+limy,
+
+ ASLANT 
+oblique,inclined,slanting,
+
+ AFFECTED 
+assumed,feigned,unnatural,artificial,insincere,canting,assuming,pretending,pretentious,conceited,vain,coxcomical,priggish,
+
+ ARTFUL 
+skilful,ingenious,dexterous,cunning,crafty,astute,shrewd,sharp,wily,sly,foxy,snaky,subtle,arch,insidious,designing,intriguing,politic,deceitful,trickish,tricky,diplomatic,machiavelian,
+
+ ASHY 
+cineritious,cinereous,favillous,like ashes,pale,pallid,whitish,gray,ash-colored,
+
+ BITING 
+pungent,piquant,hot,sharp,peppery,stinging,high-flavored,high-seasoned,severe,sarcastic,cutting,caustic,cold,freezing,nipping,piercing,
+
+ BACKWARD 
+averse,unwilling,reluctant,loath,disinclined,indisposed,wavering,hesitating,dull,sluggish,slow,stupid,stolid,late,tardy,behindhand,after the usual time,
+
+ BULKY 
+large,great,big,huge,vast,of great size or bulk,
+
+ BRAGGART 
+boastful,boasting,
+
+ AGOG 
+eager,impatient,excited,wrought up,worked up,on,tiptoe,with open mouth,
+
+ AGHAST 
+awe-struck,horror-struck,dismayed,horrified,appalled,terrified,frightened,panic-stricken,struck with horror,amazed,astounded,startled,astonished,dumfoundered,thunderstruck,
+
+ BALKY 
+unruly,refractory,wayward,contrary,stubborn,obstinate,
+
+ ABSTRUSE 
+recondite,occult,profound,hidden,transcendental,obscure,difficult,dark,enigmatical,mysterious,mystic,mystical,high,abstract,abstracted,subtile,refined,
+
+ AILING 
+sickly,sick,ill,indisposed,unwell,diseased,feeble,languishing,unhealthy,
+
+ ADVENTITIOUS 
+accidental,incidental,extrinsic,extraneous,foreign,non-essential,
+
+ ADHESIVE 
+sticking,clinging,tending to adhere,sticky,tenacious,tough,viscous,glutinous,smeary,dauby,stringy,ropy,gummy,clammy,
+
+ BREATHLESS 
+out of breath,dead,lifeless,defunct,
+
+ BRACKISH 
+saltish,somewhat salt,
+
+ AMBROSIAL 
+delicious,luscious,savory,palatable,nice,fragrant,balmy,odorous,aromatic,odoriferous,sweet-scented,
+
+ ACROATIC 
+esoteric,acroamatic,
+
+ ALMIGHTY 
+omnipotent,all-powerful,all-sufficient,
+
+ ARCHæOLOGICAL 
+antiquarian,
+
+ BITTER 
+that tastes like wormwood,fierce,savage,cruel,merciless,relentless,virulent,fell,ruthless,severe,harsh,stern,distressing,painful,grievous,sorrowful,afflictive,poignant,calamitous,
+
+ BAWDY 
+obscene,filthy,indecent,impure,smutty,lewd,
+
+ ANTITHETICAL 
+contrasted,placed in contrast,
+
+ AXIOMATIC 
+self-evident,certain,positive,absolute,
+
+ ADULATORY 
+flattering,smooth,oily,full of compliments,servile in compliment,
+
+ APPROACHABLE 
+accessible,
+
+ ARGILLACEOUS 
+clayey,aluminous,
+
+ BOAT-SHAPED 
+navicular,scaphoid,
+
+ ANTIQUATED 
+obsolete,unfashionable,antique,by-gone,archaic,ancient,grown old,out of use,out of fashion,out of date,old-,fashioned,gone by,
+
+ ABJECT 
+base,vile,mean,low,despicable,contemptible,beggarly,paltry,dirty,squalid,grovelling,pitiful,ignoble,degraded,worthless,poor,servile,slavish,menial,sneaking,sordid,shabby,scurvy,miserable,wretched,low-minded,base-minded,earth-,born,earth-bred,
+
+ BRAZEN-FACED 
+bold,impudent,assuming,forward,pert,saucy,brazen,brassy,cheeky,
+
+ AIMLESS 
+purposeless,objectless,without aim or end,
+
+ AUSTERE 
+sour and astringent,severe,rigid,strict,formal,stiff,rigorous,harsh,stern,difficult,hard,uncompromising,unrelenting,relentless,ascetic,straight-laced,
+
+ ALLEGORICAL 
+figurative,typical,
+
+ BIG-WIGGED 
+consequential,pompous,self-important,
+
+ AVERAGE 
+medial,mean,middling,ordinary,passable,moderate,tolerable,well enough,pretty well,not bad,
+
+ BONNY 
+handsome,beautiful,pretty,cheerful,blithe,sprightly,buoyant,airy,gay,merry,joyous,jolly,jocund,winsome,buxom,playful,sportive,jocose,in good,spirits,in high spirits,plump,round,chubby,in good health,
+
+ AVERSE 
+unwilling,disinclined,indisposed,reluctant,loath,backward,adverse,opposed,
+
+ BOISTEROUS 
+roaring,loud,stormy,noisy,furious,tumultuous,turbulent,vehement,violent,impetuous,
+
+ ANIMATED 
+lively,vigorous,sprightly,vivacious,buoyant,spirited,jocund,blithe,gay,elated,full of life,full of spirit,
+
+ ASSIDUOUS 
+industrious,sedulous,diligent,indefatigable,notable,active,busy,untiring,unwearied,unremitting,persevering,persistent,constant,patient,studious,zealous,never-tiring,painstaking,
+
+ ALL 
+the whole of,every one of,every part of,
+
+ ARGUMENTATIVE 
+controversial,polemical,disputatious,given to controversy,
+
+ BURNING 
+fiery,flaming,hot,scorching,glowing,ardent,fervent,fervid,impassioned,intense,earnest,vehement,powerful,
+
+ ARISTOTELIAN 
+peripatetic,
+
+ ASLEEP 
+sleeping,fast asleep,in a sound sleep,in the arms of,morpheus,gone to the land of nod,
+
+ ANOTHER 
+some other,any other,not the same,one more,
+
+ ADMONITORY 
+admonishing,monitory,
+
+ ANGULAR 
+pointed,with angles,with corners,
+
+ BLUE 
+azure,cerulean,sky-colored,dejected,dispirited,depressed,sad,glum,gloomy,mopish,downcast,desponding,downhearted,hypochondriac,hypped,chopfallen,low-spirited,cast down,in the,dumps,with a long face,down in the mouth,
+
+ ANCIENT 
+old,primitive,pristine,olden,of old time,not,modern,of great age,of long duration,antiquated,antique,archaic,obsolete,by-gone,old-fashioned,out of fashion,out of date,gone by,
+
+ ANTISPASMODIC 
+carminative,good for cramp or spasms,
+
+ ALTERNATE 
+reciprocal,
+
+ APPROXIMATE 
+proximate,approaching,coming near,nearly correct,nearly accurate or true,
+
+ BENIGN 
+kind,benevolent,gracious,complaisant,humane,obliging,benignant,good,amiable,friendly,kind-hearted,tender-,hearted,of a gentle disposition,of a mild nature,
+
+ ARENOSE 
+sandy,arenaceous,
+
+ BEGGARLY 
+destitute,indigent,needy,poor,sorry,mean,abject,base,low,paltry,shabby,vile,scurvy,miserable,contemptible,despicable,pitiful,pitiable,servile,slavish,grovelling,base-minded,low-minded,mean-spirited,
+
+ ADJACENT 
+adjoining,conterminous,neighboring,near,close,bordering,contiguous,in proximity,
+
+ ARTLESS 
+ignorant,unlearned,untaught,unskilful,rude,inartificial,simple,natural,without marks of art,unaffected,plain,honest,frank,fair,open,candid,naÏve,guileless,sincere,true,unsophisticated,ingenuous,undesigning,truthful,honorable,single-minded,simple-hearted,simple-minded,open-hearted,straightforward,
+
+ ACCESSARY 
+assisting,aiding,abetting,helping,accessory,
+
+ BARBED 
+bearded,clad in armor,
+
+ BEFITTING 
+becoming,suitable,fit,proper,right,meet,seemly,appropriate,congruous,
+
+ ACCORDANT 
+agreeable,agreeing,suitable,consonant,congruous,symphonious,
+
+ CALLOW 
+unfledged,unfeathered,naked,
+
+ ATTENTIVE 
+mindful,heedful,observant,wary,circumspect,watchful,careful,thoughtful,regardful,awake,alive,wide awake,on,the alert,on the lookout,
+
+ ACUMINATED 
+acute,pointed,cuspidate,cuspidated,
+
+ BLUFF 
+blustering,swaggering,bullying,vaporing,pompous,coarse,rude,blunt,gruff,churlish,bearish,
+
+ ALL-KNOWING 
+omniscient,all-wise,all-seeing,
+
+ ARGUS-EYED 
+discerning,perspicacious,sharp-sighted,quick-,sighted,lynx-eyed,hawk-eyed,
+
+ BAY 
+reddish-brown,
+
+ BAD 
+evil,ill,baneful,deleterious,pernicious,mischievous,noxious,hurtful,injurious,detrimental,unwholesome,wicked,depraved,abandoned,dishonest,unfair,disingenuous,rascally,villanous,untoward,unlucky,unfortunate,unwelcome,vile,wretched,sorry,mean,shabby,scurvy,abominable,poor,inferior,
+
+ ANFRACTUOUS 
+winding,meandering,crooked,serpentine,
+
+ BOLT-UPRIGHT 
+perpendicular,quite upright,
+
+ ANGUILLIFORM 
+eel-shaped,
+
+ ALVEOLATE 
+cellular,favose,honey-combed,
+
+ ADROIT 
+dexterous,expert,skilful,apt,handy,ready,quick,clever,able,masterly,
+
+ AERIFORM 
+gaseous,ethereal,vaporous,airy,aerial,
+
+ APPREHENSIVE 
+quick to understand,fearful,distrustful,suspicious,anxious,afraid,
+
+ BOASTFUL 
+boasting,vaunting,bragging,vaporing,blustering,exulting,triumphant,cock-a-hoop,
+
+ AFFIRMATIVE 
+that affirms,indicative,not negative,
+
+ ALIPED 
+wing-footed,swift of foot,
+
+ ABSTERGENT 
+purifying,purgative,cathartic,
+
+ BOUNTEOUS 
+liberal,bountiful,
+
+ ACRIMONIOUS 
+corrosive,caustic,sharp,severe,harsh,hard,acrid,sarcastic,bitter,virulent,malignant,censorious,crabbed,snarling,snappish,testy,pettish,petulant,cross,sour,tart,splenetic,peevish,ill-tempered,ill-,natured,
+
+ ABSTEMIOUS 
+sober,moderate,habitually,temperate,sparing in diet,
+
+ ANNIVERSARY 
+annual,
+
+ BALMY 
+soothing,refreshing,easing,assuaging,lenitive,sedative,fragrant,odoriferous,odorous,aromatic,aromatous,ambrosial,spicy,sweet-smelling,sweet-scented,
+
+ BLAMABLE 
+culpable,censurable,reprehensible,faulty,blameworthy,
+
+ BARMY 
+yeasty,
+
+ AMBITIOUS 
+aspiring,eager for superiority,eager for,distinction or fame,showy,pretentious,
+
+ ALLOPATHIC 
+heteropathic,
+
+ BLAMELESS 
+irreproachable,unimpeachable,irreprehensible,inculpable,faultless,guiltless,unblemished,unspotted,unsullied,undefiled,spotless,stainless,innocent,
+
+ APPARENT 
+visible,discernible,perceptible,open,external,in view,in sight,to be seen,manifest,obvious,patent,clear,evident,indubitable,plain,conspicuous,legible,unmistakable,in plain sight,seeming,specious,ostensible,not real,
+
+ ABSOLVATORY 
+absolutory,
+
+ BLOWZED 
+ruddy,blowzy,
+
+ AUTHENTIC 
+genuine,real,true,veritable,pure,uncorrupted,unadulterated,not false,not spurious,not fictitious,not apocryphal,what it purports to be,trustworthy,reliable,authoritative,of approved authority,to,be depended on,worthy of belief,
+
+ BOUNDEN 
+obligatory,binding,appointed,
+
+ ALPINE 
+mountainous,high,elevated,
+
+ AUXILIARY 
+aiding,helping,assisting,ancillary,subsidiary,helpful,
+
+ ANTIPODAL 
+opposite,over against,diametrically opposite,
+
+ ARDUOUS 
+steep,high,lofty,uphill,hard,difficult,laborious,onerous,troublesome,herculean,toilsome,tiresome,wearisome,fatiguing,beset with difficulties,full of difficulties,
+
+ BLOBBER-LIPPED 
+thick-lipped,
+
+ AFFLUENT 
+abundant,exuberant,opulent,wealthy,rich,moneyed,
+
+ BARBARIC 
+foreign,outlandish,exotic,not native,barbarian,barbarous,uncivilized,rude,savage,
+
+ ASPIRANT 
+aspiring,ambitious,
+
+ BLIND 
+sightless,eyeless,unseeing,stone-blind,stark-,blind,unable to see,ignorant,undiscerning,unaware,unmindful,inattentive,heedless,incapable of judging,
+
+ ANGELIC 
+seraphic,cherubic,heavenly,celestial,angel,
+
+ ALLUSIVE 
+hinting,suggestive,emblematic,typical,symbolical,figurative,
+
+ ABSTRACTED 
+subtile,refined,abstract,abstruse,inattentive,preoccupied,lost,dreaming,musing,absent,absent-,minded,in a revery,in a brown study,
+
+ APT 
+apposite,pertinent,suitable,fit,fitting,meet,befitting,germane,applicable,appropriate,apropos,to the point,to,the purpose,inclined,liable,prone,disposed,quick,sharp,ready,prompt,expert,dexterous,able,clever,happy,adroit,handy,skilful,docile,teachable,
+
+ BRAWNY 
+muscular,sinewy,stalwart,sturdy,athletic,powerful,strong,vigorous,lusty,robust,nervous,strapping,herculean,able-,bodied,
+
+ BLANK 
+void,empty,white,of a white color,astonished,confounded,confused,dumfounded,disconcerted,nonplussed,struck dumb,
+
+ BLAND 
+soft,mild,gentle,not harsh,
+
+ BIG-BELLIED 
+large-bellied,great-bellied,pot-bellied,tun-,bellied,abdominous,
+
+ BLISSFUL 
+transported,enraptured,in raptures,in ecstasies,very happy,full of joy,highly blessed,
+
+ ABDOMINAL 
+ventral,
+
+ ANTIFEBRILE 
+febrifugal,
+
+ ANSWERABLE 
+refutable,that may be answered,accountable,responsible,amenable,liable,corresponding,correspondent,correlative,proportionate,suitable,suited,fit,
+
+ BLACK 
+dark,ebon,inky,atramentous,swarthy,murky,dusky,pitchy,dingy,cimmerian,wicked,atrocious,villanous,heinous,flagitious,diabolic,infernal,hellish,outrageous,monstrous,horrible,
+
+ ACROAMATICAL 
+esoteric,esoterical,secret,private,acroatic,
+
+ AUREATE 
+golden,yellow,gold-colored,
+
+ AMORPHOUS 
+irregular,shapeless,formless,unshapen,
+
+ BULLYING 
+blustering,swaggering,vaporing,vaunting,hectoring,bluff,gruff,bearish,
+
+ BURLESQUE 
+comic,comical,funny,laughable,farcical,ludicrous,jocular,sportive,
+
+ ADULT 
+mature,grown up,full grown,of age,of mature age,
+
+ CALAMITOUS 
+disastrous,unlucky,unfortunate,adverse,untoward,unhappy,unprosperous,hapless,ill-fated,ill-starred,deplorable,ruinous,miserable,wretched,dreadful,distressful,afflictive,sad,grievous,
+
+ ATMOSPHERIC 
+aerial,of the atmosphere,
+
+ AQUEOUS 
+watery,waterish,moist,wet,humid,damp,
+
+ APERIENT 
+deobstruent,loosening,
+
+ ACEPHALOUS 
+headless,
+
+ AVARICIOUS 
+miserly,penurious,parsimonious,sordid,illiberal,niggardly,mercenary,close,stingy,mean,grasping,close-,fisted,hard-fisted,covetous,
+
+ ABSURD 
+unreasonable,irrational,foolish,nonsensical,ridiculous,incongruous,senseless,unwise,silly,stupid,preposterous,paradoxical,ill-judged,ill-advised,contrary to,reason,contrary to the dictates of common sense,
+
+ BUTTERFLY-SHAPED 
+papilionaceous,
+
+ ANTERIOR 
+preceding,prior,previous,antecedent,foregoing,going before,fore,front,in front,
+
+ ALUMINOUS 
+clayey,argillaceous,
+
+ ALL-SEEING 
+all-knowing,omniscient,all-wise,
+
+ AUBURN 
+nut-brown,chestnut-colored,reddish-brown,
+
+ CALORIFIC 
+heating,heat-producing,
+
+ ATOMIC 
+of atoms,small,minute,
+
+ AMBIENT 
+surrounding,encompassing,encircling,circling,circumjacent,circumambient,
+
+ BRASSY 
+pert,assuming,forward,cheeky,brazen,brazen-faced,
+
+ AFFIRMABLE 
+predicable,
+
+ ADVERSE 
+contrary,opposing,unpropitious,counteracting,conflicting,head,not propitious,hostile,inimical,antagonistic,unprosperous,untoward,unlucky,unfortunate,calamitous,disastrous,
+
+ ADAMANTEAN 
+adamantine,hard as adamant,very hard,
+
+ CACOPHONOUS 
+harsh,grating,discordant,
+
+ AMUSING 
+entertaining,diverting,laughable,ridiculous,comical,funny,farcical,risible,
+
+ ANCILLARY 
+helping,helpful,auxiliary,instrumental,subservient,subordinate,
+
+ ACTUAL 
+real,veritable,true,substantial,determinate,decided,categorical,positive,absolute,certain,genuine,very,not,ideal,not imagined,not imaginary,not supposed or fancied,not,fictitious,that exists in fact,de facto,bona fide,present,now existing,now in being,
+
+ ADHERENT 
+adhering,sticking,clinging,
+
+ ASSORTED 
+of various sorts,
+
+ ARISTATE 
+bearded,
+
+ ACCEPTABLE 
+welcome,pleasing,pleasant,agreeable,grateful,gratifying,
+
+ AFTER 
+succeeding,subsequent,following,later,hind,hinder,posterior,rear,back,
+
+ ADSCITITIOUS 
+additional,supplemental,supplementary,superadded,
+
+ AFORESAID 
+said before,aforementioned,before-mentioned,fore-,named,above-mentioned,above-named,
+
+ BENEFICIENT 
+bountiful,munificent,liberal,generous,bounteous,princely,kind,
+
+ ABSENT 
+away,gone,not present,abstracted,preoccupied,inattentive,dreaming,musing,lost,napping,absent-minded,in a brown study,
+
+ BENEVOLENT 
+kind,benignant,benign,kind-hearted,obliging,humane,tender,charitable,disposed to do good,
+
+ ADIPOSE 
+fat,fatty,unctuous,oily,sebaceous,greasy,
+
+ ADMISSIBLE 
+permissible,allowable,lawful,proper,justifiable,warrantable,
+
+ ABDOMINOUS 
+large-bellied,great-bellied,big-bellied,pot-,bellied,tun-bellied,
+
+ ASCENDANT 
+rising,above the horizon,superior,predominant,prevailing,prevalent,surpassing,
+
+ ALIMENTARY 
+nourishing,edible,esculent,nutritious,
+
+ BENT 
+crooked,hooked,bowed,curved,aduncous,arcuate,incurvate,
+
+ BOUND 
+tending,going,on the way,
+
+ CALEDONIAN 
+scottish,scotch,
+
+ ACID 
+sour,tart,sharp,pricked,
+
+ ACROAMATIC 
+esoteric,esoterical,secret,private,acroatic,
+
+ APOSTATE 
+treacherous,false,faithless,untrue,recreant,backsliding,
+
+ ADAMANTINE 
+made of adamant,adamantean,very hard,hard as adamant,
+
+ ADVANTAGEOUS 
+beneficial,profitable,helpful,useful,convenient,serviceable,salutary,favorable,expedient,good,well,for one's advantage,for one's interest,for one's good,
+
+ ADDLED 
+addle,
+
+ BRUTE 
+irrational,void of reason,bestial,savage,barbarous,brutal,rough,rude,uncivilized,
+
+ AROMATIC 
+fragrant,redolent,balmy,spicy,odoriferous,aromatous,ambrosial,high-scented,strong-scented,sweet-scented,sweet-smelling,
+
+ ABIDING 
+permanent,lasting,durable,constant,continuing,stable,
+
+ ANILE 
+aged,imbecile,senile,doting,decrepit,superannuated,old-womanish,
+
+ AUTOCRATIC 
+absolute,despotic,
+
+ BARBAROUS 
+uncivilized,rough,coarse,rude,untutored,ignorant,unlettered,uncultivated,savage,barbarian,barbaric,cruel,inhuman,brutal,brutish,ferocious,ruthless,fell,truculent,fierce,bloody,harsh,vulgar,contrary,to good usage,
+
+ BASS 
+deep,grave,
+
+ BIG 
+great,large,huge,bulky,massive,massy,haughty,arrogant,proud,pompous,important,swelling,blustering,assuming,self-conceited,self-sufficient,pregnant,enceinte,with child,in the family way,
+
+ BASHFUL 
+shy,timid,timorous,coy,diffident,sheepish,shamefaced,over-modest,not self-possessed,
+
+ BASE 
+ignoble,plebeian,vulgar,untitled,nameless,unhonored,base-born,of low birth,vile,low,mean,despicable,contemptible,beggarly,abject,grovelling,sordid,servile,slavish,menial,sorry,worthless,pitiful,low-minded,rascally,shameful,disreputable,disgraceful,discreditable,dishonorable,scandalous,infamous,
+
+ AWAKE 
+not asleep,attentive,watchful,vigilant,alive,on the alert,
+
+ ALL-DEVOURING 
+omnivorous,
+
+ ADVENTUROUS 
+bold,daring,courageous,venturesome,venturous,chivalrous,doughty,enterprising,rash,reckless,precipitate,headlong,foolhardy,full of hazard,
+
+ BELATED 
+retarded,hindered,made late,
+
+ BEAUTIFUL 
+handsome,fair,fine,elegant,graceful,pretty,beauteous,
+
+ ARBORIFORM 
+dendriform,arborescent,
+
+ BYGONE 
+past,gone by,
+
+ BUCOLIC 
+pastoral,rustic,
+
+ ATOMICAL 
+of atoms,small,minute,
+
+ ANNUAL 
+yearly,anniversary,
+
+ ANCESTRAL 
+hereditary,patrimonial,
+
+ AGGREGATE 
+collected,
+
+ ACCOMPLISHED 
+instructed,educated,practised,experienced,finished,consummate,ripe,thorough-bred,versed,qualified,proficient,able,clever,apt,adroit,expert,talented,skilful,polished,refined,polite,elegant,fashionable,fine,
+
+ BROACHED 
+tapped,abroach,on tap,
+
+ APPURTENANT 
+belonging,
+
+ ADDLE-PATED 
+addle-headed,
+
+ BRIGHT 
+luminous,shining,resplendent,glowing,lustrous,beaming,gleaming,radiant,brilliant,effulgent,refulgent,splendid,beamy,silvery,argent,clear,transparent,lucid,pellucid,limpid,illustrious,glorious,famous,acute,ingenious,discerning,keen,intelligent,auspicious,promising,propitious,
+
+ ARIOSE 
+melodious,of a melodious character,characterized by,
+
+ ALIKE 
+similar,like,resembling,analogous,allied,equal,of,a piece,
+
+ CALCULABLE 
+computable,
+
+ BLONDE 
+fair,light,flaxen,
+
+ CAMBRIAN 
+welsh,
+
+ ABERRANT 
+deviating,wandering,rambling,diverging,divergent,devious,erratic,out of the way,irregular,abnormal,unnatural,unusual,singular,peculiar,anomalous,unconformable,exceptional,strange,anomalistic,eccentric,monstrous,preternatural,
+
+ BRINDLED 
+brinded,tabby,
+
+ ACICULAR 
+aciform,needle-shaped,
+
+ BOOSY 
+boozy,
+
+ BRAND-NEW 
+quite new,fire-new,spick and span new,span new,
+
+ APPULSIVE 
+impinging,striking against,
+
+ ALIVE 
+living,breathing,live,not dead,in life,above,ground,sensitive,susceptible,with keen perceptions,active,in force,in existence,cheerful,sprightly,lively,joyous,
+
+ AQUILINE 
+bent,curved,
+
+ BIVALVE 
+two-valved,bivalvular,
+
+ ACHROMATIC 
+colorless,uncolored,untinged,hueless,free from,color,
+
+ ARCHED 
+vaulted,bowed,camerated,concave,
+
+ BRASH 
+hasty,rash,impetuous,fragile,easily broken,
+
+ BACCHANAL 
+riotous,revelling,noisy,bacchanalian,
+
+ BOUNCING 
+lusty,strong,portly,burly,huge,great,strapping,
+
+ BECOMING 
+fit,proper,suitable,meet,appropriate,congruous,right,seemly,comely,graceful,neat,pretty,
+
+ ANNULAR 
+ring-shaped,
+
+ BOOTLESS 
+useless,unavailing,fruitless,futile,unprofitable,profitless,valueless,worthless,ineffectual,abortive,vain,idle,without avail,
+
+ APOLOGETICAL 
+excusatory,exculpatory,
+
+ CABALISTIC 
+occult,secret,mysterious,mystic,mystical,dark,
+
+ BLACKGUARD 
+scurrilous,abusive,contumelious,insulting,ribald,vituperative,reproachful,opprobrious,
+
+ ARGENT 
+of silver,silvery,bright,resplendent,shining,radiant,brilliant,beaming,effulgent,refulgent,
+
+ BRANCHING 
+arborescent,arboriform,dendriform,dendroid,dendritic,
+
+ APISH 
+mimicking,affected,foppish,trifling,
+
+ BESTIAL 
+beastly,brutal,brutish,irrational,sensual,
+
+ ASCRIBABLE 
+attributable,traceable,chargeable,imputable,referrible,owing,
+
+ ASSAILANT 
+attacking,invading,assaulting,
+
+ ABRUPT 
+broken,cragged,craggy,rough,rugged,steep,precipitous,sudden,unexpected,unanticipated,precipitate,hasty,unseasonable,ill-timed,unlooked for,short,blunt,unceremonious,curt,stiff,cramped,harsh,disconnected,unconnected,
+
+ ADULTEROUS 
+unchaste,rakish,dissolute,
+
+ ACCUMBENT 
+leaning,reclining,
+
+ BOREAL 
+northern,northerly,arctic,
+
+ AERIAL 
+atmospheric,aeriform,gaseous,vaporous,ethereal,airy,empyreal,light,high,lofty,
+
+ ABUSIVE 
+reproachful,opprobrious,scurrilous,ribald,contumelious,vituperative,condemnatory,damnatory,invective,calumnious,denunciatory,insulting,insolent,
+
+ ABNORMAL 
+irregular,anomalous,anomalistic,unusual,unnatural,singular,peculiar,unconformable,exceptional,heteroclite,aberrant,eccentric,erratic,strange,monstrous,preternatural,
+
+ BLESSED 
+happy,holy,hallowed,sacred,
+
+ ANGELICAL 
+seraphic,cherubic,heavenly,celestial,angel,
+
+ APPROPRIATE 
+adapted,fit,fitting,befitting,apt,pat,suitable,proper,becoming,due,seemly,agreeable,conformable,congruous,germane,convenient,pertinent,apposite,felicitous,applicable,apropos,to the point,to the purpose,
+
+ BIGOTED 
+prejudiced,crotchety,mulish,intolerant,narrow-,minded,wrong-headed,self-opinionated,over-zealous,creed-bound,wedded to an opinion,
+
+ APPETIZING 
+that whets the appetite,
+
+ ATTRIBUTABLE 
+ascribable,imputable,referrible,chargeable,traceable,owing,to be charged,to be attributed,to be imputed,
+
+ ACRID 
+sharp,biting,pungent,hot,burning,poignant,caustic,corrosive,severe,harsh,acrimonious,
+
+ ASPIRATE 
+aspirated,toneless,unintonated,atonic,surd,pronounced with a simple breathing,not vocal,without vocality,without tone,
+
+ ARBORESCENT 
+dendriform,dendrite,dendritic,arboriform,branching,
+
+ ARTIFICIAL 
+factitious,made by art,not natural,fictitious,feigned,counterfeited,sham,spurious,assumed,affected,forced,strained,
+
+ AZURE 
+blue,cerulean,sky-colored,sky-blue,
+
+ AGREEABLE 
+suitable,fitting,fit,proper,meet,appropriate,befitting,conformable,correspondent,accordant,concordant,consonant,pleasing,pleasant,pleasurable,grateful,gratifying,acceptable,welcome,good,goodly,delightful,charming,delectable,delicious,dulcet,sweet,to one's taste,to one's mind,after one's,fancy,conformable to,suitable to,accordant with,consonant with,tallying with,squaring with,consistent with,that,falls in with,pleasing to,grateful to,gratifying to,acceptable to,
+
+ ADORABLE 
+divine,to be adored,worthy of adoration,estimable,venerable,worthy of love or honor,
+
+ BUFF 
+light yellow,made of buff or buff-skin,
+
+ AMOROUS 
+loving,fond,enamored,amatory,erotic,tender,passionate,anacreontic,
+
+ AMPLE 
+large,great,capacious,wide,extended,extensive,spacious,broad,roomy,plentiful,plenteous,abundant,abounding,overflowing,copious,full,liberal,rich,exuberant,luxurious,lavish,bountiful,handsome,diffusive,unrestricted,not contracted,
+
+ BLOCKISH 
+stupid,stolid,heavy,doltish,unintelligent,dull,stockish,
+
+ ARCTIC 
+northern,boreal,
+
+ ARABLE 
+that may be ploughed,fit for the plough,suitable for,cultivation,
+
+ ACQUIESCENT 
+complying,yielding,submitting,
+
+ ACTIVE 
+practical,operative,living,vigorous,in action,in operation,busy,diligent,assiduous,industrious,indefatigable,unremitting,laborious,sedulous,notable,at work,hard at work,diligently employed,busily engaged,alert,nimble,agile,supple,brisk,dapper,stirring,spry,smart,quick,prompt,ready,lively,sprightly,spirited,enterprising,energetic,strong,efficient,in earnest,powerful,efficacious,
+
+ BENIGNANT 
+kind,benign,
+
+ BRIDAL 
+nuptial,connubial,hymeneal,matrimonial,conjugal,
+
+ ASSUASIVE 
+soothing,assuaging,emollient,lenient,lenitive,mitigating,mitigative,mild,
+
+ ACUTE 
+sharp,pointed,acuminated,cuspidated,keen,shrewd,discerning,knowing,quick,sharp,smart,bright,sage,sapient,sagacious,intelligent,astute,ingenious,subtle,penetrating,piercing,clear-sighted,sharp-witted,long-headed,up to,snuff,severe,violent,intense,poignant,exquisite,pungent,high,shrill,high-toned,
+
+ ANTIC 
+odd,fantastic,grotesque,wild,ridiculous,
+
+ BLOOD-THIRSTY 
+cruel,savage,ferocious,inhuman,barbarous,barbarian,fell,truculent,ruthless,bloody,murderous,bloody-minded,
+
+ ACADEMIC 
+scholastic,literary,lettered,
+
+ ALLIED 
+related,alike,similar,analogous,cognate,akin,kindred,of a piece,united,confederated,co-operating,in league,in co-operation,
+
+ ARBITRARY 
+irresponsible,absolute,tyrannical,tyrannous,imperious,domineering,bound by no law,optional,voluntary,determined by no rule or principle,
+
+ BIVALVED 
+two-valved,bivalvular,
+
+ ATHLETIC 
+strong,stout,robust,sturdy,brawny,muscular,lusty,sinewy,nervous,stalwart,powerful,strapping,herculean,able-,bodied,made of iron,gymnastic,
+
+ BLOODY 
+sanguinary,ensanguined,gory,murderous,cruel,blood-thirsty,
+
+ ABUNDANT 
+abounding,flowing,overflowing,plentiful,plenteous,copious,much,exuberant,luxuriant,replete,full,large,ample,good,liberal,bountiful,lavish,rich,teeming,thick,
+
+ ANY 
+any one,
+
+ ARROGANT 
+haughty,proud,supercilious,lordly,disdainful,contumelious,cavalier,overbearing,overweening,assuming,magisterial,dogmatic,imperious,important,swelling,blustering,big,high,lofty,stately,self-conceited,self-sufficient,uppish,
+
+ CALM 
+tranquil,serene,placid,quiet,still,smooth,halcyon,peaceful,undisturbed,composed,collected,unruffled,sedate,mild,cool,
+
+ BASTARD 
+illegitimate,spurious,false,counterfeit,not genuine,
+
+ BUSY 
+diligent,assiduous,industrious,sedulous,notable,active,working,hard-working,at work; diligently employed,engaged,or occupied,brisk,stirring,bustling,nimble,agile,spry,constantly in,motion,meddling,officious,importunate,
+
+ ADDITIONAL 
+superadded,adscititious,supplemental,supplementary,extra,more,
+
+ BEARISH 
+rough,rude,coarse,savage,boorish,uncivil,uncourteous,discourteous,impolite,ungentlemanly,
+
+ ARID 
+dry,dried up,parched with heat,
+
+ BUSKINED 
+dressed in buskins,
+
+ BETTER 
+more good,more excellent,good in a higher degree,more useful,more valuable,preferable,more desirable,more acceptable,more fit,more appropriate,more suitable,improved in health,less ill,more familiar,more intimate,
+
+ BUMPTIOUS 
+vain,egotistical,self-,opinionated,self-conceited,
+
+ ARISTOCRATIC 
+noble,princely,patrician,titled,of high,rank,haughty,proud,arrogant,disdainful,overweening,supercilious,overbearing,consequential,
+
+ BOGUS 
+counterfeit,false,
+
+ BOOK-LEARNED 
+versed in books,
+
+ AIRY 
+unsubstantial,aerial,ethereal,aeriform,thin,rare,light,subtile,sublimated,sprightly,buoyant,vivacious,wanton,volatile,jocund,jolly,jovial,lively,gay,blithe,light,light-hearted,light of heart,in,spirits,in good spirits,of good cheer,showy,gaudy,flaunting,jaunty,gairish,fine,windy,empty,
+
+ ADEQUATE 
+sufficient,commensurate,proportionate,correspondent,equal,suitable,fit,competent,adapted,
+
+ BRINY 
+salt,
+
+ APATHETIC 
+unfeeling,passionless,impassible,impassive,platonic,stoical,unimpressible,unsusceptible,insensible,senseless,soulless,phlegmatic,dull,obtuse,cold,sluggish,torpid,tame,lukewarm,indifferent,callous,dead,cold-blooded,without,sensibility,destitute of feeling,
+
+ BLOODY-MINDED 
+blood-thirsty,
+
+ ALIEN 
+foreign,not native,estranged,differing,remote,unallied,separated,unconnected,
+
+ BEMUSED 
+stupefied,confused,bewildered,muzzy,half-drunk,
+
+ BENIGHTED 
+overtaken with night,involved in darkness,
+
+ ALERT 
+watchful,vigilant,circumspect,wary,heedful,on,the alert,on one's guard,on the watch,on the lookout,active,brisk,nimble,agile,smart,lively,sprightly,spirited,supple,quick,spry,ready,prompt,
+
+ ANACREONTIC 
+amatory,amorous,erotic,
+
+ AFOREMENTIONED 
+aforesaid,
+
+ BURLY 
+stout,lusty,brawny,portly,bulky,strong,strapping,bouncing,boisterous,noisy,blustering,swaggering,bullying,hectoring,coarse and rough,
+
+ BLEAR-EYED 
+dim-sighted,
+
+ AMBIGUOUS 
+doubtful,dubious,uncertain or equivocal,enigmatical,indefinite,indistinct,vague,indeterminate,not plain,not clear,susceptible of more than one meaning,
+
+ ARRANT 
+notorious,utter,gross,downright,consummate,rank,thorough-going,infamous,vile,atrocious,monstrous,
+
+ ANOMALOUS 
+irregular,abnormal,anomalistic,unconformable,preternatural,unnatural,unusual,singular,peculiar,exceptional,aberrant,eccentric,erratic,monstrous,out of the way,
+
+ BLAMEWORTHY 
+culpable,censurable,reprehensible,faulty,blamable,
+
+ AFFLICTIVE 
+afflicting,
+
+ AUTOCHTHONOUS 
+aboriginal,original,primitive,primeval,pristine,primary,first,native,indigenous,
+
+ ARABIC 
+arabian,
+
+ CALCULOUS 
+stony,gritty,
+
+ BIVALVULAR 
+two-valved,bivalve,
+
+ BRITTLE 
+fragile,crumbling,shivery,frail,frangible,brash,easily shivered,
+
+ BEFOREHAND 
+forehanded,well off,well to do,
+
+ BURDENSOME 
+heavy,oppressive,onerous,troublesome,grievous,hard to bear,
+
+ AWRY 
+oblique,slanting,distorted,crooked,wry,
+
+ ABOMINABLE 
+hateful,odious,detestable,horrid,horrible,execrable,nefarious,damnable,cursed,accursed,hellish,loathsome,offensive,obnoxious,foul,nauseous,nauseating,disgusting,sickening,repulsive,revolting,shocking,vile,wretched,sorry,scurvy,shabby,bad,
+
+ CALUMNIOUS 
+slanderous,abusive,defamatory,contumelious,opprobrious,vituperative,scurrilous,insulting,
+
+ BODILESS 
+incorporeal,without a body,
+
+ ATMOSPHERICAL 
+aerial,of the atmosphere,
+
+ ABLE 
+clever,accomplished,talented,adroit,ingenious,expert,dexterous,apt,quick,skilful,efficient,proficient,good,versed,practical,au fait,qualified,fitted,competent,capable,gifted,powerful,strong,mighty,highly endowed,masterly,effective,telling,
+
+ BOLD-FACED 
+impudent,bold,
+
+ AMISS 
+wrong,improper,faulty,erroneous,
+
+ ABHORRENT 
+hating,detesting,abominating,loathing,odious,offensive,shocking,repugnant,hateful,loathsome,
+
+ ARABIAN 
+arabic,
+
+ BELOVED 
+dear,darling,much loved,
+
+ BODILY 
+of the body,corporeal,
+
+ BRINDED 
+brindled,tabby,
+
+ ADEPT 
+skilled,versed,experienced,practised,proficient,good,at home,au fait,
+
+ CADAVEROUS 
+pale,pallid,wan,ghastly,death-like,
+
+ AUDACIOUS 
+bold,daring,fearless,courageous,intrepid,venturesome,dauntless,undaunted,valiant,stout-hearted,presumptuous,assuming,forward,impudent,insolent,
+
+ ADDLE-HEADED 
+foolish,stupid,dull,doltish,brainless,shallow,soft,sappy,witless,blockish,weak-headed,weak-minded,feeble-minded,half-witted,short-witted,shallow-brained,dull-,witted,thick-skulled,addle-pated,
+
+ ANONYMOUS 
+nameless,without the name of the author,
+
+ BAREFACED 
+undisguised,unreserved,unconcealed,palpable,conspicuous,glaring,notable,notorious,impudent,presumptuous,shameless,audacious,
+
+ ANGRY 
+provoked,exasperated,irritated,incensed,piqued,indignant,moody,sulky,stuffy,irate,ireful,wroth,wrathful,storming,infuriate,mad,in a passion,out of humor,out of temper,out of tune,
+
+ ATRABILIOUS 
+melancholy,hypochondriacal,hypped,dejected,dispirited,depressed,gloomy,sad,sorrowful,blue,desponding,downcast,down-hearted,chop-fallen,low-spirited,cast down,down in,the mouth,in the dumps,with a long face,
+
+ BOTH 
+the two,the one and the other,
+
+ ABANDONED 
+relinquished,deserted,forsaken,cast away,rejected,discarded,given up,given over,cast off,depraved,corrupted,corrupt,profligate,vicious,sinful,wicked,dissolute,reprobate,graceless,shameless,unprincipled,lost,obdurate,hardened,impenitent,incorrigible,irreclaimable,demoralized,lost to shame,dead to honor,
+
+ ANXIOUS 
+solicitous,uneasy,restless,unquiet,apprehensive,careful,greatly concerned,
+
+ BLITHE 
+cheerful,gay,sprightly,lively,animated,elated,vivacious,joyous,joyful,merry,mirthful,jocund,sportive,airy,buoyant,debonair,blithesome,of good cheer,in high spirits,in good,spirits,full of life,full of spirit,
+
+ ANIMATING 
+cheering,inspiring,enlivening,encouraging,spirit-,stirring,heart-stirring,
+
+ BACKHANDED 
+outward and backward,indirect,unfair,
+
+ ASCETIC 
+austere,rigid,severe,stern,puritanical,uncompromising,
+
+ BRAVE 
+courageous,intrepid,daring,undaunted,dauntless,valiant,bold,chivalrous,chivalric,gallant,valorous,doughty,heroic,spartan,lion-hearted,
+
+ AIR-TIGHT 
+hermetic,hermetical,
+
+ ALLODIAL 
+independent,freehold,not feudal,free of rent or,service,
+
+ BEATIFIC 
+ravishing,enchanting,
+
+ AFFABLE 
+conversable,communicative,free,unreserved,open,sociable,social,courteous,complaisant,civil,polite,obliging,urbane,debonair,familiar,easy,gracious,mild,condescending,well-bred,
+
+ ACCURSED 
+cursed,unsanctified,unholy,detestable,execrable,hateful,abominable,odious,horrid,horrible,damnable,
+
+ BOON 
+kind,bountiful,generous,gay,merry,jovial,jolly,convivial,
+
+ AWKWARD 
+unskilful,bungling,unhandy,maladroit,inapt,without dexterity,unwieldy,unmanageable,inconvenient,unfit,lumbering,uncouth,unrefined,unpolished,uncourtly,rude,rough,clumsy,coarse,wooden,inelegant,ungainly,untoward,ungraceful,stiff,constrained,uneasy,rustic,boorish,clownish,loutish,gawky,lubberly,slouching,
+
+ BROAD 
+wide,large,ample,extensive,expanded,extended,vast,spread,diffused,open,gross,coarse,indelicate,vulgar,obscene,
+
+ AMAZING 
+astonishing,astounding,stupendous,wonderful,surprising,marvellous,miraculous,strange,very extraordinary,
+
+ ACADEMICAL 
+scholastic,literary,lettered,platonic,of plato,
+
+ ALLOWABLE 
+permissible,admissible,lawful,proper,justifiable,warrantable,
+
+ BIBLICAL 
+scriptural,
+
+ ADMIRABLE 
+surprising,striking,astonishing,excellent,incomparable,inimitable,fine,rare,transcendent,matchless,perfect,first-rate,worthy of admiration,
+
+ BUNGLING 
+clumsy,awkward,unhandy,unskilful,maladroit,inapt,ill-done,
+
+ AUSPICIOUS 
+prosperous,successful,fortunate,lucky,happy,red-letter,propitious,promising,favorable,seasonable,opportune,golden,bright,
+
+ AMBULATORY 
+walking,moving,
+
+ ALL-SUFFICIENT 
+almighty,all-powerful,
+
+ BROKEN 
+shattered,rent,severed,separated,weakened,impaired,feeble,shaken,spent,wasted,exhausted,abrupt,craggy,steep,precipitous,rough,
+
+ ALL-WISE 
+omniscient,all-knowing,all-seeing,
+
+ ACUMINATE 
+acute,pointed,cuspidate,cuspidated,
+
+ ATTAINABLE 
+compassable,achievable,practicable,feasible,possible,
+
+ ATTENDANT 
+accompanying,attending,
+
+ ACIDULOUS 
+sourish,somewhat acid,slightly acid,subacid,somewhat sour,
+
+ APPLICABLE 
+suitable,fit,fitting,befitting,appropriate,relevant,adapted,apt,proper,pertinent,apposite,germane,to the,point,to the purpose,
+
+ BOYISH 
+of boyhood,childish,puerile,
+
+ BRAYING 
+blatant,bellowing,clamorous,vociferous,noisy,obstreperous,
+
+ ANOMALISTIC 
+anomalous,
+
+ ABSTRACT 
+separate,isolated,not concrete,occult,recondite,subtile,refined,abstracted,abstruse,
+
+ BARBARIAN 
+uncivilized,rude,savage,barbarous,barbaric,inhuman,brutal,cruel,unfeeling,ruthless,truculent,ferocious,fierce,fell,bloody,brutish,
+
+ BARE 
+naked,nude,denuded,uncovered,unclothed,undressed,simple,sheer,mere,
+
+ AGED 
+old,elderly,stricken in years,advanced in life,with one foot in the grave,having lived,of the age of,
+
+ BEST 
+most good,most excellent,superlatively good,good,in the highest degree,most wise,most judicious,most expedient,
+
+ BUCOLICAL 
+pastoral,rustic,
+
+ BEETLE-HEADED 
+dull,stupid,obtuse,foolish,senseless,witless,insensible,sluggish,slow of apprehension,void of,understanding,
+
+ BEATEN 
+worn by use,much travelled,hackneyed,trite,common,common-place,
+
+ BLATANT 
+bellowing,braying,clamorous,obstreperous,vociferous,noisy,
+
+ APPEASABLE 
+placable,forgiving,reconcilable,
+
+ AKIN 
+kin,related,allied,kindred,cognate,congenial,homogeneous,analogous,similar,parallel,of a piece,
+
+ ADDITIVE 
+to be added,
+
+ ANALEPTIC 
+restorative,strengthening,invigorating,comforting,
+
+ ASTRAL 
+starry,stellar,sidereal,
+
+ ASH-COLORED 
+ashy,pale,gray,
+
+ ATHEISTIC 
+godless,given to atheism,
+
+ BOMBASTIC 
+inflated,turgid,tumid,swelling,stilled,grandiloquent,pompous,sophomorical,high-flown,high-sounding,highfalutin,
+
+ BEASTLY 
+brutish,brutal,bestial,sensual,irrational,
+
+ BLASE 
+[fr.] surfeited,cloyed,satiated,palled,incapable of,
+
+ BALD 
+unadorned,inelegant,prosaic,dull,meagre,vapid,tame,
+
+ CAMONS 
+flat,
+
+ ABORIGINAL 
+primitive,primeval,primordial,pristine,primary,prime,original,first,native,indigenous,autochthonal,
+
+ ASHAMED 
+abashed,confused,put out of countenance,
+
+ BUOYANT 
+tending to float,light,cheerful,hopeful,lively,sprightly,vivacious,animated,spirited,joyful,joyous,gay,blithe,blithesome,jocund,sportive,elated,jubilant,in good spirits,in high spirits,full of life,full,of spirit,
+
+ AWFUL 
+venerable,august,grand,stately,imposing,solemn,majestic,dread,dreadful,fearful,horrible,horrid,terrible,dire,direful,frightful,appalling,tremendous,homely,unsightly,ill-looking,
+
+ ARCH 
+chief,principal,consummate,first-rate,of the,first class,sly,shrewd,cunning,wily,astute,subtle,roguish,waggish,mirthful,frolicsome,sportive,merry,playful,
+
+ AMARANTHINE 
+unfading,imperishable,undecaying,undying,immortal,perennial,ever-blooming,ever-vernal,
+
+ ARTICULATED 
+jointed,articulate,
+
+ BRUSQUE 
+[fr.] rude,rough,blunt,unceremonious,abrupt,bluff,gruff,ungentle,uncivil,ungracious,bearish,discourteous,uncourteous,impolite,
+
+ BRUTAL 
+savage,ferocious,cruel,inhuman,unfeeling,barbarous,barbarian,fell,barbaric,ruthless,truculent,bloody,brutish,brute,churlish,gruff,bearish,harsh,uncivil,rude,rough,impolite,unmannerly,brusque,ungentlemanly,gross,coarse,sensual,carnal,brutish,beastly,bestial,
+
+ BEARABLE 
+tolerable,endurable,supportable,
+
+ CAMERATED 
+arched,vaulted,bowed,
+
+ AXIOMATICAL 
+self-evident,certain,positive,absolute,
+
+ BIG-SOUNDING 
+high-sounding,
+
+ ARCHING 
+vaulted,curving,
+
+ ABORTIVE 
+miscarrying,failing,untimely,immature,unavailing,vain,fruitless,useless,bootless,ineffectual,ineffective,inoperative,unsuccessful,profitless,futile,unprofitable,idle,nugatory,in vain,of no account,
+
+ BOUNDLESS 
+unbounded,unlimited,unconfined,undefined,immeasurable,illimitable,infinite,
+
+ ARTICULATE 
+distinctly uttered,
+
+ BASE-BORN 
+base,of low birth,
+
+ AGGRESSIVE 
+attacking,assaulting,assailing,assailant,invading,offensive,
+
+ BOLD-SPIRITED 
+courageous,bold,
+
+ ADDLE 
+putrid,corrupt,barren,unfruitful,fruitless,abortive,unproductive,unprolific,unfertile,sterile,infecund,addled,
+
+ AVID 
+greedy,
+
+ ADOLESCENT 
+youthful,juvenile,young,
+
+ ANTECEDENT 
+preceding,precedent,previous,prior,anterior,foregoing,precursory,forerunning,going before,
+
+ BLASPHEMOUS 
+impious,irreverent,profane,
+
+ ASPIRATED 
+aspirate,
+
+ BRACING 
+strengthening,invigorating,
+
+ ATTRACTIVE 
+alluring,inviting,enticing,fascinating,captivating,charming,winning,bewitching,enchanting,engaging,interesting,prepossessing,taking,pleasing,pleasant,lovely,sweet,magnetic,magnetical,
+
+ AFFECTING 
+moving,touching,pathetic,impressive,
+
+ BLUNT 
+dull,obtuse,pointless,edgeless,abrupt,bluff,gruff,rough,rude,ungentle,uncivil,ungracious,bearish,discourteous,uncourteous,impolite,brusque,not gentle,
+
+ APPOSITE 
+apt,pertinent,relevant,fit,fitting,befitting,suitable,appropriate,seasonable,germane,apropos,to the purpose,to the point,well applied,well put,
+
+ ADUNCOUS 
+crooked,hooked,bent,curved,
+
+ AFFECTIONATE 
+loving,fond,attached,devoted,warm,tender,kind,sympathetic,tender-hearted,warm-hearted,
+
+ BEARDED 
+barbed,awned,
+
+ ASTRINGENT 
+binding,contracting,styptic,
+
+ ACCESSORY 
+assisting,accessary,
+
+ BEHOLDEN 
+obliged,indebted,grateful,thankful,under,obligation,
+
+ BALEFUL 
+hurtful,injurious,noxious,mischievous,pernicious,baneful,ruinous,deadly,fraught with evil,
+
+ AFFLICTING 
+grievous,painful,distressing,calamitous,disastrous,afflictive,sad,unhappy,unfortunate,unlucky,wretched,dire,deplorable,sore,woful,severe,hard,trying,hard to bear,
+
+ ABSORBENT 
+absorbing,imbibing,
+
+ BEHINDHAND 
+backward,late,tardy,after the usual time,
+
+ BANGING 
+large,great,
+
+ AUTOCHTHONAL 
+aboriginal,original,primitive,primeval,pristine,primary,first,native,indigenous,
+
+ ACCOUNTABLE 
+responsible,answerable,amenable,liable,
+
+ AWE-STRUCK 
+dismayed,horrified,appalled,terrified,frightened,panic-stricken,horror-struck,
+
+ ALTERABLE 
+changeable,variable,mutable,
+
+ BENEFICIAL 
+useful,profitable,advantageous,helpful,serviceable,salutary,good,for one's advantage,for one's good,for,one's interest,
+
+ ARROW-HEADED 
+wedge-shaped,cuneiform,
+
+ BELLIGERENT 
+carrying on war,engaged in war,waging war,of belligerents,warlike,hostile,
+
+ BLITHESOME 
+cheerful,gay,blithe,
+
+ ATRABILIARY 
+melancholy,atrabilious,
+
+ AWNED 
+bearded,
+
+ BANEFUL 
+poisonous,venomous,destructive,noxious,hurtful,injurious,pernicious,mischievous,baleful,deadly,ruinous,fraught with evil,

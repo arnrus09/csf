@@ -1,0 +1,1734 @@
+
+ PLUMB 
+vertical,upright,
+
+ PASSIONLESS 
+impassive,unsusceptible,unimpressible,apathetic,cold,phlegmatic,stoical,cold-blooded,without passion or,feeling,cool,calm,collected,unmoved,imperturbable,of a calm temper,
+
+ PEPPERY 
+hot,pungent,high-seasoned,irritable,irascible,touchy,testy,waspish,snappish,snarling,churlish,choleric,petulant,excitable,passionate,hasty,quick,like tinder,like touch-wood,
+
+ PRESCIENT 
+foreknowing,foreseeing,prophetic,
+
+ PHONETICAL 
+phonic,phonical,
+
+ PAVONINE 
+iridescent,irisated,nacreous,
+
+ POPULOUS 
+crowded,thickly settled,
+
+ PLAINTIVE 
+complaining,lamenting,moaning,mournful,sorrowful,sad,piteous,woful,rueful,grievous,dirge-,like,
+
+ PAINFUL 
+tormenting,torturing,agonizing,racking,distressing,distressful,excruciating,grievous,afflicting,afflictive,disquieting,troublesome,displeasing,provoking,annoying,vexatious,unpleasant,disagreeable,toilsome,arduous,difficult,hard,severe,
+
+ PLUMP 
+stout,corpulent,portly,fat,bouncing,chubby,fleshy,round,bonny,obese,burly,in good case,complete,full,downright,direct,unqualified,
+
+ RELISHABLE 
+gustable,
+
+ PROPHETIC 
+predictive,foretelling,predicting,
+
+ PATHETIC 
+affecting,touching,moving,melting,tender,plaintive,
+
+ PROVISORY 
+provisional,
+
+ RESIDUAL 
+remaining,
+
+ POIGNANT 
+sharp,severe,piercing,penetrating,intense,pungent,biting,acrid,keen,pointed,caustic,irritating,
+
+ ROGUISH 
+knavish,dishonest,trickish,tricky,sportive,arch,mischievous,waggish,
+
+ PRECIOUS 
+costly,of great price,very valuable,of great worth,of great value,dear,beloved,darling,very estimable,highly esteemed or valued,
+
+ PARALLEL 
+in conformity,in harmony,in accordance,like,similar,analogous,resembling,allied,of a piece,
+
+ PRESENT 
+at hand,not absent,instant,current,existing,not past nor future,
+
+ PRUDENTIAL 
+politic,prudent,
+
+ REFRESHING 
+reviving,invigorating,grateful,pleasant,comfortable,
+
+ RESTIFF 
+restive,
+
+ PULVERABLE 
+crumbling,brittle,friable,crisp,pulverizable,easily crumbled,
+
+ RECLINING 
+leaning,recumbent,resting,reposing,
+
+ REGARDLESS 
+heedless,unmindful,careless,negligent,unobservant,mindless,inattentive,
+
+ PREDACIOUS 
+rapacious,predatory,
+
+ RISKY 
+hazardous,perilous,unsafe,full of risk,
+
+ REMARKABLE 
+noticeable,observable,notable,extraordinary,uncommon,unusual,singular,strange,rare,distinguished,famous,eminent,conspicuous,prominent,striking,
+
+ RAYED 
+striped,streaked,
+
+ RANK 
+luxuriant,vigorous,exuberant,over-abundant,excessive,overmuch,extravagant,rampant,very great,rancid,musty,fusty,fetid,offensive,frowzy,strong-smelling,strong-scented,
+
+ OWING 
+due,
+
+ PRESUMABLE 
+probable,reasonable,likely,credible,that stands,to reason,
+
+ PLATEAU 
+table-land,
+
+ PURITANICAL 
+strict,rigid,ascetic,
+
+ PENURIOUS 
+parsimonious,covetous,avaricious,illiberal,miserly,niggardly,sordid,mercenary,close,stingy,mean,close-,fisted,hard-fisted,
+
+ RASH 
+headlong,hasty,precipitate,heedless,thoughtless,inconsiderate,indiscreet,impulsive,fool-,hardy,hot-headed,hot-brained,hare-brained,without ballast,
+
+ PREJUDICIAL 
+hurtful,mischievous,injurious,detrimental,deleterious,damaging,disadvantageous,
+
+ PRIMORDIAL 
+original,primitive,
+
+ QUERULOUS 
+complaining,murmuring,querimonious,petulant,peevish,cross,dissatisfied,discontented,fault-finding,
+
+ REFLECTIVE 
+reflecting,reflexive,thoughtful,musing,deliberating,pondering,cogitating,
+
+ RED-LETTER 
+fortunate,lucky,happy,auspicious,
+
+ PECCABLE 
+frail,weak,imperfect,erring,sinning,liable to sin,
+
+ PHARISAIC 
+sanctimonious,hypocritical,
+
+ PARTY-COLORED 
+variegated,piebald,many-colored,many-hued,divers-colored,of all manner of colors,
+
+ PLENTEOUS 
+abundant,plentiful,
+
+ PATRICIAN 
+noble,senatorial,aristocratic,high-born,not,plebeian,well-born,
+
+ PRODIGIOUS 
+marvellous,wonderful,portentous,amazing,astonishing,surprising,astounding,strange,startling,extraordinary,uncommon,wondrous,miraculous,very strange,unheard of,enormous,monstrous,huge,
+
+ PRONE 
+recumbent,lying,flat,sloping,inclining,disposed,inclined,tending,
+
+ PAGAN 
+heathenish,heathen,
+
+ PECULIAR 
+that specially pertains,that belongs exclusively,singular,particular,characteristic,special,exceptional,rare,not common,not general,
+
+ PEEVISH 
+fretful,petulant,querulous,irritable,waspish,snappish,pettish,captious,cross,crusty,snarling,testy,churlish,crabbed,acrimonious,irritable,
+
+ RETICENT 
+reserved,taciturn,
+
+ RAMOSE 
+branchy,
+
+ PROFOUND 
+deep,penetrating,sagacious,skilled,not superficial,lively,vivid,strong,deep-felt,lowly,humble,submissive,
+
+ PROUD 
+conceited,over-weening,egotistical,assuming,arrogant,haughty,supercilious,presumptuous,lordly,lofty,vain-glorious,high-spirited,high-strung,grand,stately,noble,
+
+ PRIOR 
+former,preceding,previous,anterior,antecedent,precedent,foregoing,precursory,
+
+ PLUMOSE 
+feathery,
+
+ PERVIOUS 
+permeable,penetrable,
+
+ PHONETIC 
+phonic,phonical,
+
+ PRECISE 
+exact,correct,definite,strict,express,distinct,explicit,nice,well-defined,formal,ceremonious,stiff,starch,starched,prim,punctilious,
+
+ PERTURBED 
+disturbed,disquieted,distressed,agitated,discomposed,excited,worried,vexed,
+
+ PHYTIVOROUS 
+grass-eating,graminivorous,phytophagous,
+
+ PROMPT 
+ready,quick,apt,early,timely,punctual,
+
+ RETROACTIVE 
+reflex,retrospective,that affects the past,
+
+ RELIANT 
+confident,trusting,
+
+ PITIABLE 
+deplorable,wretched,miserable,piteous,deserving,pity,to be pitied,
+
+ QUEER 
+odd,strange,singular,droll,whimsical,quaint,curious,fantastic,unusual,uncommon,extraordinary,unique,
+
+ PALE 
+pallid,wan,ashy,whitish,colorless,cadaverous,not ruddy,dim,sombre,
+
+ PREFATORY 
+introductory,preliminary,prelusive,prelusory,precursory,proemial,preparatory,
+
+ PETTY 
+little,small,trifling,trivial,frivolous,inconsiderable,unimportant,insignificant,slight,of small moment,of small account,inferior,of a low grade,
+
+ REFRACTIVE 
+refracting,
+
+ PRANKISH 
+sportive,playful,jovial,frolicsome,gamesome,full,of play,full of fun,
+
+ PITIFUL 
+compassionate,tender,tender-hearted,sympathetic,kind,merciful,lenient,mild,mean,base,vile,low,paltry,sorry,abject,rascally,contemptible,despicable,insignificant,worthless,
+
+ PRIGGISH 
+conceited,pert,saucy,coxcomical,
+
+ PENNILESS 
+moneyless,destitute,poor,necessitous,needy,indigent,distressed,pinched,reduced,short of money,out of money,out of cash,out of pocket,in need,in want,
+
+ POSTERIOR 
+subsequent,following,later,after,succeeding,ensuing,hind,hinder,back,rear,
+
+ PALMIPED 
+web-footed,
+
+ REFERRIBLE 
+ascribable,attributable,referable,to be referred,
+
+ REMOVED 
+secluded,sequestered,remote,
+
+ PROPORTIONABLE 
+proportional,
+
+ RESPONSIBLE 
+answerable,liable,accountable,amenable,
+
+ PROFANE 
+irreverent,irreligious,blasphemous,wicked,sacrilegious,impious,unhallowed,impure,polluted,secular,not sacred,
+
+ PARRICIDAL 
+patricidal,
+
+ PLAIN 
+even,level,smooth,flat,plane,manifest,visible,obvious,clear,unmistakable,apparent,certain,palpable,conspicuous,notable,notorious,glaring,patent,open,evident,unequivocal,unambiguous,distinct,explicit,intelligible,perspicuous,simple,unadorned,unvarnished,homely,ugly,ill-looking,ill-favored,not handsome,artless,natural,honest,sincere,candid,frank,open,downright,direct,unsophisticated,ingenuous,undesigning,straightforward,single-minded,open-hearted,above-board,
+
+ RITUAL 
+ceremonial,
+
+ PIERCING 
+penetrating,perforating,sharp,keen,acute,thrilling,
+
+ PENITENT 
+repentant,contrite,
+
+ ROBUST 
+strong,athletic,brawny,stout,sinewy,muscular,stalwart,hale,lusty,sturdy,firm,sound,vigorous,powerful,mighty,herculean,able-bodied,made of iron,
+
+ PANIC-STRICKEN 
+dismayed,terrified,horrified,appalled,frightened,horror-struck,
+
+ PRIM 
+formal,stiff,precise,starch,starched,strait-laced,in buckram,
+
+ PROVOCATIVE 
+stimulating,exciting,that excites or provokes,
+
+ RETICULATED 
+meshy,retiform,
+
+ PETULANT 
+irascible,irritable,fretful,peevish,hasty,touchy,testy,crusty,pettish,waspish,choleric,snappish,snarling,cross,crabbed,captious,censorious,acrimonious,perverse,froward,ill-tempered,out of sorts,
+
+ PAROL 
+verbal,by word of mouth,
+
+ PACIFIC 
+conciliatory,appeasing,mild,peace-making,peaceful,peaceable,tranquil,gentle,calm,smooth,quiet,unruffled,
+
+ QUICK-SIGHTED 
+sharp-sighted,lynx-eyed,quick-eyed,eagle-,eyed,hawk-eyed,
+
+ POINTED 
+peaked,sharp,personal,distinct,marked,epigrammatic,keen,poignant,
+
+ RIOTOUS 
+revelling,luxurious,wanton,tumultuous,seditious,turbulent,insubordinate,mutinous,rebellious,disorderly,ungovernable,unruly,refractory,
+
+ RETICULAR 
+meshy,retiform,
+
+ POSITIVE 
+express,direct,explicit,determinate,defined,precise,definite,clear,unequivocal,unmistakable,categorical,expressed,laid down,not implied,real,actual,veritable,substantial,true,absolute,existing in,fact,not ideal,not imagined,not negative,confident,sure,assured,certain,fully convinced,dogmatic,stubborn,peremptory,obstinate,over-confident,tenacious,
+
+ READABLE 
+legible,that may be read,worth reading,fit to be read,
+
+ REDOUBTABLE 
+formidable,dreadful,
+
+ PENTAGONAL 
+five-angled,five-cornered,
+
+ RAPTORIAL 
+preying,rapacious,raptorious,
+
+ PRURIENT 
+itching,longing,hankering,craving,lustful,
+
+ REVENGEFUL 
+vindictive,malicious,malignant,spiteful,resentful,unforgiving,implacable,vengeful,rancorous,malevolent,
+
+ PARADOXICAL 
+incredible,puzzling,inconceivable,
+
+ PINCHED 
+distressed,straitened,reduced,indigent,destitute,needy,poor,necessitous,penniless,moneyless,in need,in want,out,of money,out of cash,out of pocket,
+
+ PERPLEXING 
+troublesome,puzzling,embarrassing,bewildering,confusing,
+
+ PESTILENTIAL 
+pestiferous,infectious,contagious,catching,malignant,poisonous,mischievous,destructive,deleterious,noxious,ruinous,deadly,
+
+ PAYING 
+remunerative,profitable,gainful,that pays,
+
+ PREVALENT 
+superior,victorious,predominant,successful,powerful,efficacious,effectual,established,current,ordinary,usual,prevailing,widely extended,most general,
+
+ REMORSELESS 
+unpitying,relentless,pitiless,uncompassionate,unrelenting,cruel,ruthless,merciless,unmerciful,savage,implacable,
+
+ PERCEPTIBLE 
+visible,discernible,apparent,in sight,to be,seen,
+
+ REPROACHABLE 
+censurable,reprehensible,
+
+ PRESUMPTIVE 
+grounded on probable evidence,
+
+ PARAMOUNT 
+supreme,superior,preeminent,principal,chief,
+
+ PASSIONATE 
+warm,ardent,earnest,vehement,excited,animated,fiery,enthusiastic,fervent,glowing,burning,zealous,violent,furious,impetuous,impulsive,irascible,excitable,choleric,hasty,touchy,hot,peppery,hot-,tempered,quick-tempered,
+
+ RESERVED 
+restrained,backward,cautious,cold,incommunicative,unsociable,unsocial,shy,bashful,coy,diffident,taciturn,modest,demure,
+
+ RESTLESS 
+unquiet,uneasy,disquieted,disturbed,agitated,anxious,restive,unsteady,inconstant,changeable,unstable,unsettled,vacillating,fickle,roving,wandering,in motion,on the move,
+
+ PENSILE 
+hanging,suspended,pendent,pendulous,
+
+ QUADRILATERAL 
+four-sided,
+
+ PROBLEMATICAL 
+uncertain,doubtful,dubious,questionable,disputable,enigmatical,puzzling,unsettled,
+
+ PUGNACIOUS 
+quarrelsome,fighting,contentious,
+
+ RENOWNED 
+distinguished,famous,celebrated,eminent,illustrious,noted,famed,honored,far-famed,
+
+ RECTILINEAL 
+right-lined,
+
+ PROLIFIC 
+fruitful,fertile,productive,generative,teeming,
+
+ RIBALD 
+base,low,mean,obscene,vile,filthy,gross,coarse,loose,indecent,
+
+ PROFICIENT 
+skilled,skilful,conversant,competent,well-,versed,qualified,practised,trained,accomplished,able,thoroughbred,finished,good,at home,au fait,
+
+ QUIXOTIC 
+visionary,imaginary,wild,fanciful,freakish,utopian,chimerical,fantastical,absurdly romantic,
+
+ REDOLENT 
+fragrant,odoriferous,aromatic,balmy,sweet-,scented,sweet-smelling,
+
+ RECTILINEAR 
+right-lined,
+
+ PROTUBERANT 
+projecting,prominent,salient,bulging,
+
+ REPARATIVE 
+restoring,restorative,reviving,
+
+ PRINCELY 
+royal,regal,imperial,exalted,august,grand,stately,dignified,munificent,beneficent,generous,liberal,bounteous,bountiful,noble,
+
+ PALATIAL 
+stately,magnificent,
+
+ PREDETERMINED 
+foregone,
+
+ PREDICABLE 
+affirmable,
+
+ REQUISITE 
+needful,needed,necessary,essential,indispensable,
+
+ PROFITLESS 
+useless,worthless,fruitless,bootless,unprofitable,valueless,of no use,
+
+ PARSIMONIOUS 
+stingy,close,avaricious,niggardly,miserly,mean,penurious,grasping,covetous,close-fisted,sordid,very,saving,excessively frugal,
+
+ RASORIAL 
+gallinaceous,
+
+ RIFE 
+prevailing,prevalent,common,abounding,
+
+ RIGHT 
+straight,direct,rectilinear,not crooked,just,lawful,equitable,fair,rightful,honest,in accordance,with duty,fit,suitable,seemly,proper,meet,becoming,appropriate,as it,should be,comme il faut,correct,true,not erroneous,not mistaken,right hand,
+
+ PERTINACIOUS 
+constant,steady,firm,determined,resolute,steadfast,stanch,stubborn,obstinate,dogged,wilful,mulish,unyielding,intractable,headstrong,perverse,wayward,cantankerous,pig-headed,
+
+ PREVENTIVE 
+prophylactic,
+
+ PROSTRATE 
+prostrated,prone,stretched out,exhausted,fainting,sinking,overcome,
+
+ RICKETY 
+affected with the rickets,shattered,broken,weak,tottering,crazy,
+
+ ROBORANT 
+strengthening,
+
+ RECONCILABLE 
+appeasable,placable,forgiving,consistent,
+
+ POLISHED 
+burnished,made bright or glossy,refined,accomplished,cultivated,elegant,polite,classic,classical,attic,
+
+ REGENERATED 
+regenerate,
+
+ POT-BELLIED 
+large-bellied,great-bellied,big-bellied,tun-,bellied,abdominous,
+
+ PRECARIOUS 
+uncertain,unsettled,unsteady,doubtful,dubious,equivocal,insecure,not to be depended upon,
+
+ PURSY 
+fat,corpulent,fleshy,plump,short-breathed,short-winded,
+
+ RAW 
+uncooked,inexperienced,unskilled,unprepared,green,cold,bleak,chilly,unmanufactured,in the natural state,
+
+ REPROACHFUL 
+opprobrious,scurrilous,abusive,railing,scolding,upbraiding,vituperative,condemnatory,censorious,damnatory,invective,
+
+ READY 
+prepared,in readiness,prompt,quick,expeditious,apt,expert,dexterous,adroit,clever,quick,sharp,smart,willing,disposed,inclined,near,handy,convenient,commodious,at hand,easy,opportune,facile,short,
+
+ PREVIOUS 
+antecedent,prior,former,preceding,anterior,foregoing,
+
+ RANDOM 
+chance,casual,fortuitous,
+
+ PASTORAL 
+rural,rustic,of shepherds,bucolic,ministerial,of a pastor,
+
+ PENSIVE 
+thoughtful,meditative,reflective,dreamy,sober,expressive of sadness,
+
+ PERK 
+pert,perky,
+
+ PIDDLING 
+trifling,trivial,frivolous,petty,unimportant,insignificant,immaterial,inconsiderable,worthless,of little value,or consequence,of no moment,
+
+ RELATED 
+connected,cognate,of the same nature,kindred,akin,kin,allied,of the same family,
+
+ PENDULOUS 
+hanging,pendent,
+
+ PEACEFUL 
+quiet,calm,still,undisturbed,placid,tranquil,serene,mild,gentle,kindly,friendly,
+
+ PROHIBITORY 
+restrictive,prohibiting,prohibitive,
+
+ PLACABLE 
+appeasable,reconcilable,forgiving,
+
+ PURITANIC 
+strict,rigid,ascetic,
+
+ PLEBEIAN 
+ignoble,low,mean,base,vulgar,untitled,base-,born,low-born,
+
+ PIED 
+variegated,piebald,
+
+ QUONDAM 
+late,ci-devant,old-,time,in former times,
+
+ PERIPATETIC 
+aristotelian,of aristotle,
+
+ RETIFORM 
+reticular,
+
+ RABID 
+furious,raging,mad,
+
+ RE-ENTERING 
+turning inwards,
+
+ PASSABLE 
+tolerable,middling,moderate,ordinary,so so,mediocre,pretty,good,not very bad,
+
+ PERENNIAL 
+lasting,enduring,permanent,constant,continual,undying,unceasing,perpetual,uninterrupted,imperishable,deathless,never-failing,immortal,
+
+ PREGNANT 
+enceinte,big,with child,in the family way,fraught,replete,full,teeming,
+
+ PRAGMATICAL 
+meddling,officious,meddlesome,impertinent,
+
+ RELIABLE 
+trusty,to be relied on,to,be depended on,worthy of credit,
+
+ PERKY 
+pert,smart,uppish,proud,perk,assuming,
+
+ PARTIAL 
+incomplete,imperfect,limited,not entire,not,total,not general,not universal,biassed,prejudiced,prepossessed,warped,interested,unfair,unjust,one-sided,not indifferent,
+
+ PORTABLE 
+movable,light,handy,convenient,easily transported,
+
+ RIPE 
+mature,perfected by growth,fit,prepared,ready,in readiness,consummate,finished,perfect,accomplished,
+
+ PARABOLICAL 
+figurative,expressed by a parable or similitude,
+
+ PROEMIAL 
+introductory,prefatory,preliminary,precursory,
+
+ PLENARY 
+full,complete,entire,
+
+ PAST 
+spent,gone,ended,elapsed,gone by,
+
+ RAVENOUS 
+voracious,rapacious,devouring,ravening,greedy,insatiable,insatiate,
+
+ REVERBERATORY 
+reverberating,
+
+ RELUCTANT 
+unwilling,loath,averse,backward,disinclined,indisposed,not disposed,
+
+ REVERENT 
+reverential,
+
+ PROBABLE 
+likely,presumable,credible,reasonable,to be,expected,that stands to reason,
+
+ RAINY 
+showery,wet,
+
+ QUADRUPLE 
+fourfold,
+
+ PROPULSIVE 
+propelling,
+
+ REVEREND 
+venerable,
+
+ PARAPHRASTIC 
+free,loose,diffuse,not literal,not verbal,
+
+ PURE 
+clean,clear,unsullied,unstained,undefiled,spotless,unspotted,fair,immaculate,untainted,untarnished,unpolluted,uncorrupted,innocent,guiltless,guileless,true,virtuous,upright,honest,incorrupt,holy,genuine,unadulterated,unmixed,real,perfect,modest,chaste,mere,absolute,sheer,classic,classical,attic,
+
+ PARAPHRASTICAL 
+explanatory (by amplification),free,loose,diffuse,not literal,not verbal,
+
+ REPROBATE 
+reprobated,rejected,disallowed,discarded,condemned,depraved,abandoned,profligate,corrupt,hardened,lost,graceless,base,shameless,wicked,vile,
+
+ RECHERCHé 
+[fr.] choice,select,elegant,
+
+ PEERLESS 
+unequalled,unmatched,unsurpassed,matchless,without an equal,without a peer,
+
+ PLEASANT 
+pleasing,agreeable,delightful,delectable,gratifying,grateful,pleasurable,acceptable,welcome,cheerful,gay,lively,sprightly,vivacious,merry,good-humored,witty,facetious,humorous,jocose,jocular,sportive,amusing,
+
+ REGENERATE 
+reproduced,converted,regenerated,renewed in spirit,born again,
+
+ PUNIC 
+of the carthaginians,faithless,perfidious,treacherous,unworthy of trust,
+
+ PROLIX 
+diffuse,wordy,verbose,loose,long,long-spun,spun-out,long-winded,discursive,rambling,not concise,tiresome,tedious,uninteresting,wearisome,
+
+ REFLUENT 
+ebbing,flowing back,
+
+ RIGHTFUL 
+legitimate,true,just,equitable,fair,lawful,suitable,proper,right,reasonable,
+
+ PITHY 
+forcible,energetic,terse,laconic,brief,concise,short,compact,pointed,sententious,full of meaning,not loose,not verbose,not prolix,
+
+ RARE 
+thin,subtile,not dense,scarce,uncommon,infrequent,unfrequent,singular,extraordinary,strange,out of the way,not common,choice,fine,excellent,exquisite,incomparable,inimitable,underdone,nearly raw,not well done or well cooked,
+
+ RISIBLE 
+laughable,ridiculous,ludicrous,comical,funny,farcical,amusing,
+
+ REDDISH 
+brick-colored,stammel,somewhat red,
+
+ PRIESTLY 
+sacerdotal,
+
+ RIVAL 
+competing,emulating,emulous,
+
+ PREMATURE 
+precocious,too forward,ripe too soon,unseasonable,too early,
+
+ PRETENTIOUS 
+conceited,vain,pert,flippant,priggish,coxcomical,dashing,
+
+ PARASITICAL 
+sycophantic,fawning,flattering,wheedling,servile,slavish,meanly submissive,
+
+ PROVOKING 
+irritating,vexing,vexatious,annoying,tormenting,aggravating,offensive,
+
+ PENAL 
+punitive,
+
+ RAKISH 
+lewd,debauched,dissolute,licentious,
+
+ PROSY 
+prosaic,unpoetical,dull,flat,stupid,uninteresting,unentertaining,tiresome,tedious,
+
+ RAMOUS 
+branchy,
+
+ PURGATIVE 
+cathartic,abstergent,cleansing,purifying,evacuant,
+
+ RENITENT 
+opposing,counteracting,antagonistic,
+
+ POLITE 
+accomplished,genteel,cultivated,refined,courteous,civil,affable,complaisant,courtly,gracious,urbane,polished,well-,behaved,well-mannered,well-bred,
+
+ PRECATORY 
+suppliant,beseeching,supplicating,imploring,praying,begging,
+
+ PERIPHRASTIC 
+circumlocutory,
+
+ QUICK-WITTED 
+witty,smart,nimble-witted,
+
+ PAT 
+apt,pertinent,suitable,appropriate,
+
+ PATRICIDAL 
+parricidal,
+
+ PICTURESQUE 
+graphic,
+
+ REFRANGIBLE 
+capable of refraction,
+
+ REVOLTING 
+shocking,disgusting,sickening,nauseating,nauseous,repulsive,offensive,obnoxious,hateful,horrible,abominable,monstrous,
+
+ REEKING 
+smoking,steaming,
+
+ RANTING 
+declamatory,theatrical,bombastic,stagey,
+
+ PLEASING 
+agreeable,grateful,gratifying,acceptable,welcome,pleasant,delectable,pleasurable,charming,delightful,
+
+ PUTATIVE 
+reputed,supposed,commonly esteemed,
+
+ PACHYDERMATOUS 
+thick-skinned,
+
+ PENETRABLE 
+permeable,pervious,
+
+ RESPLENDENT 
+brilliant,splendid,shining,luminous,beaming,effulgent,lucid,bright,glorious,
+
+ RIDICULOUS 
+ludicrous,laughable,droll,funny,preposterous,farcical,comical,absurd,
+
+ PROVIDENT 
+prudent,discreet,cautious,forecasting,frugal,economical,
+
+ PATHLESS 
+untrodden,trackless,
+
+ PARTICULAR 
+especial,special,specific,not general,individual,single,separate,distinct,distinction,minute,exact,precise,nice,scrupulous,fastidious,peculiar,odd,singular,strange,notable,
+
+ PRIMEVAL 
+original,primitive,
+
+ PERIPHRASE 
+circumlocution,periphrasis,circuit of words,roundabout expression,
+
+ PONTIFICAL 
+popish,
+
+ QUEASY 
+qualmish,inclined to,vomit,fastidious,squeamish,difficult,over-nice,over-delicate,hard,to please,
+
+ PERSUASIVE 
+convincing,cogent,logical,valid,sound,weighty,
+
+ RESPECTFUL 
+deferential,courteous,dutiful,obedient,ceremonious,civil,decorous,polite,
+
+ QUADRANGULAR 
+four-cornered,
+
+ RIGOROUS 
+severe,austere,harsh,stern,rigid,hard,strict,stringent,exact,accurate,precise,scrupulously nice,inclement,
+
+ RIGHT-HAND 
+right,
+
+ PIPING 
+whining,feeble,sickly,weak,simmering,boiling,
+
+ REMOTE 
+far,distant,far off,not near,not nigh,alien,foreign,unallied,separated,unconnected,secluded,sequestered,removed,
+
+ PATIENT 
+submissive,resigned,uncomplaining,unrepining,passive,long-suffering,persevering,persistent,diligent,assiduous,indefatigable,constant,
+
+ RANCID 
+rank,fetid,musty,fusty,frowzy,strong-smelling,
+
+ RELENTLESS 
+unrelenting,unpitying,unforgiving,implacable,inexorable,unappeasable,cruel,vindictive,rancorous,merciless,unmerciful,uncompassionate,pitiless,hard,
+
+ PROXIMATE 
+next,nearest,immediate,close,not remote,
+
+ PALLING 
+nauseating,loathsome,sickening,
+
+ PREDICTIVE 
+prophetic,presaging,foretelling,
+
+ REPREHENSIBLE 
+blamable,culpable,censurable,reprovable,deserving censure,worthy of blame,
+
+ REGULAR 
+orderly,methodical,systematic,uniform,normal,just,according to rule,periodic,periodical,steady,stated,settled,established,constant,
+
+ POTENT 
+powerful,mighty,forcible,puissant,strong,efficacious,cogent,influential,
+
+ PREPOSTEROUS 
+perverted,having the cart before the horse,reversed,absurd,unreasonable,ridiculous,irrational,foolish,monstrous,
+
+ RELATIVE 
+not absolute,
+
+ REPENTANT 
+penitent,sorry,penitential,
+
+ PULVERIZABLE 
+pulverable,that may be pulverized,
+
+ PITEOUS 
+sorrowful,mournful,woful,doleful,rueful,affecting,distressing,grievous,moving pity,exciting compassion,pitiable,deplorable,wretched,miserable,deserving pity,to be,pitied,
+
+ PELLUCID 
+clear,transparent,transpicuous,limpid,diaphanous,crystalline,bright,lucid,translucent,
+
+ RESIGNED 
+submissive,obedient,unresisting,complying,yielding,uncomplaining,patient,humble,meek,lowly,
+
+ PUNCTUAL 
+nice,exact,punctilious,prompt,seasonable,timely,
+
+ PRESERVATIVE 
+conservative,preservatory,
+
+ PERFECT 
+complete,consummate,finished,excellent,capital,exquisite,without blemish,not defective,not deficient,pure,holy,blameless,faultless,without sin,
+
+ PROVINCIAL 
+of a province,of provinces,rude,unpolished,unrefined,rustic,countrified,
+
+ PREPOSSESSING 
+attractive,engaging,winning,fascinating,taking,captivating,bewitching,
+
+ REPETITIOUS 
+tautological,verbose,diffuse,
+
+ PATENT 
+open,apparent,evident,plain,obvious,manifest,clear,public,conspicuous,unconcealed,palpable,unmistakable,glaring,notorious,
+
+ RETROGRADE 
+backward,
+
+ POLITICAL 
+civil,civic,public,politic,national,
+
+ PASSIVE 
+quiet,quiescent,inert,inactive,not active,unresisting,submissive,patient,long-suffering,
+
+ POETIC 
+metrical,
+
+ RAPID 
+swift,quick,speedy,fleet,fast,expeditious,
+
+ RACHITIC 
+rickety,
+
+ RATIONAL 
+intellectual,endowed with reason,reasonable,just,right,equitable,fit,proper,agreeable to,reason,according to reason,judicious,sagacious,enlightened,sensible,wise,intelligent,sane,in one's right mind,in one's sober senses,
+
+ PRESERVATORY 
+preservative,
+
+ PUBLIC 
+of the whole,not private,open,notorious,generally known,common,general,
+
+ POOR 
+indigent,needy,destitute,necessitous,pinched,distressed,penniless,moneyless,impecunious,seedy,reduced,short,of money,out of money,without a penny,out of pocket,out of cash,out at the elbows,out at the heels,in need,in want,hard up,in,distress,living from hand to mouth,not worth a farthing,not worth a,sou,not rich,emaciated,lean,thin,meagre,lank,gaunt,skinny,shrunk,fallen away,barren,sterile,unfruitful,unfertile,unproductive,fruitless,unprolific,trifling,trivial,slight,small,slender,flimsy,insufficient,inadequate,worthless,unimportant,of little use or worth,contemptible,despicable,paltry,mean,sorry,beggarly,pitiful,shabby,bad,low,feeble,languid,weak,bald,tame,jejune,vapid,cold,frigid,dull,prosing,prosy,prosaic,spiritless,miserable,wretched,unfortunate,luckless,ill-fated,ill-,starred,unlucky,unhappy,
+
+ PASSé 
+[fr.] past,worn,faded,out of use,out of date,
+
+ PEDANTIC 
+conceited,pragmatical,vain of knowledge,ostentations of learning,
+
+ RASCALLY 
+wicked,villanous,bad,mean,base,sorry,pitiful,
+
+ PUFFY 
+swelled,swollen,tumid,bombastic,inflated,extravagant,turgid,tumid,pompous,
+
+ PERFUNCTORY 
+indifferent,careless,slovenly,heedless,reckless,negligent,slight; done,but not well done; done to be rid,
+
+ RETIRING 
+reserved,taciturn,shy,demure,bashful,diffident,modest,coy,
+
+ REPULSIVE 
+repelling,repellent,odious,hateful,unpleasant,disagreeable,disgusting,offensive,forbidding,loathsome,nauseating,nauseous,sickening,revolting,
+
+ PANTOPHAGOUS 
+omnivorous,all-devouring,
+
+ RESTIVE 
+stubborn,mulish,restiff,obstinate,uneasy,impatient,restless,ill at ease,unquiet,
+
+ PETTISH 
+peevish,fretful,petulant,
+
+ PRIME 
+first,original,primitive,primal,primeval,primordial,pristine,aboriginal,highest,chief,principal,best,capital,first-rate,
+
+ PEARLY 
+abounding in pearls,clear,pure,transparent,nacreous,
+
+ PROGRESSIVE 
+advancing,proceeding,improving,
+
+ PEREMPTORY 
+decisive,express,authoritative,categorical,imperative,positive,absolute,dogmatical,arbitrary,despotic,
+
+ PULSATORY 
+throbbing,
+
+ PARASITIC 
+sycophantic,fawning,flattering,wheedling,servile,slavish,meanly submissive,
+
+ QUOTIDIAN 
+r,
+
+ PIG-HEADED 
+stubborn,mulish,dogged,wilful,heady,headstrong,intractable,perverse,cross-,grained,self-willed,
+
+ PROSING 
+dull,flat,stupid,prosaic,
+
+ QUICK 
+active,nimble,agile,alert,brisk,prompt,ready,rapid,swift,speedy,fleet,hasty,expeditious,hurried,flying,dexterous,adroit,skilful,expert,apt,acute,clever,sharp,shrewd,keen,intelligent,sagacious,discerning,hasty,choleric,passionate,testy,irritable,touchy,waspish,petulant,irascible,peppery,snappish,
+
+ PRAYERFUL 
+devout,religious,
+
+ PIRATICAL 
+robbing,predatory,
+
+ PUNY 
+weak,feeble,inferior,little,small,petty,diminutive,tiny,dwarf,dwarfish,pygmy,pygmean,stunted,liliputian,
+
+ REFRIGERATORY 
+cooling,refrigerative,
+
+ PHILOSOPHIC 
+of philosophy,
+
+ QUESTIONABLE 
+doubtful,uncertain,equivocal,problematical,disputable,controvertible,debatable,
+
+ POWERFUL 
+mighty,potent,active,forcible,puissant,potential,vigorous,robust,sturdy,strong,able-bodied,efficacious,effective,cogent,valid,
+
+ PERILOUS 
+dangerous,hazardous,risky,full of danger,fraught,with danger,
+
+ PARDONABLE 
+excusable,venial,that may be pardoned,
+
+ REFRIGERATIVE 
+cooling,refrigeratory,
+
+ PET 
+favorite,especially liked,
+
+ RECONDITE 
+hidden,occult,dark,obscure,abstruse,transcendental,high,mystic,mystical,profound,deep,
+
+ REMUNERATIVE 
+profitable,paying,gainful,paying a good,interest,bringing a good return,
+
+ REFLEX 
+retroactive,bent back,
+
+ REPUGNANT 
+inconsistent,irreconcilable,incompatible,opposed,opposite,contrary,hostile,adverse,unfavorable,antagonistic,inimical,offensive,distasteful,
+
+ PANEGYRICAL 
+encomiastic,encomiastical,eulogistic,eulogistical,commendatory,laudatory,
+
+ PALATABLE 
+savory,delicious,nice,luscious,delicate,
+
+ PROSAIC 
+prosy,unpoetical,dull,flat,bald,stupid,uninteresting,unentertaining,tiresome,tedious,prosing,vapid,tame,humdrum,
+
+ PROTECTIVE 
+defensive,
+
+ RENASCENT 
+reappearing,reproduced,rejuvenated,
+
+ PRECEDING 
+antecedent,precedent,anterior,previous,prior,precursory,
+
+ PERPENDICULAR 
+vertical,upright,pointing to the zenith,at right angles,making a right angle,
+
+ REPRESENTATIVE 
+delegate,deputy,substitute,agent,proxy,locum tenens,
+
+ PRELIMINARY 
+introductory,preparatory,prefatory,proemial,prelusive,precursory,previous,prior,precedent,
+
+ RESONANT 
+resounding,
+
+ OVERT 
+open,manifest,public,patent,notorious,glaring,
+
+ QUARRELSOME 
+irascible,choleric,irritable,petulant,cross,contentious,disputatious,litigious,
+
+ PREOCCUPIED 
+inattentive,absent,absent-minded,lost,dreaming,musing,in a brown study,
+
+ PURBLIND 
+dim-sighted,near-sighted,short-sighted,myopic,
+
+ PODAGRIC 
+gouty,
+
+ REDUNDANT 
+excessive,superabundant,exuberant,superfluous,in excess,expletive,diffuse,
+
+ RACY 
+of a peculiar,flavor,vigorous,forcible,of a distinctive character,
+
+ PAPILIONACEOUS 
+butterfly-shaped,
+
+ PRECOCIOUS 
+too,forward,
+
+ REASONABLE 
+right,equitable,just,rational,fit,proper,according to reason,agreeable to reason,judicious,sensible,wise,sagacious,enlightened,tolerable,moderate,cheap,low,not dear,intellectual,endowed with reason,
+
+ PRICELESS 
+invaluable,inestimable,
+
+ PRECEDENT 
+antecedent,preceding,
+
+ RESISTLESS 
+irresistible,
+
+ RETROSPECTIVE 
+looking back,retroactive,that affects the past,
+
+ RESOLUTE 
+firm,determined,steady,decided,resolved,stanch,steadfast,constant,persevering,unwavering,inflexible,undaunted,hardy,unshaken,bold,stout-hearted,
+
+ PERIPHRASTICAL 
+circumlocutory,
+
+ PLAYFUL 
+frolicsome,frisky,sportive,merry,jolly,mirthful,daft,gamesome,debonair,vivacious,lively,sprightly,full of play,full of fun,
+
+ PHYTOPHAGOUS 
+phytivorous,
+
+ RAPTORIOUS 
+preying,raptorial,
+
+ RIGHT-LINED 
+rectilineal,rectilinear,
+
+ QUALMISH 
+inclined to vomit,queasy,
+
+ PATERNAL 
+fatherly,hereditary,
+
+ PRETERNATURAL 
+course of nature,abnormal,anomalous,unnatural,inexplicable,strange,
+
+ PULVERULENT 
+dusty,powdery,
+
+ PRISTINE 
+primitive,primary,original,aboriginal,primeval,primordial,first,
+
+ PRECIPITATE 
+hasty,hurried,rash,headlong,reckless,indiscreet,
+
+ PREFERABLE 
+more eligible,more desirable,
+
+ PENDING 
+depending,undecided,undetermined,unsettled,in,suspense,
+
+ PITILESS 
+merciless,unmerciful,unpitying,relentless,ruthless,implacable,inexorable,cruel,unfeeling,unsympathizing,
+
+ PODAGRICAL 
+gouty,
+
+ PRICKED 
+acid,sour,tart,sharp,
+
+ POETICAL 
+metrical,
+
+ PERMISSIBLE 
+allowable,admissible,lawful,legal,legitimate,proper,
+
+ PYGMY 
+dwarfish,pygmean,
+
+ RIGID 
+stiff,inflexible,unpliant,unbending,unyielding,sharp,severe,strict,stern,rigorous,harsh,austere,
+
+ POMPOUS 
+showy,ostentatious,stately,lofty,grand,majestic,magnificent,superb,splendid,august,magisterial,swelling,inflated,bombastic,turgid,pretentious,stilted,boastful,grandiloquent,high-flowing,high-sounding,highfalutin,spread-eagle,
+
+ PIOUS 
+filial,religious,godly,holy,devout,saintly,
+
+ REVERENTIAL 
+respectful,deferential,reverent,
+
+ PLAIN-SPOKEN 
+frank,candid,blunt,open,free-spoken,plain of,speech,
+
+ POLITIC 
+civil,political,civic,wise,prudent,judicious,discreet,sagacious,prudential,wary,provident,artful,cunning,shrewd,intriguing,sly,wily,subtle,foxy,machiavelian,
+
+ RAVING 
+furious,frenzied,frantic,distracted,mad,infuriate,
+
+ REMORSEFUL 
+compunctious,contrite,repentant,penitent,sorrowful,
+
+ PIRATIC 
+robbing,predatory,
+
+ REBELLIOUS 
+insubordinate,riotous,disobedient,mutinous,refractory,contumacious,seditious,traitorous,
+
+ RESTORATIVE 
+restoring,curative,
+
+ PLAUSIBLE 
+specious,colorable,seemingly fair,
+
+ PROPORTIONAL 
+proportionate,proportionable,symmetrical,correspondent,
+
+ PREPARATORY 
+introductory,preliminary,prefatory,
+
+ RECURRENT 
+renewed,reiterated,
+
+ PRIMARY 
+primitive,aboriginal,original,primordial,primeval,pristine,first,chief,principal,leading,elementary,lowest,
+
+ PERSPICUOUS 
+clear,lucid,plain,transparent,intelligible,
+
+ PRETTY 
+handsome,elegant,comely,fine,neat,trim,fair,
+
+ PENDENT 
+hanging,pendulous,suspended,pensile,
+
+ PREDOMINANT 
+prevailing,prevalent,supreme,ascendant,overruling,dominant,sovereign,
+
+ RETENTIVE 
+tenacious,
+
+ PASTY 
+meat-pie,
+
+ RECURVED 
+curved backwards,
+
+ PYRIFORM 
+pear-shaped,
+
+ REMEDILESS 
+incurable,irremediable,irreparable,irretrievable,irreclaimable,irrecoverable,irreversible,hopeless,past cure,past mending,past hope,
+
+ PROHIBITIVE 
+prohibitory,
+
+ PLEASURABLE 
+pleasing,
+
+ PLANE 
+level,flat,even,smooth,plain,
+
+ PLACID 
+quiet,tranquil,undisturbed,unmoved,unruffled,calm,peaceful,halcyon,palmy,serene,composed,collected,cool,
+
+ REGAL 
+kingly,royal,
+
+ PREJUDICED 
+biassed,bigoted,wedded to an opinion,
+
+ PRUDENT 
+discreet,cautious,careful,circumspect,wary,considerate,judicious,provident,prudential,frugal,economical,
+
+ POSTED 
+placed,situated,well-informed,posted up,
+
+ PLIABLE 
+flexible,flexile,pliant,supple,limber,lithe,lithesome,easily bent,compliant,yielding,manageable,tractable,dough-faced,easily,persuaded,
+
+ PHONIC 
+phonetic,
+
+ PRACTICABLE 
+feasible,performable,possible,achievable,attainable,
+
+ PALTRY 
+small,little,diminutive,inconsiderable,insignificant,unimportant,petty,miserable,wretched,slight,slender,feeble,trifling,trivial,of no consequence,of no importance,base,vile,abject,grovelling,low,mean,beggarly,pitiful,despicable,contemptible,
+
+ PROVISIONAL 
+temporary,provisory,
+
+ PREVAILING 
+effectual,dominant,predominant,efficacious,preponderating,current,established,ordinary,usual,prevalent,widely extended,most general,
+
+ PLEONASTIC 
+redundant,tautological,diffuse,
+
+ RANCOROUS 
+malignant,malign,vindictive,malevolent,malicious,
+
+ PERMEABLE 
+pervious,penetrable,
+
+ RESIDENT 
+abiding,dwelling,residing,inhabiting,
+
+ RELIGIOUS 
+devout,holy,godly,pious,devotional,conscientious,scrupulous,exact,strict,rigid,
+
+ PROPORTIONATE 
+proportional,
+
+ PSYCHOLOGICAL 
+metaphysical,
+
+ PHILOSOPHICAL 
+of philosophy,of a philosopher,of philosophers,wise,rational,reasonable,calm,cool,collected,composed,unruffled,sedate,serene,tranquil,imperturbable,stoical,platonic,
+
+ PROPER 
+particular,peculiar,individual,special,specific,not common,fit,fitting,befitting,suitable,appropriate,meet,seemly,convenient,adapted,becoming,right,legitimate,
+
+ PEDANTICAL 
+conceited,pragmatical,vain of knowledge,ostentations of learning,
+
+ PRELUSORY 
+introductory,prefatory,precursory,preliminary,proemial,
+
+ PHYSICAL 
+material,corporeal,bodily,natural,sensible,medicinal,cathartic,purgative,
+
+ PUTRID 
+rotten,decayed,corrupt,putrefied,carious,
+
+ PEACEABLE 
+peaceful,pacific,free from war,gentle,mild,amicable,friendly,disposed to peace,not,quarrelsome,quiet,tranquil,placid,unmoved,undisturbed,serene,
+
+ PRELUSIVE 
+introductory,prefatory,precursory,preliminary,proemial,
+
+ PECUNIARY 
+monetary,financial,
+
+ PUSILLANIMOUS 
+cowardly,timorous,recreant,effeminate,spiritless,weak,mean-spirited,faint-hearted,dough-faced,
+
+ PLASTIC 
+formative,soft,pliable,easily moulded,
+
+ PLENTIFUL 
+abundant,ample,copious,full,plenteous,productive,fruitful,exuberant,luxuriant,profuse,plenty,in,profusion,
+
+ REMISS 
+slack,dilatory,slow,backward,behindhand,inattentive,negligent,careless,thoughtless,heedless,neglectful,lax,
+
+ REFRACTORY 
+stubborn,obstinate,stiff,perverse,dogged,mulish,heady,headstrong,cross-grained,intractable,unyielding,contumacious,disobedient,unruly,pig-headed,ungovernable,cantankerous,
+
+ PERMANENT 
+lasting,abiding,fixed,enduring,continuing,durable,stable,steadfast,unchangeable,immutable,perpetual,invariable,constant,persistent,
+
+ PRACTISED 
+experienced,instructed,versed,thoroughbred,qualified,skilled,trained,accomplished,proficient,able,practical,au fait,
+
+ RATTLE-HEADED 
+giddy,wild,rattle-brained,
+
+ RECKLESS 
+careless,heedless,rash,mindless,inconsiderate,uncircumspect,headlong,indiscreet,incautious,giddy,imprudent,improvident,volatile,wild,flighty,unsteady,giddy-brained,hare-,brained,harum-scarum,
+
+ RAVEN 
+black,ebon,inky,sable,
+
+ RETALIATORY 
+retaliating,revenging,
+
+ PRESBYOPIC 
+far-sighted,presbytic,
+
+ POPPY-LIKE 
+papaverous,
+
+ RAPTUROUS 
+ecstatic,ravishing,transporting,
+
+ RAMPANT 
+rank,exuberant,luxuriant,wanton,vehement,impetuous,ungovernable,uncontrollable,headstrong,
+
+ RAVENING 
+ravenous,
+
+ REFUSE 
+worthless,waste,
+
+ RADIANT 
+beaming,shining,brilliant,splendid,resplendent,effulgent,
+
+ PRODIGAL 
+wasteful,lavish,extravagant,profuse,too liberal,
+
+ PECCANT 
+sinning,erring,guilty,criminal,morbid,malignant,corrupting,corroding,
+
+ PRYING 
+curious,inquisitive,peering,scrutinizing,
+
+ RATTLE-BRAINED 
+giddy,wild,rattle-headed,
+
+ PLATONIC 
+academic,of plato,contemplative,speculative,philosophical,theoretical,passionless,impassible,unimpressible,cold,apathetic,cool,calm,serene,
+
+ PAROLE 
+verbal,by word of mouth,
+
+ PREDATORY 
+plundering,pillaging,rapacious,ravenous,greedy,voracious,hungry,preying,
+
+ PENETRATING 
+discerning,intelligent,sagacious,sharp-witted,clear-sighted,acute,keen,quick,shrewd,keen-sighted,
+
+ RELEVANT 
+pertinent,applicable,fit,proper,apt,suitable,appropriate,apposite,to the purpose,to the point,
+
+ RAYLESS 
+sunless,beamless,darksome,dark,black,dismal,pitchy,cimmerian,
+
+ REFULGENT 
+bright,shining,brilliant,splendid,resplendent,lustrous,radiant,effulgent,
+
+ PYROTECHNICAL 
+of fire-works,
+
+ REJUVENATED 
+renascent,
+
+ RESPONSIVE 
+answering,
+
+ PHARISAICAL 
+sanctimonious,hypocritical,
+
+ PROFLIGATE 
+depraved,corrupt,dissolute,corrupted,very,wicked,graceless,very vicious,shameless,abandoned,
+
+ QUIT 
+clear,free,absolved,released,acquitted,discharged,
+
+ PALLID 
+wan,whitish,ashy,colorless,cadaverous,pale,not,ruddy,
+
+ PAINSTAKING 
+laborious,sedulous,diligent,industrious,careful,plodding,assiduous,strenuous,hard-working,persevering,sparing no pains,
+
+ RESILIENT 
+rebounding,recoiling,elastic,springy,
+
+ PORTENTOUS 
+premonitory,ill-boding,
+
+ REFRACTING 
+deflecting,refractive,
+
+ OVERRULING 
+controlling,governing,directing,prevailing,predominant,
+
+ RODENT 
+gnawing,
+
+ PHONICAL 
+phonetic,
+
+ QUAGGY 
+boggy,marshy,swampy,
+
+ RECURRING 
+renewed,reiterated,
+
+ PROMISCUOUS 
+mixed,mingled,miscellaneous,indiscriminate,confused,
+
+ PALMY 
+prosperous,fortunate,flourishing,thriving,happy,joyous,halcyon,golden,saturnian,
+
+ RAPACIOUS 
+raptorial,preying,ravenous,greedy,voracious,insatiable,insatiate,
+
+ RAUCOUS 
+hoarse,husky,rough,harsh,
+
+ REFLECTING 
+that reflects,thoughtful,considerate,reflective,given to reflection,
+
+ RECREANT 
+cowardly,dastardly,craven,pusillanimous,mean-,spirited,faint-hearted,apostate,treacherous,false,faithless,untrue,backsliding,
+
+ OVERWROUGHT 
+overdone,elaborated too much,
+
+ REPLETE 
+full,abounding,charged,exuberant,fraught,well,stocked,well provided,choke full,completely full,
+
+ PEAKED 
+pointed,
+
+ PERSPICACIOUS 
+discerning,acute,keen,sagacious,shrewd,clear-sighted,keen-sighted,sharp-witted,keen-witted,long-headed,eagle-eyed,
+
+ PUERILE 
+boyish,childish,juvenile,youthful,foolish,trifling,trivial,idle,silly,senseless,nonsensical,
+
+ PROPHYLACTIC 
+preservative,
+
+ RECIPROCAL 
+mutual,correlative,interchangeable,
+
+ PUISSANT 
+powerful,strong,mighty,forcible,potent,
+
+ PANEGYRIC 
+encomiastic,encomiastical,eulogistic,eulogistical,commendatory,laudatory,
+
+ OVERWEENING 
+conceited,haughty,proud,arrogant,opinionated,egotistical,consequential,supercilious,vain,vain-glorious,puffed,up,
+
+ PRINCIPALLY 
+chiefly,mainly,especially,particularly,above,all,
+
+ POTABLE 
+drinkable,that may be drunk,
+
+ REFERABLE 
+ascribable,referrible,
+
+ PESTIFEROUS 
+pestilential,
+
+ RICH 
+wealthy,opulent,affluent,flush,moneyed,splendid,precious,costly,sumptuous,valuable,estimable,savory,delicious,luscious,exquisite,plentiful,plenteous,abundant,copious,abounding,ample,full,flowing with milk and honey,fruitful,fertile,luxuriant,teeming,productive,prolific,
+
+ PUNCTILIOUS 
+nice,exact,particular,precise,scrupulous,over-,scrupulous,punctual,
+
+ PROSPECTIVE 
+future,coming,
+
+ RETIRED 
+withdrawn,removed,secret,private,solitary,secluded,sequestered,
+
+ PRECAUTIONARY 
+provident,
+
+ RAGING 
+furious,enraged,infuriate,infuriated,incensed,very,angry,
+
+ PORTLY 
+stately,grand,majestic,magisterial,dignified,corpulent,stout,plump,fleshy,obese,round,in good case,
+
+ RAPT 
+enraptured,transported,ravished,entranced,charmed,delighted,enchanted,fascinated,spell-bound,in an ecstasy,
+
+ PRECURSORY 
+forerunning,preceding,precedent,antecedent,anterior,prior,previous,prelusive,prelusory,introductory,prefatory,
+
+ RESOLVABLE 
+decomposable,solvable,
+
+ PRESSING 
+urgent,importunate,
+
+ PULMONARY 
+pulmonic,
+
+ PROLETARIAN 
+vulgar,vile,plebeian,
+
+ PRE-EMINENT 
+superior,supreme,
+
+ PRODUCTIVE 
+fertile,generative,prolific,fruitful,
+
+ PERVERSE 
+bad,obstinate,stubborn,wilful,dogged,mulish,untractable,unyielding,headstrong,pertinacious,wayward,cantankerous,pig-headed,cross,petulant,waspish,captious,snappish,touchy,testy,crusty,churlish,crabbed,froward,morose,surly,snarling,ill-,tempered,ill-natured,
+
+ PRESUMPTUOUS 
+arrogant,bold,forward,presuming,venturesome,rash,over-confident,fool-hardy,
+
+ PAPAVEROUS 
+poppy-like,
+
+ PRUDISH 
+coy,demure,reserved,over-modest,affectedly modest,
+
+ PARABOLIC 
+figurative,expressed by a parable or similitude,
+
+ RELISHING 
+palatable,savory,flavorous,
+
+ PROPITIOUS 
+gracious,benevolent,benign,kind,auspicious,lucky,happy,fortunate,favorable,opportune,prosperous,promising,in a fair way,
+
+ POLEMICAL 
+controversial,disputatious,
+
+ PROGNOSTIC 
+foreshowing,foretokening,
+
+ PRAISEWORTHY 
+commendable,laudable,
+
+ QUAINT 
+odd,strange,singular,whimsical,unusual,uncommon,extraordinary,unique,curious,droll,fantastic,fanciful,far-,fetched,out of the way,
+
+ QUIESCENT 
+quiet,resting,still,dormant,motionless,at,rest,at a stand,stock-still,standing still,silent,not sounded,
+
+ PLENTY 
+plentiful,
+
+ PALPABLE 
+tangible,tactile,manifest,obvious,plain,evident,glaring,unmistakable,gross,easily seen,very perceptible,
+
+ PROMINENT 
+protuberant,projecting,conspicuous,eminent,celebrated,distinguished,famous,
+
+ PERTINENT 
+fit,appropriate,suitable,relevant,apposite,adapted,applicable,proper,pat,apropos,to the point,to the purpose,
+
+ PERFIDIOUS 
+faithless,unfaithful,treacherous,false,dishonest,disloyal,traitorous,false-hearted,
+
+ PERPETUAL 
+endless,unending,everlasting,eternal,ever-,during,ceaseless,continual,incessant,unintermitted,uninterrupted,constant,interminable,perennial,
+
+ PUNGENT 
+stinging,stimulating,pricking,sharp,biting,burning,hot,peppery,piercing,penetrating,piquant,acrid,caustic,acute,keen,acrimonious,severe,distressing,poignant,
+
+ PERSISTENT 
+persevering,constant,steady,
+
+ PERNICIOUS 
+hurtful,deleterious,injurious,detrimental,baneful,baleful,prejudicial,noxious,mischievous,damaging,disadvantageous,destructive,ruinous,fatal,
+
+ RAGGED 
+tattered,torn,rent,dressed in rags,uneven,jagged,rough,
+
+ PNEUMONIC 
+pulmonic,pulmonary,
+
+ PROMISING 
+encouraging,giving ground of hope,
+
+ PROFUSE 
+lavish,prodigal,improvident,extravagant,wasteful,too liberal,too bountiful,exuberant,over-abounding,in profusion,
+
+ REFLEXIVE 
+reflective,
+
+ PHANTOM-LIKE 
+spectral,
+
+ REGARDFUL 
+heedful,mindful,careful,watchful,attentive,
+
+ PYGMEAN 
+dwarfish,dwarfed,diminutive,small,stunted,liliputian,pygmy,
+
+ REPROVABLE 
+censurable,blamable,reproachable,culpable,reprehensible,deserving censure,worthy of blame,
+
+ RHYTHMICAL 
+measured,regular or melodious in movement,
+
+ QUERIMONIOUS 
+querulous,
+
+ PLIANT 
+pliable,
+
+ PROCREANT 
+productive,
+
+ REPERCUSSIVE 
+rebounding,reverberating,
+
+ PLODDING 
+hard-working,
+
+ PERSONAL 
+individual,private,special,corporal,exterior,physical,material,
+
+ PERT 
+saucy,forward,bold,impertinent,impudent,flippant,
+
+ RHAPSODICAL 
+unconnected,broken,rambling,like a rhapsody,
+
+ POTENTIAL 
+possible,in posse,
+
+ PIVOTAL 
+turning,hinging,depending,
+
+ PIEBALD 
+motley,mottled,variegated,pied,party-colored,many-,hued,many-colored,divers-colored,of various colors,
+
+ REFORMATORY 
+reforming,
+
+ PROCUMBENT 
+prone,lying down,prostrate,
+
+ RHETORICAL 
+oratorical,declamatory,highly wrought,
+
+ PLETHORIC 
+surcharged,surfeited,overloaded,overcharged,over full,of a full habit,affected with plethora,
+
+ REAL 
+actual,veritable,substantial,substantive,absolute,positive,actually being or existing; not imaginary,or,supposititious; not fictitious,true,genuine,not counterfeited,not factitious,not artificial,intrinsic,internal,essential,
+
+ PEACE-MAKING 
+conciliatory,mild,appeasing,
+
+ READ 
+learned,versed in books,
+
+ PERISHABLE 
+destructible,decaying,liable to decay,dying,mortal,
+
+ POSSIBLE 
+potential,in posse,practicable,feasible,likely,
+
+ PONDEROUS 
+heavy,weighty,massive,
+
+ REFORMATIVE 
+reforming,
+
+ REDDISH-YELLOW 
+carroty,
+
+ RATABLE 
+to be rated,proportional,pro rata,liable to taxation,
+
+ REPUTABLE 
+respectable,creditable,honorable,estimable,
+
+ RELUCENT 
+shining,luminous,transparent,clear,pellucid,lucent,
+
+ PUNITIVE 
+penal,
+
+ REVERSE 
+opposite,converse,
+
+ REMEDIABLE 
+curable,retrievable,to be cured,to be remedied,
+
+ PRESBYTIC 
+far-sighted,presbyotic,
+
+ RECUMBENT 
+leaning,reclining,
+
+ PRECIPITOUS 
+steep,abrupt,hasty,rash,heady,headlong,precipitate,reckless,indiscreet,
+
+ PRIVY 
+individual,special,private,personal,peculiar,particular,secret,clandestine,cognizant of,acquainted with,
+
+ PRACTICAL 
+adapted to practice or use,not speculative,not theoretical,experienced,versed,proficient,trained,qualified,practised,skilled,thoroughbred,able,au fait,
+
+ PRIMITIVE 
+original,primeval,primal,primordial,aboriginal,prime,primary pristine,first,radical,underived,
+
+ PROSPEROUS 
+successful,thriving,flourishing,fortunate,lucky,happy,well off,well to do,favorable,propitious,auspicious,good,golden,bright,
+
+ POWDERY 
+dusty,mealy,pulverulent,friable,
+
+ RADICAL 
+original,fundamental,organic,constitutional,primitive,underived,uncompounded,simple,thorough,entire,complete,perfect,
+
+ PYROTECHNIC 
+of fire-works,
+
+ REFINED 
+purified,clarified,accomplished,cultivated,polished,elegant,genteel,stylish,courtly,polite,well-bred,classic,classical,pure,chaste,attic,delicate,nice,exquisite,
+
+ RIGHTEOUS 
+pious,holy,virtuous,godly,saintly,religious,honest,good,uncorrupt,upright,just,devout,equitable,fair,right,

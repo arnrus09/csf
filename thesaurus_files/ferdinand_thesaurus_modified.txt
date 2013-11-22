@@ -1,0 +1,1765 @@
+note: indices refer to the line on which each word appears in synonyms.txt
+
+ HERETIC  index: 11504
+dissenter,heresiarch,non-conformist,schismatic,
+
+ EXECUTE  index: 9535
+administer,out,do,enforce,perform,
+
+ CLEVER  index: 6449
+able,capable,happy,keen,sharp,adroit,dexterous,ingenious,knowing,skilful,apt,expert,intellectual,quick,smart,bright,gifted,intelligent,quick-witted,talented,
+
+ KNOWLEDGE  index: 13232
+acquaintance,erudition,learning,recognition,apprehension,experience,light,scholarship,cognition,information,lore,science,cognizance,intelligence,perception,wisdom,comprehension,intuition,
+
+ APOLOGY  index: 3030
+acknowledgment,defense,excuse,plea,confession,exculpation,justification,vindication,
+
+ FLUCTUATE  index: 10265
+hesitate,swerve,vacillate,veer,oscillate,undulate,vary,waver,
+
+ ANTIPATHY  index: 2839
+abhorrence,disgust,hatred,repugnance,antagonism,dislike,hostility,repulsion,aversion,distaste,opposition,uncongeniality,detestation,
+
+ OBSOLETE  index: 14842
+ancient,archaic,obsolescent,date,antiquated,disused,old,rare,
+
+ LIKELY  index: 13485
+apt,conceivable,liable,probable,credible,conjectural,presumable,reasonable,
+
+ TRANSACTION  index: 20730
+act,action,affair,business,deed,doing,proceeding,
+
+ BUT  index: 5271
+and,however,notwithstanding,that,barely,just,only,tho,besides,merely,provided,unless,except,moreover,save,yet,further,nevertheless,still,
+
+ FORMIDABLE  index: 10380
+dangerous,redoubted,terrible,tremendous,
+
+ ABANDON  index: 25
+abdicate,desert,leave,resign,abjure,discontinue,quit,from,off,forego,recant,retract,cease,forsake,relinquish,surrender,cede,forswear,renounce,vacate,from,up,repudiate,from,
+
+ PRIDE  index: 16589
+arrogance,ostentation,self-exaltation,assumption,presumption,self-respect,conceit,reserve,superciliousness,disdain,self-complacency,vainglory,haughtiness,self-conceit,vanity,insolence,self-esteem,
+
+ PRECEDENT  index: 16348
+antecedent,case,instance,pattern,authority,example,dictum,warrant,
+
+ BANISH  index: 4286
+ban,dismiss,evict,expatriate,ostracize,discharge,out,exile,expel,oust,dislodge,eject,
+
+ PITY  index: 15855
+commiseration,condolence,sympathy,tenderness,compassion,mercy,
+
+ SPY  index: 19650
+detective,emissary,scout,
+
+ DIRECTION  index: 7917
+aim,bearing,course,inclination,tendency,way,
+
+ ACCIDENT  index: 775
+adventure,contingency,happening,misfortune,calamity,disaster,hazard,mishap,casualty,fortuity,incident,possibility,chance,hap,misadventure,
+
+ INFINITE  index: 12628
+absolute,illimitable,limitless,unconditioned,boundless,immeasurable,measureless,unfathomable,countless,innumerable,numberless,unlimited,eternal,interminable,unbounded,unmeasured,
+
+ FAITHFUL  index: 9792
+devoted,incorruptible,stanch,true,trusty,firm,loyal,sure,trustworthy,unwavering,
+
+ POWER  index: 16199
+ability,competency,expertness,readiness,aptitude,dexterity,faculty,skill,capability,efficacy,force,strength,capacity,efficiency,might,susceptibility,cleverness,energy,qualification,talent,cogency,
+
+ ARTIST  index: 3476
+artificer,artisan,mechanic,operative,workman,
+
+ QUOTE  index: 17284
+cite,extract,plagiarize,repeat,excerpt,paraphrase,recite,
+
+ ANTICIPATE  index: 2784
+apprehend,forecast,hope,expect,foretaste,to,
+
+ EXPENSE  index: 9593
+cost,expenditure,outgo,outlay,
+
+ FLUID  index: 10295
+gas,liquid,
+
+ GENERAL  index: 10719
+common,familiar,ordinary,universal,commonplace,frequent,popular,usual,customary,habitual,prevalent,everyday,normal,public,
+
+ RUSTIC  index: 18571
+agricultural,coarse,pastoral,uncouth,artless,countrified,plain,unpolished,awkward,country,rude,unsophisticated,boorish,hoidenish,rural,untaught,bucolic,inelegant,sylvan,verdant,clownish,outlandish,
+
+ DARK  index: 7259
+black,dusky,mysterious,sable,somber,dim,gloomy,obscure,shadowy,swart,dismal,murky,opaque,shady,swarthy,
+
+ BEHAVIOR  index: 4685
+action,breeding,conduct,deportment,manner,bearing,carriage,demeanor,life,manners,
+
+ ANNOUNCE  index: 2707
+advertise,(of),proclaim,reveal,circulate,out,promulgate,say,communicate,herald,propound,abroad,declare,known,publish,state,enunciate,notify,report,tell,
+
+ TEACH  index: 20324
+discipline,instruction,inform,nurture,drill,lessons,initiate,school,educate,inculcate,instill,train,enlighten,indoctrinate,instruct,tutor,
+
+ PREVIOUS  index: 16505
+antecedent,foregoing,front,preceding,anterior,former,introductory,preliminary,earlier,forward,precedent,prior,
+
+ DRESS  index: 8343
+apparel,clothes,garb,habit,uniform,array,clothing,garments,raiment,vestments,attire,costume,habiliments,robes,vesture,
+
+ BODY  index: 4969
+ashes,clay,dust,frame,system,carcass,corpse,form,remains,trunk,
+
+ EXTEMPORANEOUS  index: 9641
+extemporary,impromptu,offhand,extempore,improvised,unpremeditated,
+
+ AFFRONT  index: 1402
+aggravate,exasperate,offend,vex,annoy,insult,provoke,wound,displease,irritate,tease,
+
+ FORTIFICATION  index: 10412
+castle,citadel,fastness,fort,fortress,stronghold,
+
+ TIP  index: 20543
+cant,dip,incline,list,slope,careen,over,lean,slant,tilt,
+
+ VENERATE  index: 21040
+adore,honor,respect,revere,reverence,
+
+ RISE  index: 18488
+arise,ascend,emanate,flow,issue,proceed,spring,
+
+ PRUDENCE  index: 17063
+care,discretion,judgment,carefulness,forecast,judiciousness,caution,foresight,providence,circumspection,forethought,wisdom,consideration,frugality,
+
+ PERCEIVE  index: 15484
+apprehend,comprehend,conceive,understand,
+
+ SIGN  index: 19177
+emblem,mark,presage,symbol,token,indication,note,prognostic,symptom,type,manifestation,omen,signal,
+
+ CARESS  index: 5645
+coddle,embrace,fondle,pamper,court,flatter,kiss,pet,
+
+ PRAISE  index: 16250
+acclaim,approbation,compliment,laudation,acclamation,approval,encomium,panegyric,adulation,cheering,eulogy,plaudit,applause,cheers,flattery,sycophancy,
+
+ MASCULINE  index: 13775
+male,manful,manlike,manly,mannish,virile,
+
+ GOVERN  index: 10936
+command,curb,influence,mold,over,rule,control,direct,manage,reign,restrain,sway,
+
+ VIGILANT  index: 21235
+alert,cautious,lookout,wary,awake,circumspect,sleepless,watchful,careful,alert,wakeful,wide-awake,
+
+ OBSCURE  index: 14811
+abstruse,darksome,dusky,involved,ambiguous,deep,enigmatical,muddy,cloudy,dense,hidden,mysterious,complex,difficult,incomprehensible,profound,complicated,dim,indistinct,turbid,dark,doubtful,intricate,unintelligible,
+
+ DELIGHTFUL  index: 7531
+acceptable,delicious,pleasant,refreshing,agreeable,grateful,pleasing,satisfying,congenial,gratifying,pleasurable,welcome,
+
+ DREAM  index: 8311
+day-dream,fantasy,reverie,trance,fancy,hallucination,romance,vision,
+
+ SECURITY  index: 18841
+bail,earnest,gage,pledge,surety,
+
+ MINUTE  index: 14050
+circumstantial,diminutive,little,slender,comminuted,exact,particular,small,critical,fine,precise,tiny,detailed,
+
+ APPEAR  index: 3110
+
+
+ BEAUTIFUL  index: 4519
+attractive,charming,exquisite,handsome,beauteous,comely,fair,lovely,bewitching,delightful,fine,picturesque,bonny,elegant,graceful,pretty,beauty,
+
+ DEXTERITY  index: 7739
+adroitness,aptitude,cleverness,expertness,readiness,skill,
+
+ ANTICIPATION  index: 2814
+antepast,expectation,foresight,hope,apprehension,foreboding,foretaste,presentiment,expectancy,forecast,forethought,prevision,
+
+ LOOK  index: 13625
+behold,discern,inspect,see,view,contemplate,gaze,regard,stare,watch,descry,glance,scan,survey,
+
+ OPERATION  index: 14975
+action,effect,force,performance,result,agency,execution,influence,procedure,
+
+ CHAGRIN  index: 5936
+confusion,discomposure,humiliation,shame,disappointment,dismay,mortification,vexation,
+
+ MONEY  index: 14190
+bills,cash,funds,property,bullion,coin,gold,silver,capital,currency,notes,specie,
+
+ INDUSTRY  index: 12591
+application,diligence,labor,persistence,assiduity,effort,pains,sedulousness,attention,exertion,patience,constancy,intentness,perseverance,
+
+ ATTITUDE  index: 3848
+pose,position,posture,
+
+ SEND  index: 18903
+cast,despatch,emit,impel,propel,dart,discharge,fling,lance,sling,delegate,dismiss,forward,launch,throw,depute,drive,hurl,project,transmit,
+
+ COMFORTABLE  index: 6516
+agreeable,cheery,genial,snug,ease,commodious,pleasant,well-off,rest,contented,satisfactory,well-provided,cheerful,convenient,satisfied,well-to-do,
+
+ ADMIRE  index: 1324
+adore,in,extol,respect,venerate,applaud,enjoy,honor,revere,wonder,approve,esteem,love,
+
+ ACRIMONY  index: 870
+acerbity,harshness,severity,tartness,asperity,malignity,sharpness,unkindness,bitterness,moroseness,sourness,virulence,causticity,
+
+ CANDID  index: 5497
+aboveboard,honest,open,truthful,artless,impartial,simple,unbiased,fair,ingenuous,sincere,unprejudiced,frank,innocent,straightforward,unreserved,guileless,naive,transparent,unsophisticated,
+
+ NEAT  index: 14456
+clean,dapper,nice,prim,tidy,cleanly,natty,orderly,spruce,trim,
+
+ KIN  index: 13211
+affinity,blood,descent,kind,race,alliance,consanguinity,family,kindred,relationship,birth,
+
+ SAGACIOUS  index: 18644
+able,intelligent,perspicacious,sensible,acute,keen,scent,sharp,apt,keen-sighted,quick-scented,sharp-witted,clear-sighted,keen-witted,rational,shrewd,discerning,judicious,sage,wise,
+
+ APIECE  index: 3002
+distributively,each,individually,separately,severally,
+
+ FAREWELL  index: 9944
+adieu,good-by,salutation,valedictory,congé,leave-taking,valediction,
+
+ LAW  index: 13348
+canon,economy,legislation,principle,code,edict,mandate,regulation,command,enactment,order,rule,commandment,formula,ordinance,statute,decree,jurisprudence,polity,
+
+ CLEANSE  index: 6351
+brush,dust,purify,scour,sponge,wash,clean,lave,rinse,scrub,sweep,wipe,disinfect,mop,
+
+ YET  index: 21505
+besides,further,hitherto,now,still,far,
+
+ HAPPINESS  index: 11110
+blessedness,delight,gladness,pleasure,bliss,ecstasy,gratification,rapture,cheer,enjoyment,joy,rejoicing,comfort,felicity,merriment,satisfaction,contentment,gaiety,mirth,triumph,
+
+ FAITH  index: 9742
+assent,confidence,credit,opinion,assurance,conviction,creed,reliance,belief,credence,doctrine,trust,
+
+ HYPOCRITE  index: 11972
+cheat,deceiver,dissembler,impostor,pretender,
+
+ AVOW  index: 4118
+knowledge,aver,confess,own,profess,testify,admit,avouch,declare,proclaim,protest,witness,
+
+ HELP  index: 11467
+abet,befriend,foster,succor,uphold,aid,cooperate,second,support,assist,encourage,by,sustain,
+
+ DECAY  index: 7295
+corrupt,decompose,molder,putrefy,rot,spoil,
+
+ DRIVE  index: 8380
+compel,propel,repel,resist,thrust,impel,push,repulse,ride,on,
+
+ LIGHT  index: 13437
+blaze,gleam,glow,shimmer,flame,gleaming,illumination,shine,flare,glimmer,incandescence,shining,flash,glistening,luster,sparkle,flicker,glistering,scintillation,twinkle,glare,glitter,sheen,twinkling,
+
+ BANTER  index: 4338
+badinage,derision,jeering,raillery,sarcasm,chaff,irony,mockery,ridicule,satire,
+
+ PROPITIATION  index: 16857
+atonement,expiation,reconciliation,satisfaction,
+
+ CHARMING  index: 6127
+bewitching,delightful,enrapturing,fascinating,captivating,enchanting,entrancing,winning,
+
+ LARGE  index: 13317
+abundant,coarse,gigantic,long,ample,colossal,grand,massive,big,commodious,great,spacious,broad,considerable,huge,vast,bulky,enormous,immense,wide,capacious,extensive,
+
+ APPENDAGE  index: 3141
+accessory,addition,appurtenance,concomitant,accompaniment,adjunct,attachment,extension,addendum,appendix,auxiliary,supplement,
+
+ COMPLEX  index: 6674
+abstruse,confused,intricate,mixed,complicated,conglomerate,involved,multiform,composite,entangled,manifold,obscure,compound,heterogeneous,mingled,tangled,
+
+ DESIGN  index: 7638
+aim,cause,object,proposal,device,intent,plan,purpose,end,intention,project,scheme,
+
+ ATTAIN  index: 3820
+accomplish,at,gain,master,reach,achieve,compass,get,obtain,secure,acquire,earn,grasp,procure,win,
+
+ TESTIMONY  index: 20449
+affidavit,attestation,deposition,proof,affirmation,certification,evidence,witness,
+
+ FORTITUDE  index: 10436
+courage,endurance,heroism,resolution,
+
+ TRANSCENDENTAL  index: 20754
+priori,intuitive,original,primordial,transcendent,
+
+ ABRIDGMENT  index: 386
+abbreviation,compend,epitome,summary,abstract,compendium,outline,synopsis,analysis,digest,
+
+ PREVENT  index: 16464
+anticipate,forestall,obviate,preclude,
+
+ MODESTY  index: 14156
+backwardness,constraint,reserve,timidity,bashfulness,coyness,shyness,unobtrusiveness,coldness,diffidence,
+
+ HIDE  index: 11569
+bury,cover,entomb,overwhelm,suppress,cloak,disguise,inter,screen,veil,conceal,dissemble,mask,secrete,
+
+ TASTEFUL  index: 20272
+artistic,delicate,esthetic,fastidious,nice,chaste,delicious,esthetical,fine,tasty,dainty,elegant,exquisite,
+
+ EQUIVOCAL  index: 9217
+ambiguous,enigmatical,indistinct,questionable,doubtful,indefinite,obscure,suspicious,dubious,indeterminate,perplexing,uncertain,enigmatic,
+
+ GET  index: 10816
+achieve,attain,gain,procure,secure,acquire,earn,obtain,receive,win,
+
+ ASSUME  index: 3618
+accept,arrogate,postulate,on,affect,claim,presume,take,appropriate,feign,pretend,usurp,
+
+ COMPANY  index: 6566
+assemblage,concourse,convocation,host,assembly,conference,crowd,meeting,collection,congregation,gathering,multitude,conclave,convention,group,throng,
+
+ CONFIRM  index: 6797
+assure,fix,sanction,substantiate,corroborate,prove,settle,sustain,establish,ratify,strengthen,uphold,
+
+ EXPLICIT  index: 9619
+express,
+
+ CONTRACT  index: 7011
+agreement,cartel,engagement,pledge,arrangement,compact,obligation,promise,bargain,covenant,pact,stipulation,
+
+ SIN  index: 19206
+crime,fault,misdeed,vice,criminality,guilt,offense,viciousness,delinquency,ill-doing,transgression,wickedness,depravity,immorality,ungodliness,wrong,evil,iniquity,unrighteousness,wrong-doing,
+
+ FOOD  index: 10341
+aliment,feed,nourishment,pabulum,sustenance,diet,fodder,nutriment,provender,viands,fare,forage,nutrition,regimen,victuals,
+
+ CABAL  index: 5323
+combination,confederacy,crew,gang,conclave,conspiracy,faction,junto,
+
+ PLEAD  index: 15920
+advocate,ask,beseech,implore,solicit,argue,beg,entreat,press,urge,
+
+ CARRY  index: 5695
+bear,convey,move,sustain,transmit,bring,lift,remove,take,transport,
+
+ PROPOSAL  index: 16912
+bid,offer,overture,proposition,
+
+ ABSOLUTE  index: 410
+arbitrary,compulsory,haughty,peremptory,arrogant,controlling,imperative,positive,authoritative,despotic,imperious,supreme,autocratic,dictatorial,irresponsible,tyrannical,coercive,dogmatic,lordly,unconditional,commanding,domineering,overbearing,unequivocal,compulsive,exacting,
+
+ YOUTHFUL  index: 21529
+adolescent,callow,childlike,immature,puerile,boyish,childish,girlish,juvenile,young,
+
+ CONDEMN  index: 6718
+blame,convict,doom,reprove,censure,denounce,reprobate,sentence,
+
+ LOVE  index: 13652
+affection,charity,friendship,regard,attachment,devotion,liking,tenderness,attraction,fondness,
+
+ ABSTRACTED  index: 613
+absent,heedless,listless,preoccupied,absent-minded,inattentive,negligent,thoughtless,absorbed,indifferent,oblivious,
+
+ UNION  index: 20820
+coalition,conjunction,juncture,unification,combination,junction,oneness,unity,
+
+ REPENTANCE  index: 17958
+compunction,contriteness,regret,self-condemnation,contrition,penitence,remorse,sorrow,
+
+ HAZARD  index: 11406
+accident,chance,danger,jeopardy,risk,casualty,contingency,fortuity,peril,venture,
+
+ EAGER  index: 8486
+animated,desirous,glowing,importunate,longing,anxious,earnest,hot,intense,vehement,ardent,enthusiastic,impatient,intent,yearning,burning,fervent,impetuous,keen,zealous,
+
+ SLANDER  index: 19384
+asperse,decry,disparage,revile,backbite,defame,libel,traduce,calumniate,depreciate,malign,vilify,
+
+ SUPPOSE  index: 20102
+conjecture,deem,guess,imagine,surmise,think,
+
+ LIBERTY  index: 13403
+emancipation,freedom,independence,license,
+
+ CAPARISON  index: 5539
+accouterments,harness,housings,trappings,
+
+ ACTIVE  index: 963
+agile,energetic,officious,sprightly,alert,expeditious,prompt,spry,brisk,industrious,quick,supple,bustling,lively,ready,vigorous,busy,mobile,restless,awake,diligent,nimble,
+
+ AUGUR  index: 3949
+betoken,divine,foretell,predict,prognosticate,bode,forebode,portend,presage,prophesy,
+
+ APPETITE  index: 3185
+appetency,impulse,lust,propensity,craving,inclination,passion,relish,desire,liking,proclivity,thirst,disposition,longing,proneness,zest,
+
+ NORMAL  index: 14702
+common,natural,ordinary,regular,typical,usual,
+
+ AGREE  index: 1454
+accede,admit,coincide,concur,accept,approve,combine,consent,accord,assent,comply,harmonize,acquiesce,
+
+ EFFRONTERY  index: 8613
+assurance,boldness,hardihood,insolence,audacity,brass,impudence,shamelessness,
+
+ FRUGALITY  index: 10637
+economy,parsimony,saving,sparing,miserliness,providence,scrimping,thrift,parsimoniousness,prudence,
+
+ DEMOLISH  index: 7588
+destroy,overthrow,overturn,raze,ruin,
+
+ FINANCIAL  index: 10159
+fiscal,monetary,pecuniary,
+
+ TRACE  index: 20681
+footmark,impression,remains,token,trail,footprint,mark,remnant,track,vestige,footstep,memorial,sign,
+
+ PATIENCE  index: 15366
+calmness,forbearance,long-suffering,sufferance,composure,fortitude,resignation,endurance,leniency,submission,
+
+ CAREER  index: 5622
+charge,flight,passage,race,course,achievement,life,rush,
+
+ CATCH  index: 5774
+apprehend,comprehend,grasp,overtake,snatch,capture,discover,grip,secure,take,clasp,ensnare,gripe,seize,of,clutch,entrap,(on,upon),
+
+ HABIT  index: 11041
+custom,habitude,routine,system,use,fashion,practise,rule,usage,wont,
+
+ COMPEL  index: 6609
+coerce,drive,make,oblige,constrain,force,necessitate,
+
+ APPROXIMATION  index: 3253
+approach,likeness,neighborhood,resemblance,contiguity,nearness,propinquity,similarity,
+
+ PRICE  index: 16555
+charge,cost,expenditure,expense,outlay,value,worth,
+
+ SEVERE  index: 19018
+austere,inflexible,rigorous,uncompromising,hard,morose,stern,unmitigated,harsh,relentless,stiff,unrelenting,inexorable,rigid,strict,unyielding,
+
+ RELUCTANT  index: 17818
+averse,disinclined,loath,slow,backward,indisposed,opposed,unwilling,
+
+ MOB  index: 14119
+canaille,people,masses,rabble,crowd,classes,populace,vulgar,
+
+ BOUNDARY  index: 5021
+barrier,confines,limit,margin,border,edge,line,term,bound,enclosure,marches,termination,bourn,frontier,marge,verge,bourne,landmark,
+
+ DEMONSTRATION  index: 7610
+certainty,consequence,evidence,inference,conclusion,deduction,induction,proof,
+
+ DISCERN  index: 7939
+behold,discriminate,observe,recognize,descry,distinguish,perceive,see,
+
+ REAL  index: 17445
+actual,demonstrable,genuine,true,authentic,developed,positive,unquestionable,certain,essential,substantial,veritable,
+
+ DUTY  index: 8459
+accountability,function,office,right,business,obligation,responsibility,righteousness,
+
+ ADHERENT  index: 1223
+aid,ally,disciple,partisan,supporter,aider,backer,follower,
+
+ BLOW  index: 4916
+box,concussion,disaster,misfortune,stripe,buffet,cuff,knock,rap,stroke,calamity,cut,lash,shock,thump,
+
+ GIVE  index: 10898
+bestow,communicate,deliver,grant,supply,cede,confer,furnish,impart,
+
+ SUBVERT  index: 19952
+destroy,overthrow,ruin,supplant,extinguish,overturn,supersede,suppress,
+
+ VERACITY  index: 21135
+candor,honesty,reality,truthfulness,frankness,ingenuousness,truth,verity,
+
+ PERNICIOUS  index: 15619
+bad,evil,mischievous,pestilential,baneful,foul,noisome,poisonous,deadly,harmful,noxious,ruinous,deleterious,hurtful,perverting,unhealthful,destructive,injurious,pestiferous,unwholesome,detrimental,insalubrious,
+
+ ALLEGIANCE  index: 1908
+devotion,fealty,loyalty,obedience,subjection,faithfulness,homage,
+
+ ABIDE  index: 270
+anticipate,dwell,remain,stop,await,endure,reside,tarry,bear,expect,rest,tolerate,bide,inhabit,sojourn,wait,confront,live,stay,watch,continue,lodge,
+
+ SNEER  index: 19477
+fling,gibe,jeer,mock,scoff,taunt,
+
+ FEMININE  index: 10009
+effeminate,female,womanish,womanly,
+
+ PORTION  index: 16156
+lot,parcel,part,proportion,share,
+
+ ALLURE  index: 2185
+attract,captivate,decoy,entice,lure,tempt,cajole,coax,draw,inveigle,seduce,win,
+
+ SELF-ABNEGATION  index: 18873
+self-control,self-devotion,self-renunciation,self-denial,self-immolation,self-sacrifice,
+
+ BEND  index: 4717
+bias,curve,diverge,mold,submit,twist,bow,deflect,incline,persuade,turn,warp,crook,deviate,influence,stoop,twine,yield,
+
+ ANALOGY  index: 2579
+affinity,likeness,relation,similarity,coincidence,parity,resemblance,simile,comparison,proportion,semblance,similitude,
+
+ HOME  index: 11778
+abode,dwelling,habitation,hearthstone,ingleside,domicil,fireside,hearth,house,residence,
+
+ HUMANE  index: 11877
+benevolent,compassionate,human,pitying,benignant,forgiving,kind,sympathetic,charitable,gentle,kind-hearted,tender,clement,gracious,merciful,tender-hearted,
+
+ STAIN  index: 19670
+blot,discolor,dishonor,soil,sully,tinge,color,disgrace,dye,spot,tarnish,tint,
+
+ ROBBER  index: 18525
+bandit,depredator,freebooter,pirate,brigand,despoiler,highwayman,plunderer,buccaneer,footpad,marauder,raider,burglar,forager,pillager,thief,
+
+ NATIVE  index: 14413
+indigenous,innate,natal,natural,original,
+
+ BIND  index: 4796
+compel,fetter,oblige,restrict,shackle,engage,fix,restrain,secure,tie,fasten,
+
+ DEFINITION  index: 7423
+comment,description,exposition,rendering,commentary,explanation,interpretation,translation,
+
+ PERTNESS  index: 15716
+boldness,forwardness,liveliness,sprightliness,briskness,impertinence,sauciness,flippancy,impudence,smartness,
+
+ OLD  index: 14932
+aged,decrepit,immemorial,senile,ancient,elderly,olden,time-honored,antiquated,gray,patriarchal,time-worn,antique,hoary,remote,venerable,
+
+ GIFT  index: 10859
+benefaction,boon,bribe,grant,largess,bequest,bounty,donation,gratuity,present,
+
+ ARMY  index: 3311
+armament,forces,military,soldiers,array,host,multitude,soldiery,force,legions,phalanx,troops,
+
+ GENDER  index: 10699
+sex,
+
+ ENTERTAINMENT  index: 9076
+amusement,diversion,fun,pleasure,cheer,enjoyment,merriment,recreation,delight,frolic,pastime,sport,
+
+ ARMS  index: 3293
+accouterments,armor,harness,mail,weapons,
+
+ KILL  index: 13178
+assassinate,despatch,massacre,death,slay,butcher,execute,murder,slaughter,
+
+ GENIUS  index: 10790
+talent,talents,
+
+ INDUCTION  index: 12538
+deduction,inference,
+
+ CEASE  index: 5850
+abstain,desist,over,quit,end,discontinue,intermit,refrain,end,end,off,stop,conclude,finish,pause,terminate,
+
+ HARMONY  index: 11236
+accord,concurrence,consistency,uniformity,accordance,conformity,consonance,union,agreement,congruity,symmetry,unison,amity,consent,unanimity,unity,concord,tones,thoughts,feelings,different,
+
+ ALLEGORY  index: 1944
+fable,fiction,illustration,metaphor,parable,simile,
+
+ HATRED  index: 11330
+abhorrence,detestation,hostility,rancor,anger,dislike,will,repugnance,animosity,enmity,malevolence,resentment,antipathy,grudge,malice,revenge,aversion,hate,malignity,spite,
+
+ MOROSE  index: 14218
+acrimonious,dogged,ill-natured,splenetic,churlish,gloomy,severe,sulky,crabbed,gruff,snappish,sullen,crusty,ill-humored,sour,surly,
+
+ EGOTISM  index: 8647
+conceit,self-assertion,self-confidence,self-esteem,egoism,self-conceit,self-consciousness,vanity,
+
+ EXERCISE  index: 9561
+act,application,exertion,performance,action,drill,occupation,practise,activity,employment,operation,use,
+
+ SATISFY  index: 18736
+cloy,fill,sate,suffice,content,glut,satiate,surfeit,
+
+ LITERATURE  index: 13549
+belles-lettres,productions,publications,books,works,writings,
+
+ APPORTION  index: 3220
+allot,appropriate,deal,distribute,grant,appoint,assign,dispense,divide,share,
+
+ PALLIATE  index: 15164
+for,conceal,extenuate,hide,screen,cloak,cover,over,mitigate,veil,
+
+ JUSTICE  index: 13088
+equity,impartiality,legality,rightfulness,fairness,integrity,rectitude,truth,play,justness,right,uprightness,faithfulness,law,righteousness,virtue,honor,lawfulness,
+
+ LOCK  index: 13601
+bar,catch,fastening,hook,bolt,clasp,hasp,latch,
+
+ APPARENT  index: 3070
+likely,presumable,probable,seeming,
+
+ DISPLACE  index: 8051
+confuse,derange,disturb,mislay,remove,out,disarrange,jumble,misplace,unsettle,
+
+ ABSOLVE  index: 467
+acquit,exculpate,forgive,pardon,clear,exempt,free,release,discharge,exonerate,liberate,free,
+
+ NIMBLE  index: 14674
+active,alert,bustling,prompt,speedy,spry,agile,brisk,lively,quick,sprightly,swift,
+
+ MOURN  index: 14277
+bemoan,deplore,lament,regret,rue,sorrow,bewail,grieve,
+
+ IMAGINATION  index: 12211
+fancy,fantasy,phantasy,
+
+ CRIMINAL  index: 7174
+abominable,flagitious,immoral,sinful,vile,culpable,guilty,iniquitous,unlawful,wicked,felonious,illegal,nefarious,vicious,wrong,
+
+ WAY  index: 21359
+alley,course,lane,path,route,avenue,driveway,pass,pathway,street,bridle-path,highroad,passage,road,thoroughfare,channel,highway,passageway,roadway,track,
+
+ ENTHUSIASM  index: 9112
+ardor,excitement,frenzy,transport,devotion,extravagance,inspiration,vehemence,eagerness,fanaticism,intensity,warmth,earnestness,fervency,passion,zeal,ecstasy,fervor,rapture,
+
+ PERPLEXITY  index: 15650
+amazement,bewilderment,distraction,doubt,astonishment,confusion,disturbance,embarrassment,
+
+ HAPPEN  index: 11080
+bechance,chance,out,supervene,befall,pass,occur,place,betide,fall,
+
+ PRETENSE  index: 16431
+affectation,disguise,pretext,simulation,air,dissimulation,ruse,subterfuge,assumption,excuse,seeming,trick,cloak,mask,semblance,wile,color,pretension,show,
+
+ WANDER  index: 21323
+deviate,diverge,astray,range,rove,swerve,digress,err,ramble,roam,stray,veer,
+
+ COMPLAIN  index: 6640
+croak,growl,grunt,remonstrate,fault,grumble,murmur,repine,
+
+ AIM  index: 1541
+aspiration,endeavor,intention,tendency,design,goal,mark,determination,inclination,object,end,intent,purpose,
+
+ NAME  index: 14364
+agnomen,denomination,prenomen,surname,appellation,designation,style,title,cognomen,epithet,
+
+ DELIBERATE  index: 7469
+confer,consult,meditate,reflect,consider,debate,ponder,weigh,
+
+ SHELTER  index: 19129
+cover,guard,protect,shield,defend,harbor,screen,ward,
+
+ PROTRACT  index: 16961
+continue,delay,elongate,lengthen,procrastinate,defer,out,extend,postpone,prolong,
+
+ HONEST  index: 11808
+candid,frank,ingenuous,true,equitable,genuine,just,trustworthy,fair,good,sincere,trusty,faithful,honorable,straightforward,upright,
+
+ PIQUE  index: 15794
+displeasure,irritation,offense,resentment,umbrage,grudge,
+
+ JOURNEY  index: 13018
+excursion,pilgrimage,transit,trip,expedition,tour,travel,voyage,
+
+ CHOOSE  index: 6203
+cull,elect,pick,out,prefer,select,
+
+ ABATE  index: 157
+decline,ebb,mitigate,reduce,decrease,lessen,moderate,subside,diminish,lower,
+
+ QUEER  index: 17194
+anomalous,erratic,odd,strange,bizarre,extraordinary,peculiar,uncommon,comical,fantastic,preposterous,unique,crotchety,funny,quaint,unmatched,curious,grotesque,ridiculous,unusual,droll,laughable,singular,whimsical,eccentric,ludicrous,
+
+ PUT  index: 17174
+deposit,lay,place,set,
+
+ AMAZEMENT  index: 2348
+admiration,awe,confusion,surprise,astonishment,bewilderment,perplexity,wonder,
+
+ CHASTEN  index: 6147
+afflict,chastise,discipline,punish,refine,subdue,castigate,correct,humble,purify,soften,try,
+
+ QUICKEN  index: 17241
+accelerate,on,hasten,promote,advance,expedite,hurry,speed,despatch,facilitate,haste,urge,drive,further,forward,on,
+
+ EVENT  index: 9362
+case,contingency,fortune,outcome,chance,end,incident,possibility,circumstance,episode,issue,result,consequence,fact,occurrence,sequel,
+
+ CONTRAST  index: 7037
+compare,differentiate,discriminate,oppose,
+
+ UTILITY  index: 20879
+advantage,expediency,serviceableness,avail,profit,use,benefit,service,usefulness,
+
+ VACANT  index: 20917
+blank,leisure,unfilled,untenanted,void,empty,unemployed,unoccupied,vacuous,waste,
+
+ DECEPTION  index: 7318
+craft,dissimulation,finesse,lie,cunning,double-dealing,fraud,lying,deceit,duplicity,guile,prevarication,deceitfulness,fabrication,hypocrisy,trickery,delusion,falsehood,imposition,untruth,
+
+ DANGER  index: 7234
+hazard,insecurity,jeopardy,peril,risk,
+
+ DIE  index: 7798
+cease,decline,expire,perish,decease,depart,fade,wither,
+
+ CONFESS  index: 6765
+accept,allow,concede,grant,acknowledge,avow,disclose,own,admit,certify,endorse,recognize,
+
+ DAILY  index: 7209
+diurnal,
+
+ AIR  index: 1579
+appearance,demeanor,manner,sort,bearing,expression,mien,style,behavior,fashion,port,way,carriage,look,
+
+ ABBREVIATION  index: 187
+abridgment,contraction,
+
+ AGRICULTURE  index: 1500
+cultivation,gardening,kitchen-gardening,culture,horticulture,market-gardening,farming,husbandry,tillage,floriculture,
+
+ BRUTISH  index: 5148
+animal,brutal,ignorant,sensual,swinish,base,brute,imbruted,sottish,unintellectual,beastly,carnal,insensible,stolid,unspiritual,bestial,coarse,lascivious,stupid,vile,
+
+ DESPAIR  index: 7712
+desperation,despondency,discouragement,hopelessness,
+
+ VIRTUE  index: 21270
+chastity,honesty,probity,truth,duty,honor,purity,uprightness,excellence,integrity,rectitude,virtuousness,faithfulness,justice,righteousness,worth,goodness,morality,rightness,worthiness,
+
+ EXAMPLE  index: 9467
+archetype,ideal,prototype,type,ensample,model,sample,warning,exemplar,pattern,specimen,exemplification,precedent,standard,
+
+ CHERISH  index: 6172
+cheer,encourage,harbor,nurse,shelter,to,entertain,dear,nurture,treasure,comfort,foster,nourish,protect,value,
+
+ PITIFUL  index: 15821
+abject,lamentable,paltry,sorrowful,base,miserable,pathetic,touching,contemptible,mournful,piteous,woful,despicable,moving,pitiable,wretched,
+
+ DISPARAGE  index: 8024
+belittle,depreciate,discredit,underestimate,at,from,dishonor,underrate,decry,from,lower,undervalue,
+
+ OVERSIGHT  index: 15100
+care,control,management,surveillance,charge,direction,superintendence,watch,command,inspection,supervision,watchfulness,entirety,
+
+ AXIOM  index: 4224
+truism,
+
+ ASSURANCE  index: 3647
+arrogance,boldness,impudence,self-confidence,assertion,confidence,presumption,self-reliance,assumption,effrontery,self-assertion,trust,
+
+ SCHOLAR  index: 18770
+disciple,learner,pupil,savant,student,
+
+ DESIRE  index: 7676
+appetency,concupiscence,hankering,proclivity,appetite,coveting,inclination,propensity,aspiration,craving,longing,wish,
+
+ TEMERITY  index: 20353
+audacity,heedlessness,presumption,foolhardiness,over-confidence,rashness,hardihood,precipitancy,recklessness,hastiness,precipitation,venturesomeness,
+
+ THRONG  index: 20500
+concourse,crowd,host,jam,mass,multitude,press,
+
+ ACQUAINTANCE  index: 822
+association,experience,fellowship,intimacy,companionship,familiarity,friendship,knowledge,
+
+ AMIABLE  index: 2467
+agreeable,engaging,lovable,pleasing,attractive,gentle,lovely,sweet,benignant,good-natured,loving,winning,harming,kind,pleasant,winsome,
+
+ ALLUDE  index: 2154
+advert,indicate,intimate,point,signify,hint,insinuate,mention,refer,suggest,imply,
+
+ REVENGE  index: 18304
+avenging,retaliation,retribution,vengeance,requital,
+
+ FEUD  index: 10058
+affray,brawl,contest,dissension,hostility,animosity,broil,controversy,enmity,quarrel,bitterness,contention,dispute,fray,strife,
+
+ RECORD  index: 17625
+account,enrolment,instrument,register,archive,entry,inventory,roll,catalogue,enumeration,memorandum,schedule,chronicle,history,memorial,scroll,document,inscription,muniment,
+
+ SPEECH  index: 19592
+address,dissertation,oration,speaking,discourse,harangue,oratory,talk,disquisition,language,sermon,utterance,
+
+ BLUFF  index: 4944
+abrupt,brusk,impolite,rough,blunt,coarse,inconsiderate,rude,blustering,discourteous,open,uncivil,bold,frank,plain-spoken,unmannerly,
+
+ DIFFICULT  index: 7881
+arduous,hard,onerous,toilsome,exhausting,laborious,severe,trying,
+
+ EDUCATION  index: 8556
+breeding,discipline,learning,study,cultivation,information,nurture,teaching,culture,instruction,reading,training,development,knowledge,schooling,tuition,
+
+ ASTUTE  index: 3678
+acute,discerning,penetrating,sharp,clear-sighted,discriminating,penetrative,shrewd,crafty,keen,perspicacious,subtile,cunning,knowing,sagacious,subtle,
+
+ PERFECT  index: 15515
+absolute,consummate,holy,spotless,accurate,correct,ideal,stainless,blameless,entire,immaculate,unblemished,complete,faultless,sinless,undefiled,completed,finished,
+
+ SKETCH  index: 19306
+brief,draft,outline,plan,design,drawing,picture,skeleton,
+
+ CONSOLE  index: 6952
+comfort,with,encourage,with,
+
+ AUXILIARY  index: 4022
+accessory,ally,coadjutor,helper,promoter,aid,assistant,confederate,mercenary,subordinate,
+
+ CONTAGION  index: 6974
+infection,
+
+ TACITURN  index: 20242
+close,mute,reticent,speechless,dumb,reserved,silent,uncommunicative,
+
+ CIRCUMLOCUTION  index: 6236
+diffuseness,prolixity,surplusage,verbiage,periphrasis,redundance,tautology,verbosity,pleonasm,redundancy,tediousness,wordiness,
+
+ TERM  index: 20389
+article,denomination,member,phrase,condition,expression,name,word,
+
+ REST  index: 18140
+calm,pause,quietness,slumber,calmness,peace,quietude,stay,cessation,peacefulness,recreation,stillness,ease,quiescence,repose,stop,intermission,quiet,sleep,tranquillity,
+
+ ABOLISH  index: 306
+abate,eradicate,prohibit,out,abrogate,exterminate,remove,subvert,annihilate,extirpate,repeal,supplant,annul,nullify,reverse,suppress,destroy,obliterate,revoke,terminate,end,overthrow,aside,
+
+ IDIOCY  index: 12113
+fatuity,foolishness,incapacity,stupidity,folly,imbecility,senselessness,
+
+ BRAVE  index: 5064
+adventurous,courageous,fearless,undaunted,bold,daring,gallant,undismayed,chivalric,dauntless,heroic,valiant,chivalrous,doughty,intrepid,venturesome,
+
+ ALLOT  index: 2050
+appoint,destine,give,out,apportion,distribute,grant,select,assign,divide,out,apart,award,
+
+ ALLOW  index: 2093
+admit,to,let,sanction,tolerate,concede,grant,permit,suffer,yield,
+
+ CAPITAL  index: 5557
+city,metropolis,government,
+
+ CANCEL  index: 5462
+abolish,discharge,nullify,rescind,abrogate,efface,obliterate,revoke,
+
+ PRIMEVAL  index: 16641
+aboriginal,indigenous,patriarchal,primitive,ancient,native,primal,primordial,autochthonic,old,primary,pristine,immemorial,original,prime,uncreated,
+
+ FICTION  index: 10087
+allegory,fabrication,invention,myth,romance,apologue,falsehood,legend,novel,story,fable,figment,
+
+ SUPPORT  index: 20058
+bear,cherish,keep,maintain,sustain,carry,up,up,prop,uphold,
+
+ BANK  index: 4313
+beach,bound,brink,edge,margin,shore,border,brim,coast,marge,rim,strand,
+
+ ADORN  index: 1356
+beautify,decorate,garnish,illustrate,bedeck,embellish,gild,ornament,deck,
+
+ SAMPLE  index: 18710
+case,exemplification,instance,example,illustration,specimen,
+
+ ALLOY  index: 2134
+admixture,adulteration,debasement,deterioration,
+
+ RETIREMENT  index: 18249
+loneliness,privacy,seclusion,solitude,
+
+ PROWESS  index: 17033
+bravery,gallantry,intrepidity,courage,heroism,valor,
+
+ ASSOCIATE  index: 3545
+accomplice,coadjutor,comrade,fellow,mate,ally,colleague,confederate,friend,partner,chum,companion,consort,helpmate,peer,
+
+ IMMINENT  index: 12391
+impending,threatening,
+
+ MAKE  index: 13704
+become,constrain,fabricate,manufacture,about,construct,fashion,occasion,being,create,force,perform,pass,do,frame,reach,cause,effect,get,render,compel,establish,out,require,compose,execute,up,shape,constitute,
+
+ ETERNAL  index: 9332
+deathless,fadeless,never-failing,undying,endless,immortal,perennial,unending,eonian,imperishable,perpetual,unfading,everlasting,interminable,timeless,unfailing,ever-living,never-ending,unceasing,end,
+
+ ALERT  index: 1672
+active,lively,prepared,vigilant,brisk,nimble,prompt,watchful,hustling,watch,ready,wide-awake,
+
+ INQUISITIVE  index: 12869
+curious,meddlesome,peeping,scrutinizing,inquiring,meddling,prying,searching,intrusive,
+
+ AVARICIOUS  index: 4052
+close,greedy,niggardly,penurious,sordid,covetous,miserly,parsimonious,rapacious,stingy,
+
+ DEFENSE  index: 7357
+apology,guard,rampart,shelter,bulwark,justification,resistance,shield,fortress,protection,safeguard,vindication,
+
+ IMMEDIATELY  index: 12328
+once,instanter,presently,straightway,directly,instantly,away,instant,forthwith,now,off,delay,
+
+ CALM  index: 5419
+collected,imperturbable,sedate,still,composed,peaceful,self-possessed,tranquil,cool,placid,serene,undisturbed,dispassionate,quiet,smooth,unruffled,
+
+ ANIMAL  index: 2671
+beast,fauna,organism,being,brute,creature,
+
+ MEMORY  index: 13882
+recollection,reminiscence,retrospect,retrospection,remembrance,
+
+ VENAL  index: 20998
+hireling,mercenary,purchasable,salable,
+
+ AUTHENTIC  index: 3984
+accepted,certain,original,sure,accredited,current,real,true,authoritative,genuine,received,trustworthy,authorized,legitimate,reliable,veritable,
+
+ HINDER  index: 11664
+baffle,clog,foil,obstruct,retard,balk,counteract,frustrate,oppose,stay,bar,delay,hamper,prevent,stop,block,embarrass,impede,resist,thwart,check,encumber,interrupt,
+
+ BLEMISH  index: 4891
+blot,defacement,disgrace,injury,spot,blur,defect,dishonor,reproach,stain,brand,deformity,fault,smirch,stigma,crack,dent,flaw,soil,taint,daub,disfigurement,imperfection,speck,tarnish,
+
+ EVIDENT  index: 9426
+apparent,glaring,overt,tangible,clear,indubitable,palpable,transparent,conspicuous,manifest,patent,unmistakable,discernible,obvious,perceptible,visible,distinct,open,plain,
+
+ PEOPLE  index: 15441
+commonwealth,nation,race,state,tribe,community,population,
+
+ HEALTHY  index: 11437
+hale,hygienic,sanitary,vigorous,healthful,salubrious,sound,well,hearty,salutary,strong,wholesome,
+
+ TOOL  index: 20601
+apparatus,implement,machine,utensil,appliance,instrument,mechanism,weapon,
+
+ ROYAL  index: 18544
+august,kingly,majestic,princely,kinglike,magnificent,munificent,regal,
+
+ SUBSIDY  index: 19923
+aid,bounty,indemnity,reward,support,allowance,gift,pension,subvention,tribute,bonus,grant,premium,
+
+ REPROOF  index: 18017
+admonition,chiding,disapproval,reprimand,animadversion,comment,objurgation,reproach,blame,condemnation,rebuke,reproval,censure,criticism,reflection,upbraiding,check,denunciation,reprehension,
+
+ DUPLICATE  index: 8423
+copy,facsimile,likeness,reproduction,counterpart,imitation,replica,transcript,
+
+ ALLIANCE  index: 2011
+coalition,confederation,fusion,partnership,compact,federation,league,union,confederacy,
+
+ PREJUDICE  index: 16399
+bias,preconception,presumption,partiality,prepossession,unfairness,
+
+ SKILFUL  index: 19348
+accomplished,apt,dexterous,happy,proficient,adept,clever,expert,ingenious,skilled,adroit,deft,handy,practised,trained,
+
+ HAVE  index: 11375
+of,hold,occupy,own,possess,of,
+
+ REQUITE  index: 18106
+avenge,punish,remunerate,revenge,compensate,quit,repay,reward,pay,reciprocate,retaliate,satisfy,off,recompense,return,with,
+
+ ARREST  index: 3402
+apprehend,detain,restrain,stop,capture,hold,secure,custody,catch,prisoner,seize,prisoner,
+
+ ALLEGE  index: 1875
+adduce,asseverate,claim,maintain,produce,advance,assign,declare,offer,say,affirm,aver,introduce,plead,state,assert,cite,
+
+ ORDER  index: 15000
+command,injunction,mandate,requirement,direction,instruction,prohibition,
+
+ OUGHT  index: 15079
+should,
+
+ ADHESIVE  index: 1259
+cohesive,gummy,sticky,viscous,glutinous,sticking,viscid,
+
+ RARE  index: 17379
+curious,odd,scarce,unique,extraordinary,peculiar,singular,unparalleled,incomparable,precious,strange,unprecedented,infrequent,remarkable,uncommon,unusual,
+
+ ALSO  index: 2222
+well,addition,likewise,too,as,manner,similarly,withal,besides,student,
+
+ PROPOSE  index: 16938
+purpose,
+
+ REFINEMENT  index: 17685
+civilization,cultivation,culture,elegance,politeness,
+
+ CONSCIOUS  index: 6889
+advised,assured,certain,cognizant,sensible,apprised,aware,certified,informed,sure,
+
+ INFLUENCE  index: 12662
+actuate,draw,impel,induce,move,stir,compel,drive,incite,instigate,persuade,sway,dispose,excite,incline,lead,prompt,urge,
+
+ SENSATION  index: 18952
+emotion,feeling,perception,sense,
+
+ METER  index: 13960
+euphony,measure,rhythm,verse,
+
+ KEEP  index: 13142
+carry,defend,hold,preserve,retain,on,detain,maintain,protect,support,celebrate,fulfil,obey,refrain,sustain,conduct,guard,observe,restrain,withhold,
+
+ SKEPTIC  index: 19278
+agnostic,deist,doubter,infidel,unbeliever,atheist,disbeliever,freethinker,
+
+ CONVOKE  index: 7150
+assemble,together,convene,muster,call,collect,gather,summon,
+
+ EMPLOY  index: 8753
+call,engage,engross,hire,of,use,up,
+
+ EVERY  index: 9396
+all,any,both,each,either,
+
+ DELICIOUS  index: 7504
+dainty,delightful,exquisite,luscious,savory,
+
+ ABSORB  index: 500
+consume,engross,up,in,in,exhaust,swallow,up,up,imbibe,up,
+
+ ANSWER  index: 2746
+rejoinder,repartee,reply,response,retort,
+
+ BY  index: 5303
+of,of,through,with,
+
+ BENEVOLENCE  index: 4743
+almsgiving,charity,kind-heartedness,munificence,beneficence,generosity,kindliness,philanthropy,benignity,good-will,kindness,sympathy,bounty,humanity,liberality,unselfishness,
+
+ PREDESTINATION  index: 16367
+fate,foreknowledge,foreordination,necessity,
+
+ FETTER  index: 10034
+bondage,custody,gyves,irons,bonds,durance,handcuffs,manacles,chains,duress,imprisonment,shackles,
+
+ INNOCENT  index: 12836
+blameless,guiltless,inoffensive,spotless,clean,harmless,pure,stainless,clear,immaculate,right,upright,faultless,innocuous,righteous,virtuous,guileless,innoxious,sinless,
+
+ VERBAL  index: 21168
+literal,oral,vocal,
+
+ CLEAR  index: 6388
+apparent,intelligible,pellucid,transparent,diaphanous,limpid,perspicuous,unadorned,distinct,lucid,plain,unambiguous,evident,manifest,straightforward,unequivocal,explicit,obvious,translucent,unmistakable,
+
+ DELUSION  index: 7563
+error,fallacy,hallucination,illusion,phantasm,
+
+ MISFORTUNE  index: 14078
+adversity,disappointment,fortune,ruin,affliction,disaster,luck,sorrow,bereavement,distress,misadventure,stroke,blow,failure,mischance,trial,calamity,hardship,misery,tribulation,chastening,harm,mishap,trouble,chastisement,ill,reverse,visitation,
+
+ IDEA  index: 12042
+apprehension,design,impression,plan,archetype,fancy,judgment,purpose,belief,fantasy,model,sentiment,conceit,ideal,notion,supposition,concept,image,opinion,theory,conception,imagination,pattern,thought,
+
+ HIGH  index: 11622
+elevated,exalted,noble,steep,towering,eminent,lofty,proud,tall,uplifted,
+
+ DOCTRINE  index: 8156
+belief,belief,precept,teaching,faith,dogma,principle,tenet,
+
+ HETEROGENEOUS  index: 11532
+confused,mingled,unhomogeneous,conglomerate,miscellaneous,unlike,discordant,mixed,variant,dissimilar,non-homogeneous,various,
+
+ CAUSE  index: 5810
+actor,causality,designer,occasion,precedent,agent,causation,former,origin,reason,antecedent,condition,fountain,originator,source,author,creator,motive,power,spring,
+
+ FAME  index: 9820
+celebrity,eminence,honor,notoriety,reputation,credit,glory,laurels,renown,repute,distinction,
+
+ AMASS  index: 2281
+accumulate,collect,up,up,up,aggregate,gather,hoard,up,
+
+ PURCHASE  index: 17098
+acquire,for,get,procure,secure,for,buy,obtain,
+
+ ENVIOUS  index: 9185
+jealous,suspicious,
+
+ BECAUSE  index: 4572
+as,for,as,since,
+
+ ATTACHMENT  index: 3717
+adherence,devotion,friendship,regard,adhesion,esteem,inclination,tenderness,affection,estimation,love,union,
+
+ PRAY  index: 16298
+ask,bid,entreat,invoke,request,beg,upon,implore,petition,supplicate,beseech,conjure,importune,plead,
+
+ PROVERB  index: 17001
+adage,axiom,maxim,saw,aphorism,byword,motto,saying,apothegm,dictum,precept,truism,
+
+ RENOUNCE  index: 17904
+abandon,disavow,disown,recant,repudiate,abjure,discard,forswear,refuse,retract,deny,disclaim,recall,reject,revoke,
+
+ IDEAL  index: 12075
+archetype,model,pattern,prototype,standard,idea,original,
+
+ REASONING  index: 17557
+argument,argumentation,debate,ratiocination,
+
+ TOPIC  index: 20655
+division,issue,motion,proposition,subject,head,matter,point,question,theme,
+
+ TRANSIENT  index: 20781
+brief,fleeting,fugitive,short,ephemeral,flitting,momentary,temporary,evanescent,flying,passing,transitory,
+
+ ENDURE  index: 8937
+abide,bear,brook,to,sustain,afford,under,permit,suffer,tolerate,allow,with,with,support,undergo,
+
+ SUGGESTION  index: 19998
+hint,implication,innuendo,insinuation,intimation,
+
+ JUDGE  index: 13059
+arbiter,arbitrator,justice,referee,umpire,
+
+ PROGRESS  index: 16735
+advance,development,improvement,proficiency,advancement,growth,increase,progression,attainment,
+
+ ALTERNATIVE  index: 2249
+choice,election,option,pick,preference,resource,
+
+ INJURY  index: 12749
+blemish,disadvantage,hurt,loss,prejudice,damage,evil,impairment,mischief,wrong,detriment,harm,injustice,outrage,
+
+ OATH  index: 14773
+adjuration,curse,swearing,affidavit,cursing,profanity,anathema,denunciation,reprobation,ban,execration,swearing,blaspheming,imprecation,statement,blasphemy,malediction,vow,
+
+ SPEAK  index: 19563
+announce,converse,discourse,say,articulate,declaim,enunciate,talk,chat,declare,express,tell,chatter,deliver,pronounce,utter,
+
+ SOUND  index: 19533
+noise,note,tone,
+
+ CONGRATULATE  index: 6834
+felicitate,
+
+ ABET  index: 209
+advocate,countenance,incite,sanction,aid,embolden,instigate,support,assist,encourage,promote,uphold,
+
+ HUNT  index: 11907
+chase,hunting,inquisition,pursuit,search,
+
+ PAIN  index: 15127
+ache,distress,suffering,torture,agony,pang,throe,twinge,anguish,paroxysm,torment,wo(e),
+
+ DICTION  index: 7769
+expression,phrase,style,vocabulary,language,phraseology,verbiage,wording,
+
+ BUSINESS  index: 5216
+affair,commerce,handicraft,trading,art,concern,job,traffic,avocation,craft,occupation,transaction,barter,duty,profession,vocation,calling,employment,trade,work,
+
+ CIRCUMSTANCE  index: 6269
+accompaniment,fact,item,point,concomitant,feature,occurrence,position,detail,incident,particular,situation,event,
+
+ FRIGHTEN  index: 10612
+affright,appal,cow,dismay,scare,alarm,browbeat,daunt,intimidate,terrify,
+
+ ALARM  index: 1637
+affright,disquietude,fright,solicitude,apprehension,dread,misgiving,terror,consternation,fear,panic,timidity,dismay,
+
+ BURN  index: 5179
+blaze,char,flame,incinerate,to,brand,consume,flash,kindle,fire,cauterize,cremate,ignite,scorch,singe,
+
+ DISCOVER  index: 7958
+ascertain,detect,disclose,out,out,descry,discern,expose,find,invent,
+
+ FORTUNATE  index: 10457
+favored,lucky,prospered,prosperous,successful,happy,
+
+ PLENTIFUL  index: 16000
+abounding,bountiful,generous,plenteous,abundant,complete,large,profuse,adequate,copious,lavish,replete,affluent,enough,liberal,rich,ample,exuberant,luxuriant,sufficient,bounteous,full,overflowing,teeming,
+
+ VENIAL  index: 21107
+excusable,pardonable,slight,trivial,
+
+ STUPIDITY  index: 19835
+apathy,insensibility,slowness,stupefaction,dulness,obtuseness,sluggishness,stupor,
+
+ VICTORY  index: 21209
+achievement,conquest,success,triumph,advantage,mastery,supremacy,
+
+ REPORT  index: 17995
+account,narrative,rehearsal,rumor,story,description,recital,relation,statement,tale,narration,record,
+
+ NECESSARY  index: 14495
+essential,infallible,required,unavoidable,indispensable,needed,requisite,undeniable,inevitable,needful,
+
+ FEAR  index: 9967
+affright,dismay,horror,timidity,apprehension,disquietude,misgiving,trembling,awe,dread,panic,tremor,consternation,fright,terror,trepidation,
+
+ OSTENTATION  index: 15033
+boast,flourish,parade,pompousness,vaunt,boasting,pageant,pomp,show,vaunting,display,pageantry,pomposity,
+
+ FINE  index: 10179
+beautiful,excellent,polished,small,clarified,exquisite,pure,smooth,clear,gauzy,refined,splendid,comminuted,handsome,sensitive,subtile,dainty,keen,sharp,subtle,delicate,minute,slender,tenuous,elegant,nice,slight,thin,
+
+ ABHOR  index: 243
+abominate,dislike,loathe,scorn,despise,hate,nauseate,shun,detest,
+
+ HAPPY  index: 11175
+blessed,cheering,gay,lucky,rejoiced,blissful,cheery,glad,merry,rejoicing,blithe,delighted,jocund,mirthful,smiling,blithesome,delightful,jolly,pleased,sprightly,bright,dexterous,joyful,prosperous,successful,buoyant,felicitous,joyous,rapturous,sunny,cheerful,fortunate,
+
+ VENERATION  index: 21071
+adoration,awe,dread,reverence,
+
+ MYSTERIOUS  index: 14337
+abstruse,inexplicable,recondite,cabalistic,inscrutable,secret,dark,mystic,transcendental,enigmatical,mystical,unfathomable,hidden,obscure,unfathomed,incomprehensible,occult,unknown,
+
+ CENTER  index: 5913
+middle,midst,
+
+ BARRIER  index: 4392
+bar,bulwark,obstruction,rampart,barricade,hindrance,parapet,restraint,breastwork,obstacle,prohibition,restriction,
+
+ SUPERNATURAL  index: 20027
+miraculous,preternatural,superhuman,
+
+ PROFIT  index: 16694
+advantage,expediency,proceeds,service,avail,gain,receipts,usefulness,benefit,good,return,utility,emolument,improvement,returns,value,
+
+ HYPOCRISY  index: 11931
+affectation,formalism,pretense,sanctimony,cant,pharisaism,sanctimoniousness,sham,dissimulation,pietism,
+
+ POETRY  index: 16060
+meter,numbers,poesy,song,composition,poem,rime,verse,
+
+ ALIVE  index: 1803
+active,breathing,live,quick,alert,brisk,lively,subsisting,animate,existent,living,vivacious,animated,existing,
+
+ ACCESSORY  index: 723
+
+
+ MOTION  index: 14248
+act,change,movement,process,transition,action,move,passage,transit,
+
+ ADDICTED  index: 1072
+abandoned,devoted,over,inclined,accustomed,disposed,up,prone,attached,given,habituated,wedded,
+
+ ABUSE  index: 680
+
+
+ IMPEDIMENT  index: 12416
+bar,clog,encumbrance,obstacle,barrier,difficulty,hindrance,obstruction,
+
+ NECESSITY  index: 14540
+compulsion,fatality,requisite,destiny,fate,non,emergency,indispensability,unavoidableness,essential,indispensableness,urgency,exigency,need,want,extremity,requirement,
+
+ PERMANENT  index: 15558
+abiding,enduring,lasting,steadfast,changeless,fixed,perpetual,unchangeable,constant,immutable,persistent,unchanging,durable,invariable,stable,
+
+ INHERENT  index: 12707
+congenital,indispensable,innate,native,essential,indwelling,inseparable,natural,immanent,infixed,internal,subjective,inborn,ingrained,intrinsic,inbred,inhering,inwrought,
+
+ ALLAY  index: 1839
+alleviate,compose,quiet,still,appease,mollify,soothe,tranquilize,calm,pacify,
+
+ SLANG  index: 19418
+cant,colloquialism,vulgarism,vulgarity,
+
+ ABSURD  index: 641
+anomalous,ill-considered,ludicrous,ridiculous,chimerical,ill-judged,mistaken,senseless,erroneous,inconclusive,monstrous,stupid,false,incorrect,nonsensical,unreasonable,foolish,infatuated,paradoxical,wild,ill-advised,irrational,preposterous,
+
+ IMPUDENCE  index: 12455
+assurance,impertinence,intrusiveness,presumption,boldness,incivility,officiousness,rudeness,effrontery,insolence,pertness,sauciness,forwardness,
+
+ FRAUD  index: 10488
+artifice,deceit,duplicity,swindle,treason,cheat,deception,imposition,swindling,trick,cheating,dishonesty,imposture,treachery,
+
+ CALCULATE  index: 5345
+account,consider,enumerate,rate,cast,count,estimate,reckon,compute,deem,number,up,
+
+ AWKWARD  index: 4182
+boorish,clumsy,rough,unhandy,bungling,gawky,uncouth,unskilful,clownish,maladroit,ungainly,
+
+ PERMISSION  index: 15583
+allowance,authorization,leave,license,authority,consent,liberty,permit,
+
+ SCIENCE  index: 18805
+art,knowledge,
+
+ BECOMING  index: 4603
+befitting,congruous,fit,meet,seemly,beseeming,decent,fitting,neat,suitable,comely,decorous,graceful,proper,worthy,
+
+ SYNONYMOUS  index: 20157
+alike,equivalent,like,similar,correspondent,identical,same,synonymic,corresponding,interchangeable,
+
+ GENEROUS  index: 10754
+bountiful,free,liberal,noble,chivalrous,free-handed,magnanimous,open-handed,disinterested,free-hearted,munificent,open-hearted,
+
+ REBELLIOUS  index: 17583
+contumacious,mutinous,uncontrollable,disobedient,refractory,ungovernable,insubordinate,seditious,unmanageable,intractable,
+
+ WISDOM  index: 21394
+attainment,insight,prudence,depth,judgment,reason,discernment,judiciousness,reasonableness,discretion,knowledge,sagacity,enlightenment,learning,sense,erudition,prescience,skill,foresight,profundity,understanding,information,
+
+ SUBJECTIVE  index: 19888
+objective,
+
+ ENTERTAIN  index: 9042
+amuse,cheer,disport,enliven,interest,please,beguile,delight,divert,gratify,occupy,recreate,
+
+ IMMERSE  index: 12358
+bury,dip,douse,duck,immerge,plunge,sink,submerge,
+
+ SLOW  index: 19443
+dawdling,dilatory,gradual,lingering,slack,delaying,drowsy,inactive,moderate,sluggish,deliberate,dull,inert,procrastinating,tardy,
+
+ FANCIFUL  index: 9880
+chimerical,fantastic,grotesque,imaginative,visionary,
+
+ IGNORANT  index: 12180
+ill-informed,unenlightened,unlearned,untaught,illiterate,uninformed,unlettered,untutored,uneducated,uninstructed,unskilled,
+
+ AMBITION  index: 2388
+aspiration,competition,emulation,opposition,rivalry,
+
+ FIERCE  index: 10127
+ferocious,furious,raging,uncultivated,violent,fiery,impetuous,savage,untrained,wild,
+
+ FOLLOW  index: 10316
+accompany,after,after,obey,pursue,attend,copy,heed,observe,result,chase,ensue,imitate,practise,succeed,
+
+ USUAL  index: 20851
+accustomed,everyday,general,ordinary,public,common,familiar,habitual,prevailing,regular,customary,frequent,normal,prevalent,wonted,
+
+ SURRENDER  index: 20133
+abandon,cede,over,relinquish,alienate,give,up,sacrifice,capitulate,up,go,yield,
+
+ AMID  index: 2506
+amidst,amongst,betwixt,with,among,between,of,by,
+
+ SOCIALISM  index: 19509
+collectivism,communism,fabianism,
+
+ BABBLE  index: 4251
+blab,cackle,gabble,murmur,prattle,blurt,chat,gossip,palaver,tattle,out,chatter,jabber,prate,twaddle,
+
+ ACUMEN  index: 1000
+acuteness,insight,perspicacity,sharpness,cleverness,keenness,sagacity,shrewdness,discernment,penetration,
+
+ FIRE  index: 10219
+blaze,burning,combustion,conflagration,flame,
+
+ DELEGATE  index: 7450
+deputy,legate,proxy,representative,substitute,
+
+ TIME  index: 20523
+age,duration,epoch,period,sequence,term,date,eon,era,season,succession,while,
+
+ CONTINUAL  index: 6992
+ceaseless,incessant,regular,uninterrupted,constant,invariable,unbroken,unremitting,continuous,perpetual,unceasing,unvarying,
+
+ RECOVER  index: 17655
+
+
+ FRIENDLY  index: 10526
+accessible,companionable,genial,neighborly,affable,complaisant,hearty,sociable,affectionate,cordial,kind,social,amicable,favorable,kindly,tender,brotherly,fond,loving,well-disposed,
+
+ LISTEN  index: 13517
+attend,hark,harken,hear,heed,list,
+
+ DEFILE  index: 7386
+befoul,corrupt,pollute,spoil,sully,tarnish,contaminate,infect,soil,stain,taint,vitiate,
+
+ INCONGRUOUS  index: 12494
+absurd,ill-matched,inharmonious,conflicting,inapposite,irreconcilable,contradictory,inappropriate,mismatched,contrary,incommensurable,mismated,discordant,incompatible,repugnant,discrepant,inconsistent,unsuitable,together,
+
+ EMBLEM  index: 8684
+attribute,figure,image,sign,symbol,token,type,
+
+ PROHIBIT  index: 16781
+debar,forbid,inhibit,preclude,disallow,hinder,interdict,prevent,
+
+ AMEND  index: 2428
+advance,correct,meliorate,rectify,ameliorate,emend,mend,reform,better,improve,mitigate,repair,cleanse,better,purify,
+
+ ARTIFICE  index: 3436
+art,craft,finesse,invention,stratagem,blind,cunning,fraud,machination,subterfuge,cheat,device,guile,maneuver,trick,contrivance,dodge,imposture,ruse,wile,
+
+ POLITE  index: 16091
+accomplished,courtly,genteel,urbane,civil,cultivated,gracious,well-behaved,complaisant,cultured,obliging,well-bred,courteous,elegant,polished,well-mannered,
+
+ INSANITY  index: 12902
+aberration,delirium,frenzy,madness,alienation,dementia,hallucination,mania,craziness,derangement,lunacy,monomania,
+
+ POLITY  index: 16136
+
+
+ PERSUADE  index: 15682
+allure,dispose,incline,move,
+
+ OBSTINATE  index: 14865
+contumacious,headstrong,mulish,resolute,decided,heady,obdurate,resolved,determined,immovable,opinionated,stubborn,dogged,indomitable,persistent,unconquerable,firm,inflexible,pertinacious,unflinching,fixed,intractable,refractory,unyielding,
+
+ FANCY  index: 9907
+belief,desire,imagination,predilection,caprice,humor,inclination,supposition,conceit,idea,liking,vagary,conception,image,mood,whim,
+
+ ALLEVIATE  index: 1979
+abate,lighten,reduce,remove,assuage,mitigate,relieve,soften,lessen,moderate,
+
+ DOCILE  index: 8133
+amenable,manageable,pliant,teachable,compliant,obedient,submissive,tractable,gentle,pliable,tame,yielding,
+
+ NEW  index: 14631
+fresh,modern,new-made,upstart,juvenile,new-fangled,novel,young,late,new-fashioned,recent,youthful,
+
+ MODEL  index: 14135
+archetype,facsimile,original,representation,copy,image,pattern,standard,design,imitation,prototype,type,example,mold,
+
+ STEEP  index: 19751
+abrupt,high,precipitous,sharp,sheer,
+
+ NEGLECT  index: 14583
+carelessness,heedlessness,negligence,scorn,default,inadvertence,omission,slackness,disregard,inattention,oversight,slight,disrespect,indifference,remissness,thoughtlessness,failure,neglectfulness,
+
+ FRIENDSHIP  index: 10567
+affection,comity,esteem,will,amity,consideration,favor,love,attachment,devotion,friendliness,regard,
+
+ PHYSICAL  index: 15767
+bodily,corporeal,natural,tangible,corporal,material,sensible,visible,
+
+ ANTIQUE  index: 2876
+ancient,old-fashioned,quaint,superannuated,antiquated,
+
+ MUTUAL  index: 14305
+common,correlative,interchangeable,joint,reciprocal,
+
+ CARICATURE  index: 5670
+burlesque,extravaganza,mimicry,take-off,exaggeration,imitation,parody,travesty,
+
+ TIRE  index: 20569
+exhaust,fatigue,harass,jade,out,weary,fag,
+
+ RADICAL  index: 17347
+complete,ingrained,perfect,constitutional,innate,positive,entire,native,primitive,essential,natural,thorough,extreme,organic,thoroughgoing,fundamental,original,total,
+
+ EASE  index: 8522
+easiness,expertness,facility,knack,readiness,
+
+ WORK  index: 21480
+achievement,doing,labor,product,action,drudgery,occupation,production,business,employment,performance,toil,deed,exertion,
+
+ SALE  index: 18680
+bargain,barter,change,deal,exchange,trade,
+
+ AGENT  index: 1428
+actor,factor,means,operator,promoter,doer,instrument,mover,performer,
+
+ PLANT  index: 15898
+seed,down,set,out,sow,
+
+ IDLE  index: 12145
+inactive,inert,slothful,trifling,unoccupied,indolent,lazy,sluggish,unemployed,vacant,
+
+ RESTRAIN  index: 18215
+abridge,constrain,in,under,bridle,curb,keep,repress,check,hinder,back,restrict,circumscribe,hold,down,suppress,confine,back,in,withhold,
+
+ RELIGION  index: 17778
+devotion,godliness,morality,piety,theology,faith,holiness,pietism,righteousness,worship,
+
+ CONVERT  index: 7093
+disciple,neophyte,proselyte,
+
+ SHAKE  index: 19062
+agitate,jar,quake,shiver,totter,brandish,joggle,quaver,shudder,tremble,flap,jolt,quiver,sway,vibrate,fluctuate,jounce,reel,swing,wave,flutter,oscillate,rock,thrill,waver,
+
+ ASK  index: 3504
+beg,crave,entreat,petition,request,solicit,beseech,demand,implore,pray,require,supplicate,
+
+ COMMIT  index: 6541
+assign,confide,consign,entrust,relegate,trust,
+
+ ARRAY  index: 3382
+army,collection,battle,parade,arrangement,disposition,order,show,array,exhibition,battle,sight,
+
+ BEGINNING  index: 4642
+arising,inauguration,origin,source,commencement,inception,outset,spring,fount,initiation,rise,start,fountain,opening,
+
+ VAIN  index: 20957
+abortive,futile,shadowy,unsatisfying,baseless,idle,trifling,unserviceable,bootless,inconstant,trivial,unsubstantial,deceitful,ineffectual,unavailing,useless,delusive,nugatory,unimportant,vapid,empty,null,unprofitable,visionary,fruitless,profitless,unreal,worthless,
+
+ ASSOCIATION  index: 3583
+alliance,confederacy,familiarity,lodge,club,confederation,federation,participation,community,conjunction,fellowship,partnership,companionship,connection,fraternity,society,company,corporation,friendship,union,
+
+ MERCY  index: 13910
+benevolence,favor,kindness,mildness,benignity,forbearance,lenience,pardon,blessing,forgiveness,leniency,pity,clemency,gentleness,lenity,tenderness,compassion,grace,
+
+ ENTRANCE  index: 9143
+access,approach,gate,introduction,accession,door,gateway,opening,adit,doorway,ingress,penetration,admission,entrée,inlet,portal,admittance,entry,
+
+ REVOLUTION  index: 18340
+anarchy,insurrection,revolt,confusion,lawlessness,riot,disintegration,mutiny,sedition,disorder,rebellion,tumult,insubordination,
+
+ REND  index: 17870
+break,cleave,mangle,rive,sever,sunder,burst,lacerate,rip,rupture,slit,tear,
+
+ ADJACENT  index: 1290
+abutting,bordering,contiguous,neighboring,adjoining,close,coterminous,next,attached,conterminous,near,nigh,beside,
+
+ HORIZONTAL  index: 11842
+even,flat,level,plain,plane,
+
+ MASSACRE  index: 13807
+butchery,carnage,havoc,slaughter,
+
+ MIND  index: 13984
+brain,instinct,reason,spirit,consciousness,intellect,sense,thought,disposition,intelligence,soul,understanding,
+
+ SACRAMENT  index: 18610
+ceremony,eucharist,observance,rite,solemnity,communion,Supper,ordinance,service,act,act,
+
+ REVOLVE  index: 18385
+roll,rotate,turn,
+
+ DOGMATIC  index: 8179
+arrogant,doctrinal,magisterial,positive,authoritative,domineering,opinionated,self-opinionated,dictatorial,imperious,overbearing,systematic,
+
+ ADD  index: 1036
+adjoin,annex,augment,extend,up,affix,append,up,increase,subjoin,amplify,attach,enlarge,on,up,
+
+ INJUSTICE  index: 12805
+grievance,injury,unfairness,unrighteousness,wrong,iniquity,
+
+ CONVEY  index: 7112
+carry,give,remove,shift,transmit,change,move,sell,transfer,transport,
+
+ CONSEQUENCE  index: 6920
+consequent,end,issue,outgrowth,sequel,effect,event,outcome,result,upshot,
+
+ GRACEFUL  index: 10981
+beautiful,
+
+ DIFFERENCE  index: 7839
+contrariety,discrimination,distinction,inequality,contrast,disparity,divergence,unlikeness,disagreement,dissimilarity,diversity,variation,discrepancy,dissimilitude,inconsistency,variety,
+
+ CARE  index: 5570
+anxiety,concern,oversight,trouble,attention,direction,perplexity,vigilance,caution,forethought,precaution,wariness,charge,heed,prudence,watchfulness,circumspection,management,solicitude,worry,
+
+ ABOMINATION  index: 351
+abhorrence,curse,hatred,plague,abuse,detestation,horror,shame,annoyance,disgust,iniquity,villainy,aversion,evil,nuisance,wickedness,crime,execration,offense,
+
+ PROMOTE  index: 16829
+advance,encourage,forward,prefer,raise,aid,exalt,foster,push,forward,assist,excite,further,on,on,elevate,foment,help,
+
+ PARTICLE  index: 15330
+atom,grain,mite,scrap,whit,corpuscle,iota,molecule,shred,element,jot,scintilla,tittle,
+
+ EXTERMINATE  index: 9671
+annihilate,eradicate,overthrow,uproot,banish,expel,remove,out,destroy,extirpate,out,
+
+ ENMITY  index: 9009
+acrimony,bitterness,will,malignity,animosity,hatred,malevolence,rancor,antagonism,hostility,malice,spite,
+
+ REVELATION  index: 18277
+apocalypse,disclosure,manifestation,
+
+ INTERPOSE  index: 12944
+arbitrate,intercept,intermeddle,meddle,intercede,interfere,interrupt,mediate,
+
+ MEDDLESOME  index: 13830
+impertinent,intrusive,meddling,obtrusive,officious,
+
+ BREAK  index: 5099
+bankrupt,crack,destroy,rive,shatter,split,burst,crush,fracture,rupture,shiver,sunder,cashier,demolish,rend,sever,smash,transgress,
+
+ WIT  index: 21449
+banter,fun,joke,waggery,burlesque,humor,playfulness,waggishness,drollery,jest,pleasantry,witticism,facetiousness,jocularity,raillery,
+
+ MARRIAGE  index: 13745
+union,espousals,nuptials,spousals,wedding,espousal,matrimony,spousal,union,wedlock,
+
+ PROPITIOUS  index: 16885
+auspicious,benignant,favorable,gracious,kindly,benign,clement,friendly,kind,merciful,
+
+ AVENGE  index: 4092
+punish,retaliate,revenge,vindicate,visit,
+
+ CHARACTERISTIC  index: 6104
+attribute,feature,peculiarity,sign,trace,character,indication,property,singularity,trait,distinction,mark,quality,
+
+ AWFUL  index: 4152
+alarming,direful,frightful,majestic,solemn,appalling,dread,grand,noble,stately,august,dreadful,horrible,portentous,terrible,dire,fearful,imposing,shocking,terrific,
+
+ POVERTY  index: 16177
+beggary,distress,mendicancy,pauperism,privation,destitution,indigence,need,penury,want,
+
+ ADEQUATE  index: 1182
+able,competent,fitted,satisfactory,adapted,equal,fitting,sufficient,capable,fit,qualified,suitable,commensurate,
+
+ RESTIVE  index: 18178
+balky,impatient,rebellious,restless,fidgety,intractable,recalcitrant,skittish,fractious,mulish,refractory,stubborn,fretful,mutinous,resentful,unruly,frisky,obstinate,restiff,vicious,
+
+ HARVEST  index: 11280
+crop,harvest-home,ingathering,result,fruit,harvesting,proceeds,return,growth,harvest-tide,produce,yield,harvest-feast,harvest-time,product,harvest-festival,increase,reaping,
+
+ ABSTINENCE  index: 541
+abstemiousness,frugality,self-denial,sobriety,continence,moderation,self-restraint,temperance,fasting,self-control,
+
+ OBSTRUCT  index: 14905
+arrest,check,embarrass,interrupt,stay,bar,choke,hinder,oppose,stop,barricade,clog,impede,retard,
+
+ DO  index: 8072
+accomplish,out,discharge,perform,achieve,through,effect,perpetrate,actualize,commit,execute,realize,about,complete,finish,transact,pass,consummate,fulfil,out,
+
+ ANXIETY  index: 2910
+anguish,disquiet,foreboding,perplexity,apprehension,disturbance,fretfulness,solicitude,care,dread,fretting,trouble,concern,fear,misgiving,worry,
+
+ CONQUER  index: 6858
+beat,humble,overthrow,subject,checkmate,master,over,subjugate,crush,overcome,down,surmount,defeat,overmaster,reduce,vanquish,discomfit,overmatch,rout,win,down,overpower,subdue,worst,
+
+ FLOCK  index: 10239
+bevy,covey,group,herd,lot,set,brood,drove,hatch,litter,pack,swarm,
+
+ EXCESS  index: 9500
+dissipation,lavishness,redundance,surplus,exorbitance,overplus,redundancy,waste,extravagance,prodigality,superabundance,wastefulness,intemperance,profusion,superfluity,
+
+ CHARACTER  index: 6077
+constitution,genius,personality,reputation,temper,disposition,nature,record,spirit,temperament,
+
+ PRECARIOUS  index: 16321
+doubtful,hazardous,risky,unsettled,dubious,insecure,unassured,unstable,equivocal,perilous,uncertain,unsteady,
+
+ SYSTEM  index: 20198
+manner,method,mode,order,regularity,rule,
+
+ HYPOTHESIS  index: 12000
+conjecture,scheme,supposition,system,guess,speculation,surmise,theory,
+
+ NAUTICAL  index: 14433
+marine,maritime,naval,ocean,oceanic,
+
+ SING  index: 19251
+carol,chant,chirp,chirrup,hum,warble,
+
+ MELODY  index: 13855
+harmony,music,symphony,unison,
+
+ EMIGRATE  index: 8730
+immigrate,migrate,
+
+ BOTH  index: 4998
+twain,two,
+
+ REMARK  index: 17847
+annotation,comment,note,observation,utterance,
+
+ STUPOR  index: 19859
+apathy,fainting,stupefaction,syncope,asphyxia,insensibility,swoon,torpor,coma,lethargy,swooning,unconsciousness,
+
+ BARBAROUS  index: 4365
+atrocious,brutal,merciless,uncivilized,barbarian,cruel,rude,uncouth,barbaric,inhuman,savage,untamed,
+
+ TERSE  index: 20414
+brief,concise,neat,short,compact,condensed,pithy,succinct,compendious,laconic,sententious,
+
+ RELIABLE  index: 17739
+trustworthy,trusty,
+
+ APATHY  index: 2954
+calmness,indifference,quietness,stoicism,composure,insensibility,quietude,tranquillity,immobility,lethargy,sluggishness,unconcern,impassibility,phlegm,stillness,unfeelingness,
+
+ REACH  index: 17413
+arrive,attain,to,enter,gain,to,land,
+
+ RACY  index: 17319
+flavorous,lively,pungent,spicy,forcible,piquant,rich,spirited,
+
+ CONVERSATION  index: 7062
+chat,communion,converse,intercourse,colloquy,confabulation,dialogue,parley,communication,conference,discourse,talk,
+
+ ABASH  index: 113
+bewilder,daunt,embarrass,mortify,chagrin,discompose,humble,overawe,confound,disconcert,humiliate,shame,confuse,dishearten,
+
+ SUCCEED  index: 19976
+achieve,attain,flourish,prevail,prosper,thrive,win,
+
+ ALIKE  index: 1760
+akin,equivalent,kindred,same,analogous,homogeneous,like,similar,equal,identical,resembling,uniform,
+
+ ANGER  index: 2614
+animosity,fury,offense,rage,choler,impatience,passion,resentment,displeasure,indignation,peevishness,temper,exasperation,ire,pettishness,vexation,fretfulness,irritation,petulance,wrath,
+
+ ENEMY  index: 8972
+adversary,antagonist,competitor,foe,opponent,rival,
+
+ CLASS  index: 6309
+association,circle,clique,company,grade,rank,caste,clan,club,coterie,order,set,
+
+ CELEBRATE  index: 5881
+commemorate,keep,observe,solemnize,
+
+ ABASE  index: 74
+low,depress,dishonor,lower,down,discredit,humble,reduce,debase,disgrace,humiliate,sink,degrade,
+
+ SPONTANEOUS  index: 19616
+automatic,impulsive,involuntary,voluntary,free,instinctive,unbidden,willing,
+
+ INDUSTRIOUS  index: 12563
+active,busy,employed,occupied,assiduous,diligent,engaged,sedulous,
+
+ PURE  index: 17133
+absolute,guiltless,simple,unmixed,chaste,holy,spotless,unpolluted,classic,immaculate,stainless,unspotted,classical,incorrupt,true,unstained,clean,innocent,unadulterated,unsullied,clear,mere,unblemished,untainted,continent,perfect,uncorrupted,untarnished,genuine,real,undefiled,upright,guileless,sheer,unmingled,virtuous,
+
+ HOLY  index: 11746
+blessed,devoted,hallowed,saintly,consecrated,divine,sacred,apart,
+
+ INVOLVE  index: 12986
+complicate,embroil,implicate,include,embarrass,entangle,imply,overwhelm,
+
+ BEAT  index: 4473
+bastinado,chastise,overcome,spank,thrash,batter,conquer,pommel,strike,vanquish,belabor,cudgel,pound,surpass,whip,bruise,defeat,scourge,switch,worst,castigate,flog,smite,
+
+ FAINT  index: 9704
+dim,fatigued,irresolute,weak,exhausted,feeble,languid,wearied,faded,half-hearted,listless,worn,faint-hearted,ill-defined,purposeless,down,faltering,indistinct,timid,out,
+
+ DISEASE  index: 7987
+affection,disorder,indisposition,sickness,ailment,distemper,infirmity,unhealthiness,complaint,illness,malady,unsoundness,
+
+ PLEASANT  index: 15954
+agreeable,good-natured,kindly,pleasing,attractive,kind,obliging,pleasurable,
+
+ STORY  index: 19803
+account,legend,narrative,recital,relation,anecdote,myth,novel,record,tale,incident,narration,
+
+ THEREFORE  index: 20469
+accordingly,consequently,then,whence,because,hence,thence,wherefore,
+
+ STORM  index: 19780
+agitation,disturbance,tempest,
+
+ ARRAIGN  index: 3341
+accuse,charge,impeach,prosecute,censure,cite,indict,summon,
+
+ BATTLE  index: 4433
+action,combat,encounter,arms,affair,conflict,engagement,skirmish,bout,contest,fight,strife,
+
+ PERVERSE  index: 15739
+contrary,froward,petulant,untoward,factious,intractable,stubborn,wayward,fractious,obstinate,ungovernable,wilful,
+
+ SENSIBILITY  index: 18977
+feeling,impressibility,sensitiveness,susceptibility,
+
+ HISTORY  index: 11711
+account,biography,muniment,record,annals,chronicle,narration,register,archives,memoir,narrative,story,autobiography,memorial,recital,
+
+ AMATEUR  index: 2317
+connoisseur,critic,dilettante,novice,tyro,
+
+ LANGUAGE  index: 13278
+barbarism,expression,patois,vernacular,dialect,idiom,speech,vocabulary,diction,tongue,tongue,
+
+ REFUTE  index: 17721
+confound,confute,disprove,overthrow,repel,
+
+ REPROVE  index: 18062
+admonish,condemn,reprimand,blame,with,reproach,censure,with,task,chasten,rebuke,upbraid,check,with,warn,chide,reprehend,
+
+ TRANSACT  index: 20705
+accomplish,on,do,perform,act,conduct,negotiate,treat,
+
+ STATE  index: 19701
+affirm,aver,declare,predicate,forth,allege,avouch,depose,pronounce,specify,assert,avow,express,propound,swear,asseverate,certify,inform,protest,tell,assure,claim,maintain,say,testify,
+
+ DRAW  index: 8270
+allure,drag,haul,induce,lure,tow,attract,entice,incline,lead,pull,tug,
+
+ GRIEF  index: 11009
+affliction,melancholy,regret,sorrow,t

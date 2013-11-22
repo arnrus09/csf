@@ -1,0 +1,1770 @@
+
+ FIDDLE-FADDLE 
+nonsensical,trifling,frivolous,trivial,idle,fiddling,
+
+ EXTEMPORE 
+[l.] extemporary,extemporaneous,
+
+ DRIFTLESS 
+aimless,purposeless,without an object,
+
+ DISPUTABLE 
+controvertible,debatable,doubtful,
+
+ FIT 
+qualified,competent,fitted,suitable,appropriate,apt,apposite,meet,seemly,becoming,fitting,befitting,proper,convenient,good,
+
+ FRONTIER 
+conterminous,bordering,
+
+ FAINT 
+swooning,fainting away,weak,feeble,drooping,exhausted,languid,small,little,slight,inconsiderable,dim,dull,not bright,not vivid,fearful,timid,timorous,cowardly,dastardly,faint-hearted,dejected,depressed,dispirited,disheartened,discouraged,
+
+ ECUMENICAL 
+universal,
+
+ DISHED 
+ruined,spoiled,frustrated,balked,foiled,baffled,disconcerted,disappointed,
+
+ DOGMATICAL 
+authoritative,oracular,formal,categorical,magisterial,positive,confident,peremptory,arrogant,overbearing,
+
+ ECONOMICAL 
+saving,sparing,provident,thrifty,frugal,not,wasteful,not lavish,
+
+ FLESHY 
+fat,plump,corpulent,
+
+ EFFETE 
+barren,unprolific,unfruitful,fruitless,addle,decayed,spent,exhausted,wasted,worn out,
+
+ EXPERT 
+adroit,dexterous,ready,prompt,quick,apt,clever,able,skilful,
+
+ EXCEPTIONAL 
+irregular,unusual,uncommon,unnatural,peculiar,anomalous,abnormal,aberrant,exceptive,
+
+ EULOGISTIC 
+encomiastic,panegyrical,commendatory,laudatory,
+
+ EXECUTORY 
+executive,
+
+ EVIL 
+bad,ill,not good,wicked,sinful,vicious,corrupt,perverse,wrong,mischievous,hurtful,harmful,noxious,deleterious,unhappy,unfortunate,calamitous,adverse,unpropitious,
+
+ DOLESOME 
+dismal,gloomy,cheerless,dark,dolorous,doleful,
+
+ FIDDLING 
+trifling,frivolous,trivial,idle,fiddle-faddle,
+
+ DOWNRIGHT 
+plain,simple,explicit,clear,undisguised,positive,absolute,honest,sincere,artless,ingenuous,frank,open,above-board,
+
+ DROWSY 
+sleepy,dozy,lethargic,comatose,stupid,soporific,lulling,
+
+ DISTRUSTFUL 
+suspicious,mistrustful,apt to distrust,diffident,not confident,
+
+ DOZY 
+sleepy,drowsy,heavy,sluggish,
+
+ FACILE 
+easy,not difficult,not hard,mild,courteous,affable,not haughty,not austere,pliant,pliable,flexible,ductile,yielding,tractable,manageable,easily persuaded,
+
+ FLABBERGASTED 
+confused,abashed,ashamed,disconcerted,nonplussed,taken aback,thrown off one's balance,
+
+ FREE-WILL 
+voluntary,spontaneous,
+
+ EXPLICIT 
+express,clear,plain,positive,definite,determinate,categorical,unambiguous,unreserved,
+
+ DISH-LIKE 
+dishing,concave,shaped like a dish,
+
+ EXHAUSTLESS 
+inexhaustible,
+
+ DISCURSIVE 
+reasoning,argumentative,capable of reasoning,roving,wandering,rambling,desultory,that takes a wide range,
+
+ FROTHY 
+foamy,spumy,trifling,light,empty,trivial,vain,frivolous,unsubstantial,
+
+ FEELING 
+affecting,moving,touching,melting,pathetic,sensitive,tender,
+
+ EXPERIMENTAL 
+empiric,empirical,experiential,from,experience,tentative,in the way of experiment,
+
+ EMBRYO 
+embryotic,rudimentary,undeveloped,
+
+ FESTAL 
+convivial,festive,
+
+ DREGGY 
+muddy,turbid,dirty,feculent,foul,
+
+ ECSTATICAL 
+entrancing,transporting,ravishing,rapturous,very delightful,
+
+ ENCOMIASTIC 
+panegyrical,eulogistic,laudatory,commendatory,
+
+ FIENDISH 
+malevolent,malignant,malicious,infernal,diabolical,devilish,demoniacal,hellish,very wicked,
+
+ FACTITIOUS 
+artificial,made by art,not natural,
+
+ DISINCLINED 
+unwilling,indisposed,reluctant,averse,
+
+ EXCREMENTITIAL 
+excremental,
+
+ EDENTATED 
+toothless,
+
+ EPISCOPAL 
+episcopalian,
+
+ FELONIOUS 
+malignant,malicious,villanous,nefarious,infamous,heinous,atrocious,cruel,felon,
+
+ FRANTIC 
+furious,raving,raging,mad,distracted,wild,infuriate,frenzied,
+
+ EXCUSABLE 
+pardonable,venial,
+
+ DOZEN 
+twelve,
+
+ FITFUL 
+variable,irregular,spasmodic,impulsive,unstable,fickle,whimsical,fanciful,capricious,fantastic,humorsome,odd,
+
+ FLACCID 
+soft,limber,flabby,yielding,lax,drooping,hungry,loose,not firm,not stiff,not tense,
+
+ EPICEDIAN 
+elegiac,mournful,funereal,
+
+ FEBRIFUGAL 
+antifebrile,
+
+ EFFEMINATE 
+womanish,feminine,timorous,unmanly,delicate,tender,
+
+ FRACTIONAL 
+broken,fragmentary,
+
+ FAST 
+fastened,fixed,close,tight,immovable,firm,constant,steadfast,stanch,fortified,strong,impregnable,sound,deep,profound,swift,quick,fleet,rapid,dissipated,wild,giddy,reckless,thoughtless,thriftless,extravagant,
+
+ EASY 
+light,not difficult,not burdensome,quiet,tranquil,untroubled,comfortable,contented,satisfied,at rest,at ease,without anxiety,without pain,yielding,complying,pliant,facile,submissive,accommodating,complaisant,unconstrained,graceful,not formal,not stiff,gentle,moderate,
+
+ FILICIFORM 
+fern-shaped,
+
+ FAVOSE 
+cellular,faveolate,
+
+ ENERGETIC 
+vigorous,active,forcible,powerful,strong,effective,efficacious,potent,
+
+ DISCREPANT 
+differing,disagreeing,incongruous,inconsistent,contrary,
+
+ FORE 
+anterior,preceding,prior,front,not back,not behind,
+
+ FOLIATE 
+foliaceous,
+
+ FISTULAR 
+hollow,pipe-like,
+
+ FRACTIOUS 
+cross,captious,petulant,touchy,testy,peevish,fretful,splenetic,pettish,snappish,waspish,irritable,
+
+ FORBIDDING 
+repulsive,abhorrent,odious,disagreeable,unpleasant,offensive,
+
+ ENLIGHTENED 
+instructed,informed,educated,intelligent,refined,highly civilized,
+
+ DULL 
+stupid,stolid,doltish,blockish,brutish,unintelligent,unintellectual,shallow,blunt-witted,apathetic,insensible,unimpassioned,passionless,dead,callous,inert,inactive,lifeless,inanimate,heavy,sluggish,slow,torpid,blunt,obtuse,not sharp,gloomy,sad,dismal,cheerless,dim,obscure,not bright,not vivid,tedious,wearisome,tiresome,uninteresting,
+
+ DORMANT 
+sleeping,quiescent,at rest,latent,unexerted,suspended,inert,inactive,
+
+ FOOLHARDY 
+rash,venturous,adventurous,venturesome,reckless,desperate,hot-headed,hot-brained,hair-brained,headlong,precipitate,
+
+ ENVIABLE 
+desirable,to be envied,
+
+ ECHINATED 
+prickly,bristled,
+
+ FALLOW 
+pale red or pale yellow,untilled,unsowed,
+
+ FIDUCIAL 
+confident,trustful,fiduciary,
+
+ FORGOTTEN 
+gone from one's mind,out of one's recollection,buried in oblivion,sunk in oblivion,
+
+ DOGMATIC 
+authoritative,oracular,formal,categorical,magisterial,positive,confident,peremptory,arrogant,overbearing,
+
+ FORCIBLE 
+powerful,strong,mighty,weighty,potent,impressive,irresistible,cogent,all-powerful,violent,impetuous,energetic,vigorous,effective,efficacious,
+
+ DOLEFUL 
+sorrowful,rueful,woful,piteous,melancholy,lugubrious,sad,dismal,gloomy,cheerless,dark,dolorous,dolesome,
+
+ DISSENTIENT 
+disagreeing,dissenting,
+
+ ECUMENIC 
+universal,
+
+ EXEMPLARY 
+meritorious,good,worthy,worthy of imitation,fit for a pattern,monitory,warning,
+
+ FORAMINATED 
+perforated,foraminous,
+
+ EXTRA 
+additional,unusual,extraordinary,
+
+ FLUFFY 
+nappy,downy,
+
+ DISEMBODIED 
+unbodied,incorporeal,immaterial,spiritual,
+
+ ENGAGING 
+attractive,winning,entertaining,pleasing,interesting,captivating,charming,taking,
+
+ FARTHER 
+further,more remote,at a greater distance,additional,
+
+ ENCOMIASTICAL 
+panegyrical,eulogistic,laudatory,commendatory,
+
+ FAINT-HEARTED 
+timid,timorous,fearful,cowardly,dastardly,faint,
+
+ EMACIATED 
+lean,thin,lank,attenuated,wasted,gaunt,skinny,meagre,worn to a shadow,reduced to a skeleton,
+
+ ELOQUENT 
+persuasive,impressive,graceful and vigorous,
+
+ FADELESS 
+unfading,
+
+ EPIGRAMMATICAL 
+concise,laconic,terse,pointed,poignant,piquant,sharp,pungent,
+
+ EPIC 
+narrative,
+
+ FECULENT 
+turbid,muddy,thick,foul,dreggy,
+
+ EMBLEMATICAL 
+typical,figurative,representative,symbolical,allusive,
+
+ ELATE 
+elated,excited,exhilarated,puffed up,in high spirits,
+
+ DISRESPECTFUL 
+irreverent,uncivil,impolite,ungentlemanly,discourteous,uncourteous,
+
+ EXPRESS 
+explicit,clear,plain,definite,positive,determinate,categorical,not ambiguous,clearly stated,
+
+ FOUR-HANDED 
+quadrumanous,
+
+ FELL 
+cruel,inhuman,barbarous,ruthless,pitiless,savage,ferocious,sanguinary,bloody,blood-thirsty,vandalic,
+
+ DOUBLE-MINDED 
+unsettled,undetermined,changeable,fickle,vacillating,wavering,
+
+ EPICEDIAL 
+elegiac,mournful,funereal,
+
+ FIERCE 
+savage,ferocious,ravenous,furious,infuriate,barbarous,fell,violent,vehement,impetuous,fiery,passionate,
+
+ FOGGY 
+misty,hazy,confused,dazed,bewildered,
+
+ EXTENDIBLE 
+extensible,extensile,
+
+ ENDLESS 
+interminable,illimitable,unlimited,boundless,immeasurable,infinite,eternal,everlasting,perpetual,incessant,continual,uninterrupted,immortal,undying,deathless,ever-living,never-dying,imperishable,objectless,without purpose or design,
+
+ DISORDERLY 
+immethodical,irregular,confused,not in order,lawless,rebellious,turbulent,unruly,tumultuous,
+
+ EGREGIOUS 
+extraordinary,remarkable,enormous,monstrous,outrageous,great,
+
+ FEASIBLE 
+practicable,
+
+ EXTENSIBLE 
+extendible,extensile,
+
+ ENCYCLOPEDIC 
+that embraces the whole circle of learning,encyclopedian,
+
+ FLEET 
+swift,rapid,quick,
+
+ ENIGMATIC 
+obscure,mysterious,mystic,mystical,dark,occult,recondite,ambiguous,hidden,unintelligible,incomprehensible,puzzling,perplexing,
+
+ EVIDENTIAL 
+indicative,evidentiary,evincive,demonstrative,
+
+ FINANCIAL 
+monetary,pecuniary,fiscal,
+
+ FATHOMLESS 
+bottomless,abysmal,profound,
+
+ FREAKISH 
+whimsical,capricious,odd,humorsome,erratic,
+
+ DUBIOUS 
+uncertain,doubtful,equivocal,ambiguous,not plain,not clear,
+
+ DOUBTFUL 
+wavering,undecided,hesitating,undetermined,in suspense,ambiguous,dubious,equivocal,obscure,enigmatical,problematical,indeterminate,undecided,uncertain,questionable,
+
+ FIRE-NEW 
+brand-new,quite new,spick and span new,span new,
+
+ FROSTY 
+cold,icy,wintry,white,gray-haired,
+
+ DOUBLE-FACED 
+hypocritical,deceitful,knavish,dishonest,false,perfidious,double,
+
+ ELEPHANTINE 
+huge,immense,gigantic,colossal,cyclopean,herculean,enormous,very large,
+
+ FIDUCIARY 
+confident,undoubting,trustful,fiducial,trusty,not to be doubted,held in trust,in the nature of a trust,
+
+ EPISCOPALIAN 
+episcopal,
+
+ FEDERAL 
+confederate,
+
+ DOCIBLE 
+teachable,docile,
+
+ EUPHONICAL 
+euphonious,
+
+ FOURSQUARE 
+quadrangular,
+
+ EARTH-BRED 
+low,base,vile,abject,grovelling,earth-born,
+
+ FALSE-HEARTED 
+perfidious,treacherous,faithless,false,
+
+ FRINGED 
+fimbriate,fimbriated,
+
+ EMBRYOTIC 
+embryo,
+
+ EVERLASTING 
+eternal,endless,unending,ever-during,perpetual,incessant,ceaseless,continual,uninterrupted,interminable,unceasing,never-ceasing,never-ending,imperishable,undying,never-dying,ever-living,deathless,immortal,
+
+ ECCENTRIC 
+not circular,irregular,abnormal,anomalous,peculiar,uncommon,unnatural,singular,strange,wayward,odd,aberrant,erratic,whimsical,
+
+ EXORBITANT 
+extravagant,inordinate,excessive,enormous,unreasonable,
+
+ FLAGITIOUS 
+atrocious,heinous,villanous,infamous,scandalous,nefarious,very wicked,
+
+ FRIVOLOUS 
+trifling,trivial,worthless,petty,flimsy,idle,puerile,childish,trashy,foolish,
+
+ FALLACIOUS 
+deceptive,delusive,deceiving,illusive,illusory,misleading,disappointing,false,
+
+ ELUCIDATIVE 
+explanatory,
+
+ DUMB 
+unable to speak,incapable of speech,mute,speechless,silent,taciturn,mum,
+
+ DUTIFUL 
+obedient,submissive,duteous,reverential,respectful,deferential,
+
+ FERVENT 
+ardent,earnest,eager,zealous,warm,glowing,animated,impassioned,fervid,
+
+ FORMAL 
+express,explicit,positive,in due form,according to established form,regular,methodical,ceremonious,precise,punctilious,stiff,starch,starched,prim,affectedly exact,constitutive,essential,external,as mere form,
+
+ FAVEOLATE 
+cellular,favose,
+
+ ELUSIVE 
+evasive,elusory,equivocating,shuffling,equivocatory,
+
+ DISGUISED 
+cloaked,masked,veiled,in disguise,intoxicated,inebriated,drunken,drunk,fuddled,tipsy,mellow,maudlin,slewed,groggy,in liquor,in one's cups,half seas over,
+
+ ELABORATE 
+labored,studied,high wrought,highly finished,elaborately prepared,
+
+ FOREIGN 
+alien,outlandish,exotic,not native,not,domestic,from abroad,remote,not allied,not pertinent,not appropriate,not,congenial,not connected,not belonging,extraneous,extrinsic,adventitious,
+
+ FRIGHTFUL 
+terrible,terrific,grewsome,fearful,alarming,dreadful,direful,dire,horrid,horrible,awful,shocking,
+
+ FECUNDATION 
+impregnation,
+
+ FRIABLE 
+crumbling,brittle,crisp,pulverable,easily crumbled,
+
+ FOXY 
+artful,wily,cunning,crafty,sly,subtle,
+
+ EXCLUSIVE 
+excluding,debarring,excepting,to the exclusion,not including,illiberal,selfish,narrow,uncharitable,narrow-minded,sole,only,special,
+
+ EXCESSIVE 
+superabundant,superfluous,exuberant,extravagant,inordinate,enormous,outrageous,unreasonable,very,great,immoderate,intemperate,extreme,vehement,violent,
+
+ FAVILLOUS 
+ashy,cinereous,cineritious,like ashes,
+
+ ELEGIAC 
+mournful,plaintive,sorrowful,dirge-like,
+
+ EVACUANT 
+cathartic,abstergent,cleansing,
+
+ FABULOUS 
+invented,feigned,fictitious,not real,
+
+ EXPENSIVE 
+lavish,extravagant,wasteful,dear,costly,high-priced,of great price,
+
+ FORCED 
+compelled,constrained,strained,unnatural,catachrestic,far-fetched,studiously sought,
+
+ FLATULENT 
+windy,
+
+ DOUBLE-HEADED 
+bicipital,with two heads,
+
+ FENNY 
+marshy,swampy,boggy,fennish,
+
+ EXTENSIVE 
+wide,large,broad,comprehensive,capacious,extended,expanded,
+
+ FINITE 
+bounded,limited,terminable,
+
+ ETIOLATED 
+blanched,bleached,
+
+ DIVERS 
+various,several,sundry,numerous,many,
+
+ EXTANT 
+existing,undestroyed,in being,in existence,not lost,
+
+ FALCATED 
+sickle-shaped,
+
+ EULOGISTICAL 
+encomiastic,panegyrical,commendatory,laudatory,
+
+ DUN 
+dull brown,
+
+ EXTRAORDINARY 
+remarkable,unusual,signal,uncommon,singular,egregious,rare,extra,out of the way,unheard of,more than common,
+
+ EQUIVALENT 
+equal,commensurate,tantamount,equipollent,synonymous,interchangeable,of the same meaning or import,
+
+ FORGETFUL 
+apt to forget,negligent,inattentive,neglectful,careless,heedless,mindless,
+
+ FERVID 
+hot,burning,boiling,fiery,ardent,earnest,glowing,fervent,
+
+ DISOBEDIENT 
+unsubmissive,uncomplying,refractory,obstinate,
+
+ FREQUENT 
+common,usual,oft-repeated,every day,of common,occurrence,
+
+ ETHNOLOGIC 
+ethnic,ethnical,
+
+ EVENTFUL 
+full of incidents,
+
+ ENTHUSIASTICAL 
+fanatical,bigoted,visionary,extravagant,ardent,earnest,vehement,zealous,fervent,fervid,burning,flaming,glowing,passionate,impassioned,
+
+ ENTERPRISING 
+adventurous,venturesome,venturous,dashing,daring,audacious,bold,active,prompt,alert,stirring,smart,energetic,efficient,spirited,zealous,strenuous,eager,on the alert,in earnest,
+
+ DISCRETIONARY 
+optional,
+
+ FOLIACEOUS 
+foliate,laminated,lamellate,lamellated,scaly,flaky,foliated,schistose,
+
+ EXCREMENTAL 
+excrementitious,excrementitial,
+
+ ETHNOLOGICAL 
+ethnic,ethnical,
+
+ FEARFUL 
+afraid,apprehensive,haunted with fear,timid,timorous,nervous,diffident,pusillanimous,cowardly,faint-hearted,chicken-hearted,white-livered,showing the white,feather,easily frightened,terrible,dreadful,frightful,dire,direful,awful,to be reverenced,
+
+ FRAGILE 
+brittle,frangible,easily broken,frail,weak,feeble,infirm,
+
+ FLUID 
+liquid,not solid,
+
+ FRAUDULENT 
+dishonest,knavish,treacherous,deceitful,deceptive,false,trickish,tricky,crafty,wily,collusive,covinous,
+
+ FICTITIOUS 
+feigned,invented,imaginary,fanciful,unreal,not true,false,counterfeit,spurious,supposititious,not genuine,
+
+ FALSE 
+untrue,not true,dishonest,perfidious,treacherous,unveracious,mendacious,faithless,truthless,untruthful,disingenuous,dishonorable,double-,tongued,double-faced,false-hearted,counterfeit,spurious,forged,not genuine,feigned,hypocritical,clap-trap,incorrect,improper,erroneous,fallacious,deceptive,deceiving,deceitful,delusive,misleading,disappointing,
+
+ ERRATIC 
+wandering,roving,nomadic,not stationary,irregular,eccentric,abnormal,
+
+ ETHICAL 
+moral,
+
+ ENCYCLOPEDIAN 
+encyclopedic,
+
+ FOUL 
+impure,nasty,squalid,dirty,polluted,filthy,unclean,soiled,tarnished,stained,sullied,disgusting,loathsome,offensive,noisome,base,scandalous,infamous,vile,scurvy,unfair,dishonorable,sinister,wicked,dark,abominable,detestable,disgraceful,shameful,obscene,vulgar,coarse,low,abusive,insulting,scurrilous,foul-mouthed,stormy,rainy,cloudy,
+
+ EXPECTANT 
+waiting,
+
+ ERUBESCENT 
+reddish,blushing,rubicund,
+
+ DIZZY 
+giddy,vertiginous,thoughtless,heedless,careless,
+
+ DOLOROUS 
+dismal,gloomy,cheerless,dark,dolesome,sorrowful,sad,doleful,piteous,rueful,woful,lugubrious,
+
+ DISTINCTIVE 
+distinguishing,discriminative,characterizing,
+
+ DISTRACTED 
+perplexed,confused,bewildered,embarrassed,deranged,insane,mad,frantic,furious,raving,
+
+ EPHEMERAL 
+short-lived,transitory,transient,fleeting,flitting,evanescent,fugitive,fugacious,momentary,brief,
+
+ ELDEST 
+oldest,
+
+ FIGURATIVE 
+typical,representative,emblematical,tropical,metaphorical,not literal,flowery,florid,ornate,
+
+ FLIGHTY 
+giddy,wild,volatile,light-headed,without ballast,
+
+ FALCATE 
+sickle-shaped,
+
+ DUTEOUS 
+obedient,dutiful,
+
+ FILAMENTOUS 
+filiform,thread-shaped,consisting of filaments,
+
+ EXEMPT 
+exempted,free,liberated,released,
+
+ EMOLLIENT 
+softening,
+
+ ENCYCLICAL 
+circular,
+
+ FLAT 
+level,horizontal,champaign,even,plane,smooth,camous,without prominences,low,prostrate,level with the ground,laid low,dull,lifeless,spiritless,unanimated,frigid,tame,prosaic,uninteresting,pointless,vapid,tasteless,insipid,stale,dead,flashy,mawkish,peremptory,absolute,positive,downright,not shrill,not acute,lower by a semitone,below true pitch,
+
+ EXCULPATORY 
+excusatory,apologetical,
+
+ DOMINANT 
+prevailing,ruling,predominant,predominating,ascendant,in the ascendant,
+
+ DISENGAGED 
+unengaged,unoccupied,at leisure,not busy,
+
+ FESTIVE 
+convivial,jovial,joyous,gay,merry,mirthful,festal,
+
+ ENIGMATICAL 
+obscure,mysterious,mystic,mystical,dark,occult,recondite,ambiguous,hidden,unintelligible,incomprehensible,puzzling,perplexing,
+
+ FIMBRIATE 
+fringed,
+
+ EXULTANT 
+exulting,triumphing,joyous,jubilant,transported,elated,
+
+ EGOTISTICAL 
+conceited,vain,opinionated,bumptious,self-,important,
+
+ FALLIBLE 
+frail,imperfect,weak,ignorant,uncertain,erring,liable to error or mistake,form into ranks,concur,consent,agree,assent,acquiesce,go with the stream,go,with the current,meet,encounter,comply with,assent to,come into,drop,be detached,drop off,withdraw,separate,decline,wane,dwindle,decay,perish,die,backslide,apostatize,fall away,drop on,descend upon,attack,assault,assail,rush upon,fall upon,quarrel,wrangle,happen,befall,chance,
+
+ EXCRUCIATING 
+torturing,tormenting,very painful,
+
+ EXTRAVASATED 
+effused,
+
+ ESTIMABLE 
+worthy,good,excellent,meritorious,
+
+ DISPASSIONATE 
+unimpassioned,imperturbable,inexcitable,unexcited,composed,collected,temperate,undisturbed,unruffled,quiet,calm,cool,staid,serene,sober,impartial,unbiassed,disinterested,indifferent,
+
+ DRONISH 
+idle,lazy,indolent,sluggish,slow,inactive,
+
+ FRAGRANT 
+aromatic,redolent,balmy,odoriferous,odorous,perfumed,sweet-smelling,sweet-scented,
+
+ FANTASTIC 
+imaginary,fanciful,ideal,chimerical,visionary,not real,whimsical,capricious,odd,queer,bizarre,strange,wild,
+
+ EXPLETIVE 
+superfluous,redundant,
+
+ EXTEMPORARY 
+unpremeditated,off-hand,extemporaneous,extempore,
+
+ ELDER 
+older,senior,
+
+ ETHNICAL 
+pagan,gentile,ethnological,
+
+ FANCIFUL 
+visionary,imaginative,whimsical,capricious,chimerical,imaginary,ideal,fantastical,wild,
+
+ DIUTURNAL 
+lasting,of long duration,of long continuance,
+
+ DIVINE 
+god-like,superhuman,sacred,holy,spiritual,heavenly,
+
+ EXCREMENTITIOUS 
+excremental,
+
+ ECCLESIASTIC 
+not civil,not secular,
+
+ EVEN 
+smooth,level,plane,flat,uniform,equable,equal,calm,ruffled,unsteady,on a level,on the same level,fair,just,equitable,divisible by two,not odd,
+
+ ELASTIC 
+springy,rebounding,resilient,recoiling,
+
+ FATED 
+doomed,destined,appointed,
+
+ DURABLE 
+permanent,lasting,abiding,continuing,constant,stable,
+
+ ERUDITE 
+learned,lettered,well-read,deep-read,
+
+ DUE 
+owed,to be paid,proper,fit,suitable,appropriate,becoming,befitting,owing,to be ascribed,
+
+ ELLIPTICAL 
+oval,
+
+ FOREMOST 
+first,most advanced,front,
+
+ EPIGRAMMATIC 
+concise,laconic,terse,pointed,poignant,piquant,sharp,pungent,
+
+ EATING 
+corrosive,erosive,corroding,caustic,catheretic,
+
+ EASTERN 
+oriental,orient,towards the east,
+
+ FEARLESS 
+undaunted,dauntless,unterrified,courageous,bold,intrepid,brave,valorous,valiant,gallant,
+
+ EGOTISTIC 
+conceited,vain,opinionated,bumptious,self-,important,
+
+ EARNEST 
+ardent,zealous,eager,fervent,fervid,glowing,animated,importunate,warm,hearty,intent,steady,fixed,close,
+
+ FAVORABLE 
+propitious,friendly,kind,auspicious,willing,conducive,contributing,advantageous,beneficial,convenient,suitable,adapted,fit,
+
+ EMBLEMATIC 
+typical,figurative,representative,symbolical,allusive,
+
+ EMANCIPATION 
+enfranchisement,manumission,liberation,release,deliverance,
+
+ FLITTING 
+fleeting,evanescent,transient,transitory,passing,fugitive,ephemeral,
+
+ EVANGELICAL 
+according to the gospel,
+
+ FISTULOUS 
+hollow,pipe-like,
+
+ DIVISIBLE 
+separable,
+
+ FOPPISH 
+dandyish,coxcombical,dandified,vain of dress,
+
+ EXCURSIVE 
+rambling,wandering,roving,roaming,devious,erratic,nomadic,
+
+ EXPLAINABLE 
+explicable,that may be explained,
+
+ EPIDEMICAL 
+general,prevailing,prevalent,pandemic,
+
+ FOURFOLD 
+quadruple,
+
+ DULCET 
+sweet,luscious,honeyed,pleasing,agreeable,pleasant,delightful,charming,
+
+ DRUNK 
+intoxicated,tipsy,inebriated,fuddled,disguised,maudlin,drunken,mellow,slewed,groggy,in liquor,in one's cups,half seas over,
+
+ DIVERSE 
+different,differing,unlike,varying,multiform,
+
+ FLUSH 
+glowing,bright,fresh,vigorous,affluent,rich,wealthy,opulent,well supplied,liberal,free,generous,lavish,prodigal,level,even,plane,flat,
+
+ EXHORTATORY 
+exhortative,hortatory,
+
+ DORSAL 
+on the back,
+
+ FRATERNAL 
+brotherly,
+
+ DISPUTATIOUS 
+cavilling,captious,contentious,quarrelsome,polemical,
+
+ DYING 
+expiring,mortal,perishable,
+
+ FRIBBLE 
+trifling,frivolous,silly,
+
+ DISTINCT 
+separate,different,not the same,definite,defined,clear,plain,unmistakable,unconfused,not,obscure,not dim,well defined,
+
+ DISGUSTING 
+nauseous,nauseating,loathsome,sickening,repulsive,revolting,offensive,distasteful,odious,hateful,foul,abominable,
+
+ EXTRANEOUS 
+foreign,extrinsic,
+
+ DISSATISFIED 
+discontented,uneasy,displeased,
+
+ FADE 
+[fr.] weak,flat,insipid,
+
+ FERINE 
+tigers,untamed,ferocious,savage,fierce,ravenous,rapacious,
+
+ DISPIRITED 
+dejected,disheartened,depressed,discouraged,down-hearted,downcast,despondent,cast down,crest-fallen,chap-,fallen,down in the mouth,
+
+ FEROCIOUS 
+savage,fierce,wild,ravenous,rapacious,ferine,barbarous,cruel,inhuman,brutal,fell,ruthless,relentless,merciless,pitiless,sanguinary,bloody,vandalic,
+
+ ESOTERIC 
+private,secret,acroamatic,acroatic,not public,not exoteric,
+
+ FETID 
+rancid,stinking,offensive,noisome,mephitic,strong-,smelling,rank-smelling,
+
+ FAMOUS 
+celebrated,renowned,distinguished,illustrious,eminent,remarkable,famed,far-famed,noted,notorious,signal,conspicuous,
+
+ DISEASED 
+disordered,distempered,unsound,sickly,sick,
+
+ EMPIRIC 
+experimental,experiential,charlatanic,quackish,
+
+ EVINCIVE 
+demonstrative,indicative,evidential,evidentiary,
+
+ EQUITABLE 
+upright,just,honest,impartial,candid,unbiassed,unprejudiced,even-handed,reasonable,fair,justifiable,right,proper,
+
+ FIMBRIATED 
+fringed,
+
+ FAR-FAMED 
+illustrious,celebrated,renowned,eminent,distinguished,famous,famed,
+
+ FORENSIC 
+juridical,judicial,
+
+ EQUAL 
+like,alike,tantamount,equivalent; of the same,extent,measure,degree,or value,uniform,even,regular,equable,impartial,unbiassed,equitable,fair,just,even-handed,proportionate,commensurate,adequate,competent,fit,of sufficient strength or ability,
+
+ DRESSY 
+showy,flashy,gaudy,fond of dress,
+
+ FLASHY 
+showy,ostentatious,flaunting,gaudy,tawdry,jaunty,gay,gairish,airy,insipid,tasteless,mawkish,flat,vapid,stale,
+
+ FRESH 
+now,recent,blooming,nourishing,unfaded,good,sweet,of recent growth,in a good state,not stale,florid,healthy,well,hearty,vigorous,hardy,strong,vivid,lively,not dulled,not impaired,just received,just arrived,not salt,without salt,pure and cool,brisk,strong,forcible,raw,uncultivated,unpractised,untrained,unskilled,inexperienced,
+
+ DISHEVELLED 
+untrimmed,hanging,loosely or negligently,at loose ends,
+
+ FOUL-MOUTHED 
+abusive,insulting,insolent,blackguard,scurrilous,foul,
+
+ EXTINCT 
+extinguished,quenched,put out,ended,terminated,closed,brought to an end,no longer existing,
+
+ DISTEMPERED 
+diseased,disordered,out of order,immoderate,intemperate,inordinate,unregulated,
+
+ EVENTUAL 
+final,ultimate,
+
+ FOREHANDED 
+in comfortable circumstances,well off,well to do,
+
+ ERECT 
+upright,not prone,elevated,turned upward,bold,undaunted,undismayed,unterrified,firm,unshaken,
+
+ FLAUNTING 
+ostentatious,showy,flashy,gairish,dashing,fluttering,jaunty,tawdry,gay,airy,gaudy,
+
+ FORWARD 
+onward,progressive,front,fore,at the fore part,near the fore part,ready,prompt,willing,eager,earnest,zealous,bold,confident,presumptuous,presuming,impertinent,pert,flippant,brazen,assuming,brazen-faced,brassy,cheeky,early,premature,
+
+ FATAL 
+deadly,mortal,lethal,calamitous,destructive,ruinous,mischievous,
+
+ FRANK-HEARTED 
+candid,open,ingenuous,frank,
+
+ FREE-SPOKEN 
+frank,unreserved,
+
+ DIVERGENT 
+radiating,divaricating,separating,
+
+ EVER-LIVING 
+eternal,immortal,undying,deathless,never-,dying,everlasting,
+
+ EVEN-HANDED 
+just,equitable,impartial,fair,honest,upright,
+
+ DOUGHFACED 
+weak,pusillanimous,easily,influenced,without any backbone,
+
+ EQUIVOCAL 
+ambiguous,of doubtful meaning,to be taken in,a double sense,uncertain,doubtful,dubious,indeterminate,
+
+ ENDURABLE 
+tolerable,
+
+ ESCULENT 
+eatable,edible,
+
+ FACETIOUS 
+witty,jocular,jocose,humorous,waggish,funny,comical,pleasant,merry,sportive,droll,
+
+ FREE 
+independent,unrestrained,at liberty,released,delivered,emancipated,liberated,exempt,clear,allowed,permitted,open,unobstructed,unimpeded,unrestricted,open,frank,ingenuous,candid,artless,sincere,unreserved,frank-,hearted,generous,liberal,bountiful,charitable,munificent,free-,hearted,open-handed,not parsimonious,prodigal,lavish,immoderate,ready,eager,prompt,willing,gratuitous,spontaneous,willing,
+
+ DISTINGUISHED 
+illustrious,famous,noted,eminent,conspicuous,celebrated,extraordinary,transcendent,
+
+ EFFULGENT 
+brilliant,shining,lustrous,splendid,resplendent,bright,radiant,refulgent,dazzling,
+
+ FOOLISH 
+senseless,idiotic,silly,weak,daft,simple,irrational,insensate,shallow,brainless,witless,thick-skulled,buffle-headed,shallow-brained,unwise,unreasonable,absurd,ridiculous,nonsensical,ill-,judged,preposterous,indiscreet,imprudent,idle,trivial,trifling,vain,childish,puerile,contemptible,
+
+ FLEXUOUS 
+winding,bending,tortuous,sinuous,sinuate,crooked,serpentine,
+
+ EMULOUS 
+competing,rivalling,very desirous,
+
+ FISCAL 
+financial,
+
+ ENUNCIATIVE 
+declarative,expressive,declaratory,enunciatory,
+
+ EVIDENT 
+plain,clear,manifest,apparent,obvious,palpable,patent,unmistakable,
+
+ EXPLANATORY 
+illustrative,elucidative,expository,serving to,explain,
+
+ DISHING 
+concave,dish-like,
+
+ FAVORITE 
+dear,darling,beloved,preferred,pet,especially liked,
+
+ FENNISH 
+fenny,
+
+ DUSKY 
+obscure,murky,dim,shadowy,cloudy,shady,overcast,somewhat dark,
+
+ FLEXILE 
+pliable,flexible,
+
+ DISQUALIFIED 
+unqualified,unfitted,incapable,incapacitated,disabled,
+
+ DOGGED 
+sullen,sour,morose churlish,growling,surly,snarling,snappish,stubborn,obstinate,wilful,mulish,inflexible,pertinacious,unyielding,headstrong,intractable,impracticable,cantankerous,perversely resolute,
+
+ FRAILTY 
+weakness,feebleness,infirmity,frailness,fault,foible,defect,imperfection,failing,weak point,weak,side,blind side,liability to err,proneness error,want of moral strength,
+
+ EPIDEMIC 
+general,prevailing,prevalent,pandemic,
+
+ FORMER 
+previous,prior,anterior,antecedent,preceding,foregoing,quondam,ci-devant,late,old-time,past,gone by,first named,first mentioned,
+
+ FEATLY 
+nimbly,dexterously,adroitly,
+
+ EXCEPTIONABLE 
+objectionable,
+
+ EXUBERANT 
+over-abundant,rank,copious,plenteous,full,plentiful,ample,replete,liberal,lavish,
+
+ DISTINGUISHABLE 
+separable,divisible,to be distinguished,to be recognized as distinct,
+
+ EXOTERICAL 
+public,open,not private,not esoteric,
+
+ EMBOLISMIC 
+intercalated,intercalary,
+
+ DISCRIMINATIVE 
+discriminating,distinguishing,characterizing,distinctive,
+
+ FIRST-BORN 
+eldest,
+
+ FACTIOUS 
+turbulent,seditious,refractory,given to faction,
+
+ DOUGHTY 
+brave,courageous,bold,fearless,dauntless,valiant,valorous,gallant,intrepid,adventurous,chivalrous,heroic,
+
+ FLABBY 
+soft,yielding,flaccid,
+
+ DOUBLE-HEARTED 
+deceitful,treacherous,false-hearted,
+
+ FORTUITOUS 
+accidental,casual,contingent,incidental,happening by chance,
+
+ FLIPPANT 
+voluble,fluent,glib,talkative,nimble of,speech,of ready utterance,pert,impertinent,saucy,malapert,forward,bold,impudent,
+
+ ERRANT 
+wandering,roving,rambling,
+
+ EXTRINSICAL 
+external,outward,extraneous,foreign,not,intrinsic,
+
+ EXTEMPORANEOUS 
+unpremeditated,off-hand,extemporary,extempore,
+
+ FATHERLY 
+paternal,tender,kind,
+
+ FASTIDIOUS 
+squeamish,difficult,queasy,critical,dainty,over-nice,over-delicate,hard to please,
+
+ FINAL 
+last,latest,ultimate,eventual,decisive,conclusive,definitive,
+
+ DISCREET 
+prudent,cautious,judicious,wise,circumspect,considerate,heedful,wary; not rash,heedless,or headlong,
+
+ FEEBLE 
+weak,not strong,debilitated,enervated,sickly,infirm,languishing,languid,drooping,frail,faint,imperfect,not vigorous,not lively,
+
+ ELEMENTARY 
+simple,uncompounded,rudimentary,rudimental,primary,
+
+ ELFISH 
+elf-like,mischievous,elvish,
+
+ EACH 
+both,
+
+ EDENTATE 
+toothless,
+
+ ECSTATIC 
+entrancing,transporting,ravishing,rapturous,very delightful,
+
+ ELYSIAN 
+charming,delightful,ravishing,enchanting,blissful,heavenly,celestial,exceedingly happy,
+
+ FANATIC 
+enthusiastic,visionary,wild,mad,
+
+ EXCUSATORY 
+apologetical,
+
+ FATUOUS 
+foolish,witless,drivelling,idiotic,illusory,deceptive,
+
+ FREE-HEARTED 
+liberal,generous,bounteous,bountiful,open-,handed,
+
+ ENSIFORM 
+sword-shaped,
+
+ DISINTERESTED 
+unbiassed,impartial,indifferent,generous,unselfish,liberal,magnanimous,high-minded,
+
+ EXCRETORY 
+excretive,
+
+ FLAWY 
+faulty,defective,full of flaws or cracks,
+
+ EAGER 
+longing,yearning,greedy,impatient,keenly,desirous,ardent,zealous,vehement,impetuous,earnest,animated,fervent,fervid,glowing,hot,sanguine,
+
+ DISSUASIVE 
+dissuading,dehortatory,tending to dissuade,
+
+ EXPEDITIOUS 
+speedy,quick,hasty,prompt,swift,punctual,diligent,nimble,alert,
+
+ EMPHATIC 
+expressive,significant,categorical,strong,forcible,energetic,
+
+ ENCYSTED 
+enclosed in a cyst or sac,
+
+ DISHONORABLE 
+disreputable,discreditable,disgraceful,shameful,scandalous,infamous,ignominious,
+
+ DRINKABLE 
+potable,that may be drunk,
+
+ EVANESCENT 
+vanishing,fleeting,transitory,transient,passing,flitting,fugitive,flying,ephemeral,short-lived,
+
+ EQUINOCTIAL 
+of the equinoctial,at the time of the equinoxes,
+
+ FIBROUS 
+filamentous,stringy,
+
+ EARLY 
+timely,seasonable,in season,not late,forward,premature,at dawn,at day-break,at the opening of day,
+
+ FLOWERY 
+bloomy,full of flowers,ornate,figurative,florid,
+
+ DISDAINFUL 
+scornful,contemptuous,supercilious,contumelious,haughty,cavalier,
+
+ FARINACEOUS 
+yielding farina or flour,mealy,
+
+ FAULTLESS 
+perfect,without blemish,without fault,innocent,guiltless,blameless,stainless,sinless,
+
+ ENORMOUS 
+irregular,abnormal,exceptional,huge,monstrous,immense,vast,gigantic,colossal,prodigious,cyclopean,herculean,elephantine,very large,flagitious,very wicked,
+
+ ECHINATE 
+prickly,bristled,
+
+ ENTHUSIASTIC 
+fanatical,bigoted,visionary,extravagant,ardent,earnest,vehement,zealous,fervent,fervid,burning,flaming,glowing,passionate,impassioned,
+
+ FORNICATE 
+vaulted,
+
+ FLUENT 
+flowing,gliding,smooth,not harsh,voluble,glib,
+
+ FORKED 
+furcate,furcated,
+
+ EBON 
+dark,black,inky,made of ebony,
+
+ EXCRESCENT 
+fungous,
+
+ FAT-WITTED 
+stupid,dull,heavy,fat,
+
+ ELECT 
+chosen,selected,picked,choice,
+
+ ESSENTIAL 
+vital,necessary,requisite,indispensable,highly important,volatile,pure,highly rectified,not symptomatic,
+
+ EXTORTIONATE 
+oppressive,exacting,severe,hard,rigorous,
+
+ DISTASTEFUL 
+nauseous,loathsome,disgusting,unpalatable,unsavory,disagreeable,offensive,unpleasant,unpleasing,
+
+ FRETFUL 
+peevish,petulant,touchy,testy,snappish,waspish,pettish,splenetic,spleeny,captious,irritable,ill-humored,
+
+ ENCEINTE 
+[fr.] pregnant,big with child,in the family way,
+
+ ELDERLY 
+somewhat old,
+
+ FIREPROOF 
+incombustible,
+
+ FAGGED 
+wearied,tired,fatigued,exhausted,jaded,used up,knocked up,beat out,
+
+ DUMPISH 
+sad,dejected,dispirited,melancholy,despondent,moping,
+
+ ETHEREAL 
+airy,aerial,empyreal,light,volatile,celestial,heavenly,
+
+ FOLIATED 
+laminated,lamellate,lamellated,schistose,
+
+ EVIDENTIARY 
+evidential,
+
+ DREADFUL 
+terrible,horrible,horrid,direful,dire,fearful,frightful,terrific,awful,tremendous,venerable,awful,
+
+ FLAGRANT 
+flaming,glowing,burning,raging,notorious,glaring,enormous,crying,
+
+ EXEGETIC 
+explanatory,expository,
+
+ ELLIPTIC 
+oval,
+
+ FRISKY 
+gay,lively,playful,sportive,frolicsome,coltish,full of frolic,
+
+ FASHIONABLE 
+genteel,stylish,modish,in fashion,in,vogue,À la mode,the rage,having a run,customary,usual,prevailing,current,
+
+ FLAMING 
+blazing,bright red,of a bright color,violent,vehement,exciting,
+
+ EXHORTATIVE 
+exhortatory,hortatory,
+
+ FIRESIDE 
+domestic,
+
+ FROLICSOME 
+sportive,playful,daft,gamesome,gay,lively,frisky,coltish,full of frolic,
+
+ FLEXIBLE 
+pliable,pliant,limber,flexible,lithe,supple,not,stiff,not rigid,easily bent,
+
+ ENUNCIATORY 
+declarative,enunciative,
+
+ FRIENDLY 
+amicable,fraternal,neighborly,kind,well-,affected,on good terms,on friendly terms; on a friendly,familiar,or intimate footing; not hostile,not inimical,favorable,propitious,salutary,
+
+ DISPROPORTIONATE 
+unsymmetrical,out of proportion,inadequate,unsuitable,
+
+ FARCICAL 
+droll,ludicrous,ridiculous,
+
+ DISSIMILAR 
+unlike,different,heterogeneous,diverse,various,
+
+ FOREMENTIONED 
+aforesaid,above-mentioned,forenamed,
+
+ EMACIATE 
+lean,thin,lank,attenuated,wasted,gaunt,skinny,meagre,worn to a shadow,reduced to a skeleton,
+
+ DISMAL 
+cheerless,gloomy,dark,dull,dreary,lonesome,melancholy,mournful,sad,doleful,dolorous,sombre,lugubrious,funereal,horrid,horrible,terrible,dire,frightful,
+
+ FRIGID 
+cold,cool,gelid,not hot,of a low temperature,dull,unanimated,lifeless,forbidding,formal,prim,stiff,repulsive,chilling,
+
+ EARTHLY 
+terrestrial,sensual,sordid,worldly,low,grovelling,vile,base,gross,earthly-minded,earth-born,not spiritual,
+
+ DISSONANT 
+discordant,unharmonious,harsh,grating,jarring,out of tune,disagreeing,incongruous,inconsistent,discrepant,
+
+ EMPHATICAL 
+expressive,significant,categorical,strong,forcible,energetic,
+
+ ENTIRE 
+whole,complete,perfect,undivided,unbroken,undiminished,unimpaired,full,plenary,thorough,unalloyed,not toothed,not notched,
+
+ EXECRABLE 
+detestable,hateful,odious,damnable,cursed,accursed,abominable,villanous,offensive,disgusting,obnoxious,nauseous,nauseating,sickening,repulsive,revolting,vile,
+
+ DREAR 
+gloomy,dreary,
+
+ FANTASTICAL 
+imaginary,fanciful,ideal,chimerical,visionary,not real,whimsical,capricious,odd,queer,bizarre,strange,wild,
+
+ FABIAN 
+dilatory,inactive,procrastinating,delaying,
+
+ DREAD 
+frightful,terrible,horrible,dreadful,venerable,awful,
+
+ EQUABLE 
+even,uniform,equal,steady,regular,always the same,
+
+ FLEETING 
+transitory,transient,ephemeral,temporary,passing,evanescent,fugitive,flitting,flying,brief,short-lived,here to-,day and gone tomorrow,
+
+ DRUNKEN 
+intoxicated,drunk,sottish,given to intoxication,
+
+ FERTILE 
+prolific,fecund,not barren,fruitful,productive,rich,plenteous,luxuriant,exuberant,teeming,
+
+ FARTHEST 
+furthest,remotest,most remote,
+
+ FLEECY 
+woolly,
+
+ ERRING 
+sinful,fallible,peccable,liable to err,
+
+ EXPRESSIVE 
+significant,indicative,emphatic,strong,forcible,energetic,lively,vivid,
+
+ FOREGONE 
+predetermined,decided beforehand,
+
+ FAITHFUL 
+trustworthy,trusty,true,constant,loyal,truthful,reliable,worthy of credit,worthy of belief,to be,relied on,to be depended upon,exact,strict,conscientious,accurate,close,nice,
+
+ DISCREDITABLE 
+disgraceful,disreputable,
+
+ FILIFORM 
+filamentous,thread-shaped,long and slender,
+
+ FRANGIBLE 
+brittle,fragile,easily broken,
+
+ EROTICAL 
+amatory,amorous,anacreontic,
+
+ FORMATIVE 
+plastic,not radical,
+
+ EXPLICABLE 
+explainable,
+
+ FAULTY 
+bad,defective,imperfect,blamable,culpable,censurable,reprehensible,blameworthy,worthy of censure,
+
+ EUPHONIOUS 
+euphonic,mellifluous,clear,silvery,musical,sweet-toned,not harsh,sweetly flowing,
+
+ FLESHLY 
+human,of flesh,carnal,sensual,lustful,lascivious,lecherous,
+
+ DOGGISH 
+snarling,snappish,growling,churlish,surly,sullen,sour,morose,dogged,
+
+ DIURNAL 
+daily,quotidian,
+
+ FEMININE 
+soft,tender,delicate,womanly,effeminate,unmanly,
+
+ FAR 
+remote,distant,not near,
+
+ FINISHED 
+completed,complete,perfect,polished,perfected,elegant,highly-wrought,experienced,practised,qualified,accomplished,thorough-bred,able,proficient,
+
+ FAT 
+oleaginous,unctuous,adipose,oily,greasy,fatty,plump,fleshy,corpulent,obese,portly,pursy,not lean,not,slender,coarse,heavy,dull,sluggish,stupid,fat-witted,rich,profitable,lucrative,fertile,fruitful,productive,not barren,
+
+ FAIR-SPOKEN 
+civil,courteous,oily,bland,smooth,plausible,
+
+ ETHNIC 
+pagan,gentile,ethnological,
+
+ EXTENSILE 
+extensible,extendible,
+
+ FILTHY 
+dirty,nasty,foul,unclean,squalid,impure,gross,corrupt,
+
+ EATABLE 
+esculent,edible,
+
+ EBULLIENT 
+effervescing,boiling over,
+
+ DISLOYAL 
+unfaithful,undutiful,disaffected,faithless,false,treacherous,perfidious,not true in allegiance,
+
+ FLECKED 
+spotted,streaked,striped,dappled,mottled,variegated,piebald,
+
+ DOWNCAST 
+sad,melancholy,dejected,dispirited,disheartened,despondent,discouraged,depressed,cast down,down-hearted,crest-,fallen,chap-fallen,down in the mouth,
+
+ EARTH-BORN 
+terrigenous,born on the earth,of low birth,of mean extraction,earthly,low,mean,base,abject,grovelling,earth-bred,
+
+ DROLL 
+comic,comical,funny,ludicrous,farcical,laughable,ridiculous,odd,queer,facetious,waggish,amusing,diverting,
+
+ FLESH-EATING 
+carnivorous,
+
+ DISJUNCTIVE 
+disjoining,discretive,
+
+ EVER-DURING 
+eternal,everlasting,
+
+ ERRONEOUS 
+false,incorrect,inexact,inaccurate,wrong,untrue,
+
+ FOND 
+doting,over-affectionate,foolishly loving,excessively,tender,
+
+ ESCHAROTIC 
+caustic,searing,cauterizing,catheretic,
+
+ FINE 
+minute,small,little,comminuted,slender,delicate,capillary,not coarse,light,of delicate material,of fine texture,keen,sharp,thin,subtile,tenuous,not gross,exquisite,nice,refined,excellent,superior,very good,brilliant,accomplished,beautiful,handsome,splendid,elegant,clear,pure,unadulterated,gairish,gay,flashy,airy,sparkish,
+
+ EVERY-DAY 
+common,customary,usual,wonted,accustomed,habitual,
+
+ FORLORN 
+deserted,abandoned,forsaken,friendless,solitary,lost,wretched,miserable,pitiable,destitute,helpless,comfortless,disconsolate,woe-begone,
+
+ ELUSORY 
+evasive,elusive,delusive,deceptive,
+
+ EMINENT 
+high,lofty,elevated,distinguished,conspicuous,celebrated,prominent,illustrious,exalted,famous,renowned,remarkable,of great repute,
+
+ DISCRETIONAL 
+optional,
+
+ FLIMSY 
+slight,thin,unsubstantial,of frail texture,weak,feeble,trivial,frivolous,foolish,trifling,light,puerile,shallow,superficial,trashy,
+
+ DISOBLIGING 
+unaccommodating,unkind,unamiable,unfriendly,ill-natured,
+
+ EGG-SHAPED 
+ovate,
+
+ FIRM 
+compact,compressed,solid,dense,hard,not soft,not fluid,fixed,fast,rooted,established,settled,confirmed,stable,secure,immovable,steady,steadfast,unshaken,resolute,stanch,constant,strong,robust,sinewy,sturdy,
+
+ EXPANSIVE 
+diffusive,
+
+ DUCTILE 
+tractable,complying,docile,yielding,facile,extensible,capable of being drawn out,
+
+ EXCEPTIVE 
+exceptional,
+
+ FIDGETY 
+restless,impatient,
+
+ FAMILIAR 
+conversant,well acquainted,well versed,intimate,close,near,friendly,amicable,fraternal,cordial,on,a friendly footing,on friendly terms,unceremonious,social,accessible,unconstrained,free,easy,affable,courteous,civil,polite,free and easy,well known,
+
+ DREARY 
+gloomy,cheerless,comfortless,dismal,dark,drear,
+
+ EXTERNAL 
+outward,outer,exterior,outside,superficial,extrinsic,foreign,from without,visible,apparent,
+
+ EXTREME 
+outermost,utmost,farthest,uttermost,most,distant,most remote,greatest,highest,of the highest degree,of the rarest kind,last,final,ultimate,
+
+ DRY 
+arid,not wet,not moist,thirsty,craving drink,uninteresting,barren,dull,jejune,meagre,tame,vapid,unembellished,plain,sarcastic,severe,sly,keen,sharp,
+
+ DISINGENUOUS 
+unfair,dishonest,insincere,uncandid,artful,cunning,sly,insidious,deceitful,knavish,false,false-hearted,not,frank,not open,
+
+ EMPYREAL 
+ethereal,aërial,airy,highly refined,
+
+ ESPECIAL 
+particular,principal,chief,special,
+
+ FAITHLESS 
+unbelieving,perfidious,treacherous,false,untruthful,truthless,
+
+ FAR-SIGHTED 
+long-sighted,
+
+ DISCRETE 
+separate,distinct,disjunct,not continuous,disjunctive,discretive,
+
+ EXPOSITORY 
+explanatory,illustrative,exegetical,elucidative,
+
+ EXCRETIVE 
+excretory,
+
+ EXPEDIENT 
+fit,proper,suitable,advisable,desirable,advantageous,profitable,useful,for one's advantage,for one's,interest,
+
+ DOLTISH 
+stupid,dull,foolish,blockish,simple,witless,thick-skulled,buffle-headed,
+
+ FIRST 
+foremost,leading,chief,highest,principal,capital,earliest,primary,primitive,primeval,pristine,
+
+ ENVIOUS 
+jealous,disposed to envy,grudging,
+
+ FAIR 
+spotless,unspotted,untarnished,unblemished,unstained,white,light,blonde,handsome,comely,beautiful,pleasant,clear,cloudless,not cloudy,not overcast,favorable,prosperous,promising,hopeful,open,distinct,plain,unobstructed,unincumbered,frank,honest,candid,ingenuous,equitable,just,honorable,upright,impartial,unbiassed,reasonable,proper,pretty good,more than middling,above mediocrity,
+
+ FLUTED 
+channelled,
+
+ EXEGETICAL 
+explanatory,expository,
+
+ ENCYCLOPEDICAL 
+that embraces the whole circle of learning,encyclopedian,
+
+ EROTIC 
+amatory,amorous,anacreontic,
+
+ DISTANT 
+remote,far,not near,reserved,shy,cold,cool,coy,not cordial,slight,faint,indirect,indistinct,obscure,
+
+ FAIN 
+glad,pleased,rejoiced,well-pleased,
+
+ ECCLESIASTICAL 
+not civil,not secular,
+
+ FLORID 
+rubicund,of a bright red color,ornate,rhetorical,figurative,highly embellished,
+
+ EXTRINSIC 
+external,outward,extraneous,foreign,not intrinsic,
+
+ DISSOLUTE 
+loose,licentious,lax,debauched,wanton,lewd,corrupt,profligate,rakish,depraved,reprobate,abandoned,graceless,shameless,wild,
+
+ EXCITABLE 
+sensitive,susceptible,impressible,excited,irascible,irritable,passionate,choleric,hasty,hot-tempered,quick-tempered,
+
+ FEW 
+not many,small in number,hardly any,scarcely any,
+
+ DUPLICATE 
+double,twofold,
+
+ EXTRAVAGANT 
+excessive,inordinate,exorbitant,unreasonable,preposterous,irregular,wild,foolish,absurd,wasteful,lavish,profuse,prodigal,too liberal,too bountiful,
+
+ FIERY 
+igneous,of fire,hot,heated,ardent,impetuous,vehement,fierce,passionate,impassioned,fervent,fervid,glowing,
+
+ ECLECTIC 
+selecting,choosing,
+
+ EMPTY 
+void,devoid,vacant,unoccupied,unfurnished,unsupplied,unfilled,destitute,unsubstantial,unsatisfying,unsatisfactory,vain,hollow,desolate,waste,deserted,senseless,silly,weak,
+
+ FRAGMENTARY 
+fractional,broken,
+
+ EAGLE-EYED 
+discerning,perspicacious,quick-sighted,sharp-,sighted,lynx-eyed,hawk-eyed,keen-eyed,argus-eyed,
+
+ ELVISH 
+elf-like,mischievous,elfish,
+
+ DISPROPORTIONAL 
+disproportionate,
+
+ FOAMY 
+frothy,spumy,spumous,
+
+ DISSOLVABLE 
+dissoluble,
+
+ EXCELLENT 
+superior,eminent,first-rate,sterling,peerless,prime,admirable,matchless,choice,crack,exquisite,transcendent,of the best,of the first water,superlatively good,virtuous,worthy,good,above or beyond all praise,
+
+ EXACT 
+strict,scrupulous,methodical,punctual,nice,critical,upright,honest,accurate,precise,literal,correct,true,
+
+ ENCHANTING 
+charming,captivating,fascinating,bewitching,delightful,ravishing,circean,
+
+ EARTHY 
+terrene,composed of earth,earthly,terrestrial,gross,coarse,unrefined,
+
+ DRAB 
+dun,dull brown,
+
+ DISHONEST 
+faithless,knavish,false,unfair,disingenuous,fraudulent,deceitful,treacherous,slippery,unscrupulous,perfidious,wicked,false-hearted,
+
+ EMPIRICAL 
+experimental,experiential,from experience,charlatanic,quackish,
+
+ FOREGOING 
+preceding,previous,antecedent,prior,former,
+
+ EXOTICAL 
+foreign,extraneous,not indigenous,not native,
+
+ EXANIMATE 
+lifeless,dead,defunct,inanimate,torpid,inert,sluggish,spiritless,
+
+ DOMESTIC 
+homely,fond of home,intestine,not foreign,tame,domesticated,not wild,
+
+ EVANGELIC 
+according to the gospel,
+
+ FELICITOUS 
+fit,appropriate,apt,pertinent,opportune,seasonable,well-timed,happy,skilful,ingenious,prosperous,successful,fortunate,lucky,auspicious,
+
+ ELEGANT 
+graceful,beautiful,handsome,fine,symmetrical,classical,tasty,tasteful,chaste,neat,well-made,well-,proportioned,in good taste,polished,refined,accomplished,cultivated,polite,genteel,courtly,fashionable,
+
+ FORMIDABLE 
+fearful,dreadful,terrible,redoubtable,frightful,terrific,horrible,tremendous,
+
+ FINICAL 
+spruce,jemmy,over-nice,nice over-much,affectedly,elegant,
+
+ EXECUTIVE 
+executory,not legislative,
+
+ FRAUGHT 
+filled,stored,freighted,laden,charged,
+
+ ELIGIBLE 
+desirable,preferable,to be preferred,worthy,of choice,fit to be chosen,legally qualified,
+
+ EFFICIENT 
+operative,active,efficacious,effective,effectual,potent,able,energetic,skilful,ready,
+
+ EXOTIC 
+foreign,extraneous,not indigenous,not native,
+
+ FLOWING 
+running,fluent,copious,smooth,
+
+ FORTUNATE 
+lucky,successful,prosperous,favored,happy,propitious,auspicious,favorable,
+
+ EROSIVE 
+corrosive,corroding,caustic,acrid,virulent,eating,catheretic,
+
+ FICKLE 
+wavering,inconstant,unsteady,unstable,variable,vacillating,volatile,changeable,fitful,irresolute,unsettled,capricious,not steady,not steadfast,like a weather-cock,
+
+ FIRST-RATE 
+superior,excellent,capital,crack,prime,pre-,eminent,of the first class,of the best,of the highest excellence,first-class,
+
+ EVASIVE 
+equivocating,shuffling,sophistical,elusive,elusory,
+
+ FRAIL 
+fragile,frangible,brittle,easily broken,weak,feeble,fragile,infirm,liable to err,easily led astray,of infirm virtue,
+
+ DWARFISH 
+stunted,dwarfed,under-sized,diminutive,small,little,tiny,lilliputian,pygmean,
+
+ EMBOLISMICAL 
+intercalated,intercalary,
+
+ DISGRACEFUL 
+shameful,ignominious,scandalous,dishonorable,discreditable,disreputable,infamous,opprobrious,
+
+ EFFICACIOUS 
+effectual,effective,powerful,active,operative,efficient,energetic,of adequate power,
+
+ EARTHLY-MINDED 
+sensual,sordid,earthly,
+
+ ETERNAL 
+endless,everlasting,interminable,ever-during,perpetual,ceaseless,unceasing,perennial,imperishable,undying,never-dying,immortal,immutable,unchangeable,
+
+ DOWN-HEARTED 
+dejected,downcast,
+
+ DOCILE 
+teachable,docile,docible,tractable,apt,easily,taught,
+
+ DISREPUTABLE 
+discreditable,dishonorable,disgraceful,shameful,scandalous,infamous,opprobrious,derogatory,low,mean,vulgar,
+
+ EFFECTIVE 
+competent,adequate,powerful,forcible,energetic,potent,cogent,sufficient,efficacious,operative,active,efficient,effectual,
+
+ DOUBLE 
+coupled,in pairs,twice as much,twofold,deceitful,dishonest,knavish,false,perfidious,hollow,insincere,double-faced,double-tongued,
+
+ EXIGENT 
+urgent,pressing,
+
+ FORENAMED 
+aforesaid,above-mentioned,forementioned,above-,named,
+
+ DRASTIC 
+active,efficacious,
+
+ EXPERIENCED 
+practised,instructed,accomplished,thoroughbred,versed,qualified,able,
+
+ DISSOLUBLE 
+dissolvable,
+
+ EUPHONIC 
+euphonious,
+
+ FIRST-CLASS 
+first-rate,
+
+ FAR-FETCHED 
+recondite,abstruse,forced,strained,catachrestic,studiously sought,
+
+ EXOTERIC 
+public,open,not private,not esoteric,
+
+ EFFECTUAL 
+operative,successful,efficacious,effective,active,efficient,of adequate power,
+
+ FANCY 
+imaginative,of the fancy,elegant,fine,nice,
+
+ EDACIOUS 
+greedy,voracious,devouring,
+
+ DISCRETIVE 
+disjunctive,discrete,
+
+ EXTERIOR 
+outward,external,outer,outside,superficial,extrinsic,foreign,from without,
+
+ FRANK 
+artless,candid,open,ingenuous,free,sincere,frank-,hearted,unreserved,without disguise,

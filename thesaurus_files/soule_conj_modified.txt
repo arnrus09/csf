@@ -1,0 +1,59 @@
+#CONJUNCTIONS#
+[' LEST*', ' BOTH*', ' BECAUSE*', ' UNLESS*', ' FOR*', ' PROVIDED*', ' WHEREAS*', ' SINCE*', ' HOWEVER*', ' BUT*', ' THEN*', ' THOUGH*', ' YET*', ' SO*', ' ALTHOUGH*', ' NOTWITHSTANDING*', ' TILL*', ' SEEING*', ' IF*']
+
+ LEST 
+that not,for fear that,
+
+ BOTH 
+and; both--and.] as well as,not only,but also,
+
+ BECAUSE 
+for,since,as,for the cause that,for the reason that,on this account that,inasmuch as,on account,by reason,
+
+ UNLESS 
+except,if not,
+
+ FOR 
+because,since,on this account that,
+
+ PROVIDED 
+if,on condition,with the understanding,
+
+ WHEREAS 
+since,considering that,it being the case that,when in fact,while on the contrary,
+
+ SINCE 
+because,as,considering,seeing that,because that,inasmuch as,
+
+ HOWEVER 
+yet,still,nevertheless,but,though,notwithstanding,
+
+ BUT 
+on the other hand,on the contrary,yet,still,however,nevertheless,moreover,further,unless,if it were not that,if it be not that,but that,otherwise than that,
+
+ THEN 
+in that case,
+
+ THOUGH 
+although,granting,admitting,allowing,notwithstanding that,however,yet,nevertheless,
+
+ YET 
+nevertheless,notwithstanding,however,
+
+ SO 
+provided that,on condition that,in case that,
+
+ ALTHOUGH 
+though,albeit,notwithstanding,grant that,for all that,be it so,even if,
+
+ NOTWITHSTANDING 
+nevertheless,yet,however,for all that,
+
+ TILL 
+to the time when,
+
+ SEEING 
+considering,since,inasmuch as,for the reason that,
+
+ IF 
+suppose that,admitting that,allowing that,whether,whether or not,

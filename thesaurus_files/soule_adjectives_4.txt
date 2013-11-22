@@ -1,0 +1,2304 @@
+
+ HOMOPHONOUS 
+unisonous,of the same sound,of like pitch,
+
+ HOODED 
+covered with a hood,cucullated,hood-shaped,
+
+ ILL-STARRED 
+unlucky,luckless,unfortunate,ill-fated,
+
+ GODLESS 
+irreligious,impious,profane,wicked,ungodly,atheistical,given to atheism,
+
+ INTREPID 
+bold,fearless,dauntless,undaunted,undismayed,unterrified,unappalled,unawed,brave,courageous,valorous,valiant,heroic,gallant,chivalrous,daring,doughty,
+
+ INCISIVE 
+cutting,sharp,acute,sarcastic,satirical,severe,biting,
+
+ GAINFUL 
+advantageous,profitable,beneficial,lucrative,remunerative,productive,paying,
+
+ ILL-FATED 
+luckless,unlucky,unfortunate,ill-starred,
+
+ HIGH-TONED 
+acute,sharp,shrill,high,noble,honorable,high-minded,
+
+ IMPROVIDENT 
+shiftless,imprudent,prodigal,wasteful,without,forecast,without foresight,careless of the future,
+
+ INACCURATE 
+incorrect,inexact,erroneous,
+
+ HEALTHFUL 
+wholesome,salubrious,salutary,healthy,health-,giving,
+
+ INFURIATED 
+enraged,raging,mad,incensed,furious,very angry,
+
+ IMMEDIATE 
+proximate,close,direct,without other agency,instantaneous,instant,present,
+
+ ICHOROUS 
+serous,watery,thin,
+
+ FULNESS 
+plenitude,completeness,copiousness,repletion,abundance,profusion,affluence,plenty,
+
+ INTENT 
+eager,earnest,close,closely fixed,resolutely bent,
+
+ ILLEGAL 
+unlawful,illicit,unlicensed,
+
+ INMOST 
+innermost,
+
+ INGENIOUS 
+inventive,gifted,able,sagacious,clever,bright,that shows invention,exhibiting ingenuity,
+
+ GASSY 
+bombastic,pompous,
+
+ HIBERNIAN 
+irish,
+
+ INITIATORY 
+initiative,inceptive,
+
+ HOPELESS 
+despairing,desperate,forlorn,remediless,irremediable,incurable,past cure,impossible,impracticable,
+
+ INSUBORDINATE 
+disobedient,unruly,mutinous,riotous,seditious,disorderly,turbulent,ungovernable,refractory,
+
+ GREAT-HEARTED 
+noble,magnanimous,generous,chivalrous,high-,spirited,high-minded,
+
+ INCOMPLETE 
+defective,deficient,imperfect,not complete,unfinished,uncompleted,unaccomplished,unexecuted,not,completed,left undone,
+
+ GESTIC 
+legendary,traditional,historical,
+
+ INDEBTED 
+owing,in debt,obliged,beholden,
+
+ GRIM-FACED 
+grim-visaged,
+
+ HIEROGLYPHICAL 
+emblematical,symbolical,
+
+ HIPPED 
+hypochondriacal,blue,dejected,depressed,low-spirited,in low spirits,
+
+ INSIGNIFICANT 
+without meaning,not significant,unimportant,paltry,petty,empty,trivial,trifling,immaterial,unessential,of little consequence,of little account,of no moment,
+
+ INDOCIBLE 
+unteachable,indocile,
+
+ INEXTINGUISHABLE 
+unquenchable,that cannot be extinguished,
+
+ HURRIED 
+over head and ears,pressed,for time,hasty,cursory,slight,superficial,
+
+ GRIM-VISAGED 
+grim-faced,
+
+ HIRSUTE 
+hairy,shaggy,
+
+ INFERRIBLE 
+to be,inferred,
+
+ FUMY 
+smoky,fuliginous,
+
+ HARD-FISTED 
+avaricious,covetous,penurious,miserly,niggardly,sordid,stingy,mercenary,mean,close-fisted,
+
+ INANIMATE 
+lifeless,dead,inert,soulless,spiritless,
+
+ GENUINE 
+pure,uncorrupt,unalloyed,unadulterated,true,real,veritable,authentic,not spurious,not false,not fictitious,not apochryphal,what it purports to be,native,unaffected,sincere,
+
+ GRAMINIVOROUS 
+grass-eating,phytivorous,phytophagous,
+
+ INDIGESTIBLE 
+that cannot be digested,
+
+ INSTANTANEOUS 
+immediate,quick,instant,
+
+ HONORABLE 
+illustrious,noble,great,of high rank,upright,just,honest,fair,trustworthy,trusty,true,conscientious,virtuous,magnanimous,high-minded,as good as one's,word,reputable,creditable,estimable,right,proper,equitable,
+
+ GLUTTONOUS 
+voracious,given to excess in eating,
+
+ INAPT 
+unfit,unsuitable,inapposite,
+
+ IMMACULATE 
+spotless,unspotted,stainless,unsullied,unsoiled,untainted,unblemished,untarnished,undefiled,clean,pure,innocent,guiltless,sinless,faultless,
+
+ INSULAR 
+surrounded by water,
+
+ HEAD 
+chief,principal,highest,first,contrary,
+
+ GRIEVOUS 
+distressing,afflictive,afflicting,painful,sad,deplorable,lamentable,hard to bear,hurtful,injurious,baneful,noxious,mischievous,detrimental,destructive,calamitous,atrocious,heinous,flagitious,
+
+ HACKNEYED 
+worn out,much used,common,commonplace,threadbare,trite,stale,beaten,
+
+ FRUSTRATE 
+vain,useless,ineffectual,frustrated,of no effect,
+
+ HARMFUL 
+injurious,detrimental,mischievous,pernicious,deleterious,noxious,baneful,prejudicial,disadvantageous,hurtful,
+
+ HALF-YEARLY 
+semi-annual,
+
+ GAME 
+courageous,brave,resolute,unflinching,fearless,valorous,chivalrous,dauntless,intrepid,gallant,heroic,
+
+ INFALLIBLE 
+unerring,not liable to err,certain,sure,unfailing,not liable to fail,
+
+ INHARMONIOUS 
+discordant,unmusical,inharmonic,unharmonious,out of tune,
+
+ INCOMMUNICABLE 
+not to be communicated,that cannot be,communicated or imparted,
+
+ HAGGARD 
+wild,wayward,intractable,unruly,refractory,untamed,not domesticated,gaunt,lean,meagre,spare,worn,wasted,rawboned,
+
+ INEXHAUSTIBLE 
+exhaustless,unfailing,that cannot be exhausted,
+
+ HEAVY 
+ponderous,not light,not easy to lift,oppressive,grievous,severe,burdensome,cumbersome,afflictive,dull,sluggish,inert,inactive,stupid,torpid,indolent,slow,dejected,depressed,sorrowful,sad,gloomy,melancholy,despondent,downcast,down-hearted,low-spirited,crest-fallen,chap-,fallen,in low spirits,onerous,difficult,laborious,tedious,tiresome,wearisome,loaded,burdened,encumbered,weighed down,miry,muddy,cloggy,clayey,not well raised,stormy,tempestuous,violent,boisterous,loud,deep,roaring,
+
+ IMPRESSIVE 
+affecting,touching,moving,stirring,powerful,
+
+ INEXPEDIENT 
+improper,unadvisable,unfit,unsuitable,disadvantageous,not prudent,not discreet,
+
+ HORTATORY 
+persuasive,homiletic,encouraging,inciting,
+
+ ILL-PROVIDED 
+ill-furnished,scantily supplied,
+
+ GREEK 
+of greece,grecian,classic,classical,after the greek,in the manner of,greece,
+
+ INSIDIOUS 
+artful,sly,wily,arch,crafty,cunning,subtle,intriguing,designing,deceitful,treacherous,crooked,trickish,tricky,foxy,snaky,diplomatic,machiavelian,
+
+ GRATULATORY 
+congratulatory,
+
+ HORROR-STRUCK 
+dismayed,horrified,terrified,appalled,frightened,panic-stricken,
+
+ HUNCH-BACKED 
+hump-backed,
+
+ IMPATIENT 
+unquiet,uneasy,restless,hasty,precipitate,vehement,impetuous,eager,
+
+ IMMODERATE 
+inordinate,excessive,unreasonable,extravagant,exorbitant,intemperate,
+
+ HOMELIKE 
+domestic,homely,
+
+ HIGH-WROUGHT 
+impetuous,vehement,intense,enthusiastic,impassioned,highly finished,nicely elaborated,
+
+ GRADUAL 
+progressive,slow,
+
+ INTIMATE 
+near,close,familiar,friendly,thick,hand and glove,hail fellow well met,
+
+ IMMORTAL 
+undying,deathless,ever-living,imperishable,incorruptible,unfading,indestructible,enduring,never-dying,eternal,everlasting,endless,perpetual,ceaseless,never-ending,
+
+ GENTLE 
+mild,bland,moderate,clement,lenient,merciful,kind,tender,compassionate,indulgent,meek,soft,humane,of a sweet,disposition,not rough,not harsh,tame,docile,peaceable,quiet,tractable,pacific,dove-like,not wild,not refractory,
+
+ INCORPOREAL 
+immaterial,spiritual,bodiless,not corporeal,
+
+ INTRICATE 
+entangled,complicated,involved,perplexed,obscure,difficult,
+
+ HOME 
+domestic,home-born,close,pointed,direct,severe,poignant,
+
+ INSATIABLE 
+insatiate,unappeasable,voracious,not to be,satisfied,very greedy,
+
+ GLOBATE 
+globular,globose,spherical,round,spheroidal,globe-,shaped,
+
+ ILLEGIBLE 
+unreadable,not readable,
+
+ INCORRECT 
+inexact,inaccurate,erroneous,false,untrue,ungrammatical,faulty,
+
+ HORRID 
+frightful,terrible,terrific,horrible,alarming,portentous,formidable,appalling,dire,horrifying,horrific,harrowing,dreadful,fearful,awful,hideous,shocking,offensive,disgusting,revolting,repulsive,odious,disagreeable,unpleasant,vile,abominable,
+
+ FULSOME 
+nauseous,offensive,disgusting,loathsome,revolting,repulsive,sickening,rank,gross,
+
+ GOOD-TEMPERED 
+amiable,good-natured,
+
+ HEREDITARY 
+ancestral,patrimonial,by inheritance,inherited,
+
+ ILL-SPENT 
+wasted,
+
+ GHOSTLY 
+spiritual,of the soul,spectral,phantom-like,
+
+ INCURIOUS 
+uninquisitive,inattentive,unobservant,careless,heedless,not inquisitive,destitute of curiosity,
+
+ GLOBULOUS 
+spherical,globular,
+
+ HIGH-FLOWN 
+proud,haughty,lofty,supercilious,extravagant,turgid,bombastic,highfalutin,
+
+ INFEASIBLE 
+impracticable,unfeasible,that cannot be,accomplished,not to be done,
+
+ INDECISIVE 
+inconclusive,not decisive,unsettled,wavering,vacillating,irresolute,hesitating,
+
+ INADMISSIBLE 
+not to be admitted,not to be allowed,
+
+ INNERMOST 
+inmost,
+
+ HUELESS 
+colorless,uncolored,untinged,achromatic,free from,color,
+
+ INEXPRESSIBLE 
+ineffable,unutterable,unspeakable,indescribable,
+
+ GROUND-SILL 
+sill,ground-plate,
+
+ INHABITABLE 
+habitable,
+
+ HARD 
+firm,solid,compact,impenetrable,unyielding,not,soft,difficult,embarrassing,perplexing,puzzling,knotty,intricate,not easily understood,laborious,arduous,toilsome,fatiguing,wearying,unfeeling,unkind,insensible,unsusceptible,cruel,oppressive,rigorous,severe,unyielding,inflexible,callous,obdurate,hard-,hearted,grievous,distressing,calamitous,painful,disagreeable,unpleasant,inclement,stormy,tempestuous,cold,harsh,rough,sour,acid,coarse,unpalatable,unfavorable,unprosperous,unpropitious,stiff,constrained,forced,unnatural,ungraceful,excessive,intemperate,
+
+ INSTINCTIVE 
+natural,spontaneous,involuntary,
+
+ INIMITABLE 
+unparalleled,perfect,unequalled,unexampled,incomparable,unrivalled,unmatched,unparagoned,matchless,peerless,above imitation,
+
+ HYEMAL 
+brumal,wintry,frosty,icy,cold,chilling,
+
+ FURTHEST 
+farthest,remotest,most remote,
+
+ GOOD-HUMORED 
+cheerful,buoyant,good-natured,good-tempered,of a placid temper,
+
+ HUSWIFELY 
+thrifty,frugal,economical,
+
+ IMPENETRABLE 
+not to be penetrated,not to be pierced,
+
+ INDISSOLUBLE 
+indissolvable,that cannot be dissolved,that cannot be liquefied,indestructible,stable,firm,enduring,not to be broken,
+
+ HUMBLE 
+meek,modest,unassuming,unpretending,unobtrusive,lowly,submissive,not proud,not haughty,not arrogant,low,not high,not great,
+
+ IDIOTIC 
+foolish,sottish,
+
+ HONEST 
+honorable,reputable,creditable,right,proper,equitable,upright,virtuous,conscientious,just,true,fair,faithful,trusty,trustworthy,as good as one's word,sincere,candid,frank,
+
+ IMMEASURABLE 
+illimitable,limitless,boundless,unbounded,measureless,immense,infinite,
+
+ GROWING 
+increasing,enlarging,
+
+ FUNEREAL 
+dark,dismal,mournful,sombre,sad,woful,gloomy,lugubrious,melancholy,sepulchral,suitable to a funeral,
+
+ IMAGINATIVE 
+inventive,creative,poetical,
+
+ INEXPRESSIVE 
+unexpressive,characterless,blank,
+
+ INCONCLUSIVE 
+unconvincing,indecisive,not conclusive,
+
+ HOLLOW 
+vacant,empty,void,cavernous,not solid,insincere,treacherous,false,faithless,hypocritical,pharisaical,deceitful,false-hearted,hollow-hearted,deep,low,rumbling,
+
+ GLUM 
+sullen,moody,sulky,morose,sour,crabbed,crusty,grum,glowering,frowning,spleeny,dogged,stubborn,intractable,cross-grained,
+
+ HEMISPHERIC 
+half-round,
+
+ INCONSISTENT 
+incongruous,incompatible,unsuitable,incoherent,irreconcilable,discrepant,contrary,contradictory,
+
+ INDEFINITE 
+indeterminate,undefined,indistinct,confused,vague,obscure,doubtful,uncertain,equivocal,unsettled,loose,
+
+ HOME-BORN 
+native,natural,home-bred,domestic,home,not foreign,
+
+ GIDDY 
+vertiginous,dizzy,changeable,fickle,inconstant,unsteady,mutable,unstable,irresolute,careless,heedless,thoughtless,wild,reckless,headlong,flighty,hair-brained,giddy-brained,light-headed,
+
+ FUNNY 
+comical,droll,farcical,ludicrous,sportive,humorous,laughable,diverting,amusing,
+
+ INSEPARABLE 
+indivisible,not to be separated,
+
+ ILL-FAVORED 
+ugly,homely,plain,ill-looking,
+
+ GIDDY-BRAINED 
+hair-brained,heedless,giddy,
+
+ HIGH-FLAVORED 
+pungent,piquant,high-seasoned,
+
+ HALLOWED 
+holy,sacred,blessed,
+
+ HARMLESS 
+innoxious,innocuous,not hurtful,inoffensive,unoffending,uninjured,unhurt,unharmed,
+
+ INNOCENT 
+harmless,inoffensive,innocuous,innoxious,guiltless,sinless,faultless,blameless,immaculate,spotless,pure,clean,clear,guileless,upright,
+
+ INDISCERNIBLE 
+undiscernible,imperceptible,invisible,undiscoverable,not to be discerned,
+
+ IMPRUDENT 
+indiscreet,inconsiderate,incautious,injudicious,improvident,careless,rash,unadvised,
+
+ GLIB 
+smooth,slippery,voluble,fluent,ready,talkative,flippant,nimble of speech,ready in speech,of a ready tongue,
+
+ HEATHY 
+heathery,
+
+ HINDMOST 
+last,
+
+ INCOMPUTABLE 
+not to be computed,that cannot be computed,
+
+ IMPUDENT 
+insolent,insulting,presumptuous,bold,shameless,impertinent,rude,saucy,pert,flippant,cool,brazen,forward,bold-,faced,brazen-faced,
+
+ GORY 
+bloody,ensanguined,
+
+ INTERMEDIATE 
+intervening,interposed,interjacent,
+
+ HOMELY 
+domestic,homelike,plain,coarse,uncomely,homespun,inelegant,ugly,ill-looking,of plain features,not handsome,
+
+ INFERNAL 
+hellish,tartarean,stygian,of hell,diabolical,devilish,demoniacal,fiendish,fiendlike,satanic,atrocious,nefarious,dark,very wicked,
+
+ GOODLY 
+beautiful,graceful,comely,good-looking,pleasant,happy,agreeable,desirable,considerable,pretty large,
+
+ HISTRIONICAL 
+theatric,theatrical,
+
+ HETEROPATHIC 
+allopathic,
+
+ IMPECUNIOUS 
+penniless,out of money,short of money,
+
+ ILLUSTRIOUS 
+glorious,splendid,brilliant,bright,radiant,famous,famed,noted,distinguished,renowned,celebrated,conspicuous,eminent,signal,remarkable,
+
+ INCOMPARABLE 
+transcendent,peerless,matchless,unrivalled,unequalled,unparalleled,inimitable,very superior,
+
+ GRITTY 
+sandy,
+
+ INDIVISIBLE 
+inseparable,that cannot be divided,
+
+ INFLUENTIAL 
+potent,powerful,controlling,of influence,of,authority,
+
+ IMPENDENT 
+impending,threatening,imminent,near at hand,
+
+ HYPOCHONDRIAC 
+melancholy,splenetic,dispirited,dejected,depressed,
+
+ INDISPUTABLE 
+incontestable,incontrovertible,unquestionable,undeniable,indubitable,irrefragable,evident,obvious,certain,not,to be disputed,beyond all question,beyond a doubt,past dispute,
+
+ INSTABLE 
+inconstant,changeable,mutable,unstable,unsteadfast,
+
+ FURFURACEOUS 
+scurfy,branny,scaly,scabby,lentiginous,
+
+ FUGACIOUS 
+transitory,transient,evanescent,fleeting,fugitive,
+
+ FURIOUS 
+raging,frantic,infuriated,frenzied,mad,violent,fierce,very angry,vehement,impetuous,tempestuous,stormy,boisterous,tumultuous,turbulent,
+
+ GUSTY 
+stormy,tempestuous,windy,squally,blustering,
+
+ INSATIATE 
+insatiable,
+
+ INFIRM 
+feeble,enfeebled,decrepit,imbecile,not strong,irresolute,vacillating,wavering,faltering,
+
+ HORRIFIC 
+frightful,horrid,
+
+ GRUM 
+sour,surly,morose,sullen,crabbed,glum,grouty,rumbling,deep in the throat,
+
+ INEFFECTUAL 
+inefficacious,ineffective,inoperative,unavailing,fruitless,useless,abortive,bootless,to no purpose,without effect,powerless,weak,impotent,feeble,inefficient,
+
+ GROGGY 
+intoxicated,inebriated,drunk,
+
+ INSURMOUNTABLE 
+insuperable,not to be overcome,that cannot be,surmounted,
+
+ INLAND 
+interior,domestic,not foreign,
+
+ GRISTLY 
+cartilaginous,
+
+ HEBREW 
+jewish,
+
+ HORNY 
+corneous,
+
+ HUNDREDTH 
+centesimal,
+
+ INHIBITORY 
+prohibitory,
+
+ INBORN 
+innate,inherent,inbred,natural,instinctive,congenital,ingrained,in the grain,bred in the bone,
+
+ INDULGENT 
+yielding,compliant,lenient,mild,clement,tolerant,gentle,forbearing,kind,tender,not severe,
+
+ INTERESTING 
+engaging,attractive,pleasing,entertaining,
+
+ INGENUOUS 
+artless,frank,open,candid,fair,sincere,guileless,honest,downright,straightforward,truthful,naÏve,simple-,minded,single-minded,open-hearted,above-board,
+
+ HOOKED 
+bent,curved,curvated,hamate,
+
+ INTESTATE 
+without a will,
+
+ HAZY 
+foggy,misty,
+
+ INHARMONIC 
+inharmonious,
+
+ HALF-WITTED 
+dull,stupid,stolid,doltish,foolish,soft,silly,shallow,sappy,weak-headed,weak-minded,feeble-minded,shallow-brained,blunt-witted,dull-witted,thick-skulled,
+
+ ILL-JUDGED 
+unwise,injudicious,imprudent,ridiculous,absurd,foolish,ill-advised,
+
+ INNER 
+interior,internal,
+
+ INTERIOR 
+internal,inner,inward,not outward,inland,remote from the shore or the frontier,
+
+ INCOMPREHENSIBLE 
+inconceivable,unimaginable,not to be,comprehended,past finding out,beyond the reach of human faculties,
+
+ HEADSTRONG 
+stubborn,obstinate,dogged,cantankerous,ungovernable,unruly,intractable,heady,self-willed,cross-grained,
+
+ IMMODEST 
+indelicate,indecent,shameless,indecorous,gross,coarse,impure,obscene,smutty,lewd,unchaste,filthy,
+
+ IMPERTURBABLE 
+calm,cool,composed,unmoved,undisturbed,tranquil,unruffled,collected,placid,inexcitable,sedate,not to be,disturbed,
+
+ HINDER 
+hind,back,posterior,
+
+ GAUDY 
+showy,gay,flashy,dressy,tawdry,finical,glittering,flaunting,gairish,
+
+ INTRACTABLE 
+stubborn,obstinate,perverse,refractory,dogged,mulish,pig-headed,unruly,headstrong,unmanageable,ungovernable,indocile,obdurate,cross-grained,wilful,inflexible,unyielding,contumacious,cantankerous,
+
+ FULL 
+filled,replete,abounding,well stocked or provided,satiated,sated,glutted,cloyed,saturated,complete,entire,perfect,abundant,plentiful,copious,plenteous,sufficient,ample,loud,deep,strong,clear,distinct,comprehensive,capacious,broad,large,extensive,
+
+ INCHOATIVE 
+inceptive,that denotes a beginning,
+
+ INOFFENSIVE 
+harmless,unoffending,innocuous,innoxious,innocent,
+
+ HAZARDOUS 
+dangerous,perilous,risky,unsafe,fraught with,danger,
+
+ INCOMBUSTIBLE 
+not to be burned,that will not burn,
+
+ INCIDENT 
+happening,liable to happen,belonging,pertaining,appertaining,relating,impinging,
+
+ INORGANICAL 
+unorganized,
+
+ INEXPERIENCED 
+unpractised,untrained,uninitiated,unschooled,raw,unversed,unconversant,undisciplined,unskilled,green,without,experience,
+
+ HATEFUL 
+malignant,malevolent,abominable,detestable,execrable,horrid,shocking,damnable,accursed,loathsome,disgusting,nauseous,offensive,foul,repulsive,obnoxious,revolting,vile,abhorrent,repugnant,
+
+ FULVID 
+fulvous,
+
+ INDICATIVE 
+significant,to be taken as a sign,
+
+ INESTIMABLE 
+invaluable,priceless,that cannot be estimated,above all price,
+
+ IMPECCABLE 
+sinless,faultless,immaculate,
+
+ ILLUSIVE 
+deceptive,deceitful,delusive,fallacious,
+
+ GLUEY 
+viscous,viscid,glutinous,
+
+ INSURGENT 
+rebellious,seditious,insubordinate,disobedient,mutinous,
+
+ INEXORABLE 
+unrelenting,relentless,implacable,pitiless,merciless,unmerciful,uncompassionate,hard,cruel,not to be moved,by entreaty,
+
+ HYBRID 
+mongrel,
+
+ HUNGRY 
+famishing,ravenous,sharp-set,
+
+ HYPNOTIC 
+soporific,somniferous,
+
+ HONEYED 
+sweet,
+
+ IMPURE 
+foul,unclean,dirty,filthy,feculent,obscene,indecent,lewd,smutty,ribald,bawdy,coarse,immodest,gross,vulgar,indelicate,loose,
+
+ GRUMOUS 
+clotted,concreted,thick,
+
+ HEADY 
+rash,impetuous,hasty,precipitate,stubborn,headstrong,
+
+ INTERCHANGEABLE 
+that may be interchanged,
+
+ HETEROGENEOUS 
+unlike,dissimilar,different,
+
+ FURTIVE 
+stolen,stealthy,surreptitious,clandestine,secret,sly,
+
+ INFANTINE 
+childish,young,tender,childlike,
+
+ INIQUITOUS 
+unjust,unrighteous,unfair,inequitable,wrong,wicked,nefarious,heinous,flagitious,
+
+ IMPRACTICABLE 
+impossible,unfeasible,not practicable,hard to deal with,hard to get along with,
+
+ INEXPUGNABLE 
+impregnable,unassailable,not to be taken,by assault,not to be stormed,secure from capture,tenable against,all odds,unconquerable,not to be subdued,
+
+ ILLATIVE 
+inferential,
+
+ INAPPLICABLE 
+unfit,unsuitable,irrelevant,inapt,inapposite,
+
+ INCEPTIVE 
+inchoative,that denotes a beginning,
+
+ INTEMPERATE 
+excessive,inordinate,not temperate,given to excess in drinking intoxicating liquors,
+
+ GRAYISH 
+grizzly,grizzled,somewhat gray,
+
+ IMPROBABLE 
+unlikely,not probable,
+
+ INCANDESCENT 
+white-hot,
+
+ INCURABLE 
+irremediable,incorrigible,remediless,hopeless,irreparable,irretrievable,irremedicable,past cure,past mending,
+
+ INJURIOUS 
+wrongful,iniquitous,unjust,inequitable,hurtful,detrimental,prejudicial,pernicious,deleterious,noxious,deadly,baneful,mischievous,damaging,disadvantageous,destructive,ruinous,fatal,contumelious,detractory,
+
+ INDETERMINATE 
+indefinite,unfixed,uncertain,not settled,not,precise,
+
+ GALLANT 
+gay,showy,fine,splendid,magnificent,well-,dressed,courageous,brave,valiant,intrepid,valorous,heroic,chivalrous,fearless,bold,game,daring,high-spirited,
+
+ FULIGINOUS 
+sooty,smoky,fumy,dusky,dark,
+
+ IMPERCEPTIBLE 
+invisible,undiscernible,not to be,perceived,fine,minute,very small,
+
+ FUSTY 
+musty,mouldy,
+
+ GOUTY 
+podagric,podagrical,
+
+ INCENDIARY 
+inflammatory,seditious,factious,
+
+ INEXPLICABLE 
+unaccountable,unintelligible,incomprehensible,inscrutable,mysterious,strange,enigmatical,not to be explained,
+
+ INCONSIDERATE 
+thoughtless,careless,heedless,inattentive,inadvertent,negligent,imprudent,indiscreet,rash,hasty,giddy,headlong,hare-brained,giddy-brained,light-headed,
+
+ HUMORSOME 
+petulant,peevish,snappish,waspish,crusty,captious,perverse,wayward,cross-grained,capricious,whimsical,fanciful,fitful,fantastic,odd,
+
+ INCHOATE 
+beginning,commencing,incipient,
+
+ HIEROGLYPHIC 
+emblematical,symbolical,
+
+ INDISCREET 
+imprudent,injudicious,unwise,inconsiderate,foolish,rash,incautious,reckless,heedless,headlong,
+
+ INERT 
+inactive,lifeless,passive,motionless,dead,dull,indolent,torpid,sluggish,slothful,lazy,idle,supine,lumpish,dronish,
+
+ HOLY 
+pious,devout,religious,good,godly,saintly,spiritual,pure,saint-like,heavenly-minded,sacred,consecrated,hallowed,blessed,
+
+ HEATHENISH 
+heathen,pagan,gentile,barbarous,savage,cruel,inhuman,
+
+ HIGH-STRUNG 
+proud,high-spirited,
+
+ GRAVE 
+important,weighty,momentous,cogent,of great,consequence,sober,serious,sedate,thoughtful,demure,staid,solemn,plain,not showy,not tawdry,not acute,low in pitch,
+
+ INFECUND 
+unfruitful,infertile,unproductive,unprolific,sterile,barren,
+
+ INFECTIOUS 
+contagious,pestilential,pestiferous,catching,contaminating,corrupting,vitiating,poisoning,defiling,
+
+ HOIDEN 
+rustic,rude,inelegant,uncouth,ungenteel,unlicked,hoidenish,rough,rude,ill-taught,ill-behaved,ill-mannered,
+
+ GIFTED 
+talented,able,ingenious,sagacious,inventive,intelligent,
+
+ IMPERMEABLE 
+impervious,impenetrable,impassable,
+
+ GRATIFYING 
+pleasing,agreeable,welcome,
+
+ ILLICIT 
+unlawful,illegal,unlicensed,
+
+ HARMONIOUS 
+concordant,harmonic,consonant,melodious,tuneful,musical,dulcet,mellifluous,correspondent,consistent,congruent,symmetrical,friendly,amicable,cordial,brotherly,fraternal,neighborly,
+
+ GLUTTONISH 
+voracious,given to excess in eating,
+
+ FUNDAMENTAL 
+essential,primary,important,indispensable,radical,constitutional,organic,
+
+ INELIGIBLE 
+inexpedient,unadvisable,objectionable,
+
+ INTESTINAL 
+of the intestines,
+
+ INSENSIBLE 
+imperceptible,imperceivable,not discoverable,insensate,dull,stupid,torpid,brutish,senseless,without,sensibility,unfeeling,apathetic,phlegmatic,unsusceptible,unimpressible,
+
+ IMPLACABLE 
+malicious,vindictive,inexorable,unrelenting,relentless,rancorous,unappeasable,cruel,
+
+ IMPOROUS 
+close,compact,dense,solid,without pores,
+
+ ILL-TEMPERED 
+morose,ill-natured,
+
+ IDENTICAL 
+same,selfsame,very same,one and the same,exactly,the same,not different,
+
+ INCONGRUOUS 
+unsuitable,inconsistent,inappropriate,improper,incompatible,incoherent,discrepant,absurd,
+
+ INQUISITIVE 
+curious,prying,peering,scrutinizing,given to,research,
+
+ GOTHIC 
+rude,barbaric,barbarous,
+
+ INSUSCEPTIBLE 
+incapable,insusceptive,not susceptible,
+
+ HUMAN 
+man's,of man,common to mankind,
+
+ GUARDIAN 
+protecting,tutelary,
+
+ FUDDLED 
+drunk,intoxicated,inebriated,muddled,corned,tipsy,crapulous,groggy,boozy,tight,high,slewed,muzzy,nappy,disguised,mellow,in liquor,half seas over,in one's cups,the worse,for liquor,three sheets in the wind,has had a drop too much,
+
+ HELPLESS 
+weak,feeble,powerless,impotent,imbecile,disabled,infirm,exposed,defenceless,unprotected,irremediable,beyond help,
+
+ INSECURE 
+uncertain,not sure,not confident,unsafe,unprotected,exposed,dangerous,hazardous,perilous,
+
+ HUGE 
+vast,bulky,enormous,immense,stupendous,gigantic,colossal,elephantine,herculean,cyclopean,very great,very large,
+
+ GIANT 
+huge,gigantic,
+
+ HOARY 
+hoar,white,gray,
+
+ INCOMPATIBLE 
+inconsistent,incongruous,unsuitable,unadapted,
+
+ GLOBULAR 
+spherical,globate,globated,globose,globulous,round,globe-shaped,
+
+ GENEROUS 
+noble,magnanimous,honorable,high-minded,liberal,bountiful,beneficent,munificent,charitable,open-,handed,free-hearted,
+
+ IMMENSE 
+illimitable,boundless,unbounded,unlimited,measureless,infinite,vast,enormous,prodigious,huge,gigantic,colossal,cyclopean,herculean,very great,
+
+ HOLLOW-HEARTED 
+insincere,false,false-hearted,hollow,
+
+ INALIENABLE 
+not to be alienated,not transferable,
+
+ INCREDULOUS 
+unbelieving,sceptical,
+
+ GRATING 
+harsh,irritating,displeasing,disagreeable,offensive,
+
+ IMMUTABLE 
+unchangeable,invariable,unalterable,undeviating,constant,permanent,stable,
+
+ HYDROUS 
+watery,
+
+ GARISH 
+glaring,showy,gaudy,tawdry,flashy,gay,fine,airy,
+
+ HUBBY 
+uneven,hobbly,
+
+ HISPID 
+bristly,rough,
+
+ INDUBITABLE 
+unquestionable,indisputable,incontestable,undeniable,incontrovertible,evident,certain,beyond all question,beyond a doubt,past dispute,
+
+ INEXTRICABLE 
+intricate,perplexed,entangled,that cannot be,disentangled,not to be unravelled,
+
+ FUGITIVE 
+fleeing,flying,escaping,transitory,transient,evanescent,fleeting,flying,fugacious,flitting,passing,momentary,short,brief,temporal,ephemeral,short-,lived,
+
+ INCOMMENSURATE 
+disproportionate,inadequate,insufficient,unequal,
+
+ INCONSIDERABLE 
+unimportant,insignificant,small,trivial,trifling,petty,immaterial,of no consequence,of no moment,
+
+ INAPPRECIABLE 
+not appreciable,not to be appreciated,
+
+ HIGH-REACHING 
+reaching upwards,ambitious,aspiring,
+
+ HEATHERY 
+heathy,
+
+ GIBBOUS 
+convex,protuberant,swelling,rounded,
+
+ GRAMINACEOUS 
+grassy,
+
+ HELPFUL 
+useful,beneficial,convenient,wholesome,salutary,
+
+ HOIDENISH 
+hoiden,
+
+ HYALINE 
+glassy,crystalline,transparent,
+
+ INDISTINGUISHABLE 
+indistinct,indeterminate,confused,undistinguishable,that cannot be distinguished,
+
+ GRUFF 
+rough,churlish,rude,uncivil,uncourteous,ungracious,impolite,bluff,blunt,harsh,brusque,
+
+ INDELICATE 
+indecent,indecorous,unbecoming,unseemly,coarse,gross,rude,broad,vulgar,
+
+ GLASSY 
+vitreous,hyaline,crystal,crystalline,
+
+ INTELLIGENT 
+knowing,understanding,instructed,enlightened,skilful,skilled,clever,well-informed,astute,acute,quick,bright,apt,shrewd,discerning,clear-,sighted,keen-sighted,quick-sighted,sharp-sighted,sharp-witted,keen-eyed,long-headed,clear-headed,
+
+ INFERABLE 
+to be,inferred,
+
+ INTOLERABLE 
+insufferable,insupportable,unbearable,unendurable,not to be tolerated,
+
+ GRIZZLED 
+grayish,grizzly,
+
+ INDIGESTED 
+unconcocted,undigested,not digested,crude,ill-judged,ill-advised,not well considered,disorderly,confused,not arranged,not methodized,not sorted,in confusion,in disorder,
+
+ HIGH-PRICED 
+costly,dear,high,
+
+ INSOLENT 
+impertinent,impudent,saucy,pert,malapert,flippant,rude,abusive,overbearing,domineering,contemptuous,without humility or self-respect,
+
+ HOMESPUN 
+home-made,of domestic manufacture,plain,coarse,homely,rude,inelegant,unpolished,
+
+ IMPASSIONED 
+passionate,vehement,impetuous,glowing,intense,excited,animated,fervid,fervent,zealous,warm,ardent,
+
+ INCOMPOSITE 
+uncompounded,unmixed,simple,
+
+ GLAUCOUS 
+sea-green,
+
+ INFLEXIBLE 
+stiff,rigid,pertinacious,dogged,stubborn,obstinate,unyielding,refractory,headstrong,wilful,cantankerous,intractable,heady,obdurate,cross-grained,firm,resolute,steadfast,immovable,persevering,
+
+ INACTIVE 
+inert,lazy,indolent,idle,slothful,supine,torpid,sluggish,dronish,lumpish,passive,fabian,
+
+ INFRANGIBLE 
+that cannot be broken,not to be violated,
+
+ INFURIATE 
+enraged,raging,mad,incensed,furious,very angry,
+
+ HEAT-PRODUCING 
+heating,
+
+ INFLEXIBLENESS 
+inflexibility,
+
+ HEART-SHAPED 
+cordate,
+
+ INFANTILE 
+childish,young,tender,childlike,
+
+ INSULTING 
+insolent,impudent,impertinent,saucy,abusive,vituperative,ribald,blackguard,
+
+ HYMENEAL 
+nuptial,connubial,matrimonial,bridal,conjugal,conjugial,
+
+ FUTILE 
+trifling,frivolous,trivial,worthless,valueless,profitless,fruitless,bootless,vain,idle,unprofitable,
+
+ HILARIOUS 
+gay,jovial,jolly,joyful,merry,
+
+ GLACIAL 
+icy,of glaciers,
+
+ HERMENEUTIC 
+exegetical,
+
+ INDEPENDENT 
+unrelated,unconnected,free,self-directing,unrestricted,unrestrained,absolute,not dependent,not subordinate,unconstrained,easy,bold,irrespective,
+
+ HUGGER-MUGGER 
+secret,clandestine,sly,mean,unfair,base,contemptible,confused,disorderly,
+
+ HALT 
+lame,crippled,
+
+ INSUPERABLE 
+insurmountable,not to be overcome,
+
+ INSUPPORTABLE 
+intolerable,unbearable,unendurable,insufferable,
+
+ GERMANE 
+related,akin,allied,relevant,pertinent,apposite,appropriate,suitable,fitting,to,the purpose,to the point,
+
+ HYPERBOREAN 
+most northern,far north,very cold,
+
+ INDECIDUOUS 
+not deciduous,
+
+ IMPORTANT 
+weighty,momentous,grave,serious,material,significant,of importance,of moment,of great weight,
+
+ HALE 
+healthy,sound,strong,hearty,hardy,robust,well,in,good health,
+
+ HEALING 
+sanative,curative,
+
+ ILL-ADVISED 
+injudicious,unwise,imprudent,ridiculous,absurd,foolish,ill-judged,
+
+ IMPERIOUS 
+dictatorial,magisterial,domineering,tyrannical,despotic,overbearing,lordly,haughty,arrogant,
+
+ GLAD 
+pleased,delighted,gratified,rejoiced,happy,well,contented,cheerful,joyous,joyful,gladsome,cheering,animating,gratifying,pleasing,exhilarating,
+
+ GAIRISH 
+flaunting,showy,gaudy,tawdry,flashy,gay,fine,airy,
+
+ IMMATURENESS 
+unripeness,crudeness,crudity,incompleteness,greenness,rawness,
+
+ IMMITIGABLE 
+not to be mitigated,that cannot be mitigated,
+
+ HEALTHY 
+sound,hale,hearty,vigorous,well,in good,health,in good case,wholesome,salubrious,salutary,healthful,health-giving,
+
+ IMBECILE 
+weak,feeble,infirm,helpless,decrepit,foolish,witless,drivelling,idiotic,fatuous,
+
+ GAUNT 
+lean,thin,lank,emaciated,meagre,slender,spare,attenuated,
+
+ ILLEGITIMATE 
+unlawfully begotten,born out of wedlock,spurious,not genuine,unauthorized,unlawful,illicit,improper,
+
+ INTERLINEAR 
+interlined,
+
+ ILLITERATE 
+unlettered,unlearned,untaught,ignorant,
+
+ INDECLINABLE 
+undeclinable,
+
+ HYPOTHETIC 
+conditional,that involves an hypothesis,
+
+ INANE 
+empty,void,vain,frivolous,trifling,puerile,
+
+ FROWZY 
+rank,noisome,slinking,offensive,ill-scented,strong-smelling,
+
+ HEEDFUL 
+observant,observing,mindful,regardful,watchful,cautious,careful,wary,circumspect,attentive,provident,
+
+ GRATUITOUS 
+voluntary,free,spontaneous,of one's own,accord,unwarranted,unfounded,groundless,without proof,
+
+ INADEQUATE 
+insufficient,unequal,disproportionate,incomplete,defective,
+
+ GREAT-BELLIED 
+abdominous,large-bellied,big-bellied,pot-,bellied,tun-bellied,
+
+ HOMOOUSIAN 
+of the same nature,
+
+ GHASTLY 
+pale,wan,cadaverous,death-like,dismal,hideous,grim,horrible,frightful,shocking,
+
+ HUMANE 
+kind,benevolent,benignant,obliging,accommodating,tender,sympathetic,charitable,compassionate,clement,gentle,kind-,hearted,tenderhearted,good-hearted,
+
+ INAUDIBLE 
+not audible,not to be heard,still,silent,mute,noiseless,
+
+ HUMP-BACKED 
+hunch-backed,
+
+ GOVERNABLE 
+controllable,manageable,
+
+ FUSIFORM 
+spindle-shaped,
+
+ INORDINATE 
+immoderate,extravagant,excessive,
+
+ INCREDIBLE 
+not to be credited,not to be believed,not credible,
+
+ HALF-SEAS-OVER 
+disguised,boozy,muddled,tipsy,mellow,corned,crapulous,groggy,tight,slewed,muzzy,nappy,high,somewhat drunk,slightly intoxicated,in liquor,in one's cups,the worse for liquor,three sheets in the wind,has had a drop too much,
+
+ INCIPIENT 
+beginning,commencing,inchoate,
+
+ GEOPONICAL 
+agricultural,
+
+ FURCATE 
+fork-shaped,
+
+ GUSTABLE 
+relishable,savory,pleasant to the taste,sapid,
+
+ INCORRIGIBLE 
+irremediable,remediless,irreparable,irretrievable,irreversible,irremedicable,irrecoverable,hopeless,incurable,past cure,past mending,depraved,corrupt,impenitent,profligate,abandoned,obdurate,hardened,lost,shameless,graceless,recreant,irreclaimable,
+
+ INCOMPETENT 
+unable,incapable,not competent,insufficient,inadequate,disqualified,incapacitated,unfit,unfitted,
+
+ GODLIKE 
+divine,heavenly,supernal,celestial,
+
+ INDEFEASIBLE 
+irreversible,unalterable,irrevocable,immutable,that cannot be abrogated,that cannot be made void,
+
+ INDEFATIGABLE 
+unwearied,untiring,unflagging,persevering,persistent,sedulous,assiduous,unremitting,never-tiring,
+
+ HYPOCRITICAL 
+pharisaical,canting,sanctimonious,dissembling,insincere,false,hollow,
+
+ INSPISSATE 
+thick,inspissated,
+
+ INCONVERTIBLE 
+unchangeable,not transmutable,not convertible,
+
+ GNARLED 
+knotty,knotted,gnarly,full of knots,
+
+ INDOMITABLE 
+unyielding,unconquerable,invincible,not to be,subdued,
+
+ HOMOLOGOUS 
+of the same ratio,of the same proportion,of the same type,corresponding in structure,
+
+ INDIGENOUS 
+native,not exotic,
+
+ HOSPITABLE 
+kind or attentive to strangers,generous,liberal,bountiful,
+
+ INCLEMENT 
+severe,rigorous,harsh,boisterous,stormy,rough,not mild,
+
+ HIGH-SEASONED 
+pungent,piquant,high-flavored,
+
+ IMMEMORIAL 
+beyond memory,that cannot be remembered,
+
+ INEXPIABLE 
+unpardonable,irremissible,unatonable,not to be,atoned for,that admits of no satisfaction,
+
+ HEALTH-GIVING 
+healthful,wholesome,
+
+ IGNEOUS 
+fiery,
+
+ GRIZZLY 
+grayish,grizzled,somewhat gray,a little gray,
+
+ INCULPABLE 
+unblamable,irreprehensible,irreprovable,irreproachable,blameless,faultless,sinless,innocent,
+
+ HOME-FELT 
+inward,private,heartfelt,deep,profound,deep-felt,
+
+ INDECOROUS 
+indecent,unbecoming,improper,unseemly,gross,rude,coarse,uncivil,impolite,
+
+ GIRDLED 
+girded,cinctured,belted,
+
+ HEARTY 
+zealous,earnest,warm,affectionate,cordial,sincere,heartfelt,unfeigned,healthy,hale,sound,strong,well,robust,in good health,
+
+ IMPOTENT 
+powerless,unable,incapable,incompetent,disabled,incapacitated,imbecile,weak,feeble,infirm,frail,inefficient,
+
+ GROUNDSEL 
+sill,ground-plate,
+
+ INHARMONICAL 
+inharmonious,
+
+ HARMONIC 
+harmonious,concordant,consonant,
+
+ INTELLECTUAL 
+mental,of the intellect,of the understanding,
+
+ GRIM 
+fierce,ferocious,ruthless,cruel,savage,frightful,horrible,hideous,grisly,appalling,dire,horrid,terrific,dreadful,of forbidding look,
+
+ IMPROPER 
+unsuitable,unsuited,unfit,unapt,inapposite,inappropriate,unadapted,not proper,unseemly,unbecoming,indecent,indecorous,inaccurate,incorrect,erroneous,wrong,
+
+ GALLIC 
+french,
+
+ GARRULOUS 
+loquacious,talkative,prattling,babbling,
+
+ IMPOSSIBLE 
+impracticable,unfeasible,unattainable,unachievable,not feasible,not possible,out of the question,
+
+ FUNGOUS 
+excrescent,fungus-like,spongy,
+
+ HARSH 
+rough,sour,acrid,tart,crabbed,hard,biting,sharp,caustic,corrosive,grating,discordant,jarring,crabbed,morose,stern,severe,austere,acrimonious,ill-,tempered,out of humor,out of temper,rude,uncivil,bluff,blunt,gruff,ungracious,churlish,bearish,brutal,
+
+ INFREQUENT 
+uncommon,rare,unfrequent,
+
+ IMPUTABLE 
+attributable,referrible,chargeable,traceable,owing,to be imputed,to be charged,to be attributed,
+
+ INDOLENT 
+lazy,slothful,inert,sluggish,inactive,listless,supine,lumpish,habitually idle,
+
+ HIPPISH 
+hypochondriacal,blue,dejected,depressed,low-spirited,in low spirits,
+
+ INTOLERANT 
+overbearing,supercilious,dictatorial,imperious,
+
+ INSENSATE 
+dull,stupid,insensible,senseless,
+
+ INCUMBENT 
+obligatory,devolving,
+
+ GRAND 
+stately,lordly,princely,august,majestic,exalted,elevated,dignified,eminent,illustrious,great,high in,power,of great dignity,magnificent,splendid,superb,glorious,noble,sublime,lofty,principal,chief,superior,
+
+ HIGH-METTLED 
+ardent,fiery,spirited,bold,daring,high-,spirited,
+
+ HISTRIONIC 
+theatric,theatrical,
+
+ ILLIMITABLE 
+boundless,infinite,unbounded,immense,vast,
+
+ GOOD 
+advantageous,beneficial,useful,profitable,serviceable,suitable,fit,proper,convenient,admirable,not bad,well,adapted,virtuous,upright,religious,pious,righteous,worthy,dutiful,excellent,valuable,precious,sterling,capital,kind,benevolent,humane,friendly,favorable,gracious,merciful,obliging,well-disposed,unblemished,unimpeached,untarnished,unsullied,immaculate,fair,honorable,companionable,social,genial,lively,cheerful,able,skilful,ready,expert,dextrous,well qualified,of established credit,pleasant,agreeable,gratifying,cheering,considerable,great,not small,not insignificant,real,true,serious,not feigned,
+
+ IMPARTIAL 
+unbiassed,unprejudiced,disinterested,equitable,just,fair,honorable,even-handed,
+
+ INITIATIVE 
+inceptive,initiatory,
+
+ GODLY 
+pious,holy,righteous,religious,devout,saintly,saint-like,heavenly-minded,
+
+ INCOMPRESSIBLE 
+not to be compressed,not compressible,
+
+ INFLAMMABLE 
+combustible,
+
+ HIGH-HANDED 
+overbearing,oppressive,arbitrary,
+
+ GLOOMY 
+obscure,dark,dim,dusky,dismal,cheerless,lowering,lurid,sad,dejected,depressed,dispirited,disheartened,despondent,desponding,melancholy,downcast,crest-fallen,chap-fallen,down-,hearted,glum,heavy of heart,
+
+ IGNOMINIOUS 
+dishonorable,disgraceful,shameful,infamous,scandalous,disreputable,opprobrious,
+
+ INTERROGATORY 
+interrogative,
+
+ GOSSAMERY 
+light,flimsy,unsubstantial,
+
+ INCALCULABLE 
+not to be calculated,not to be reckoned,beyond,calculation,
+
+ INEXCUSABLE 
+unpardonable,indefensible,unjustifiable,irremissible,inexpiable,
+
+ INTRIGUING 
+cunning,crafty,artful,sly,wily,astute,subtle,insidious,designing,arch,deceitful,trickish,tricky,crooked,diplomatic,politic,foxy,snaky,machiavelian,
+
+ HOSTILE 
+inimical,unfriendly,warlike,at variance,adverse,opposite,contrary,repugnant,
+
+ INTESTINE 
+domestic,not foreign,
+
+ FURCATED 
+fork-shaped,
+
+ ICY 
+glacial,cold,chilling,frosty,frigid,indifferent,cold-hearted,
+
+ INSANE 
+deranged,crazy,crazed,lunatic,mad,distracted,demented,delirious,out of one's mind,out of one's head,out of,one's senses,out of one's wits,
+
+ GENIAL 
+fostering,cheering,enlivening,inspiriting,encouraging,cordial,hearty,cheerful,pleasant,merry,mirthful,jovial,
+
+ INEXSUPERABLE 
+insurmountable,
+
+ HONEY-COMBED 
+alveolate,cellular,
+
+ INTOXICATED 
+inebriated,drunk,tipsy,drunken,fuddled,muddled,disguised,maudlin,mellow,slewed,groggy,in liquor,in,one's cups,half seas over,three sheets in the wind,
+
+ INTERMITTENT 
+intermitting,
+
+ GLUTINOUS 
+gluey,viscous,viscid,sticky,gummy,adhesive,tenacious,clammy,
+
+ INTERJACENT 
+intervening,intermediate,interposed,
+
+ HUFFY 
+angry,petulant,blustering,arrogant,insolent,hectoring,
+
+ GREEN 
+verdant,flourishing,blooming,fresh,undecayed,new,recent,unripe,not fully grown,immature,inexperienced,unskilful,inexpert,ignorant,raw,unseasoned,not dry,
+
+ INDIGENT 
+poor,destitute,needy,necessitous,pinched,reduced,penniless,moneyless,insolvent,distressed,short of money,out of money,out of cash,out of pocket,in need,in want,
+
+ HARUM-SCARUM 
+hare-brained,rash,precipitate,wild,
+
+ GLOBATED 
+globular,globose,spherical,round,spheroidal,globe-shaped,
+
+ INDISPENSABLE 
+necessary,essential,requisite,needful,needed,not to be dispensed with,
+
+ INITIAL 
+first,at the beginning,at the head,incipient,commencing,beginning,in the first stages,
+
+ IMPREGNABLE 
+unassailable,inexpugnable,not to be taken by,assault,not to be stormed,secure from capture,tenable against all,odds,
+
+ IMPERISHABLE 
+indestructible,everlasting,unfading,eternal,perennial,immortal,never-ending,
+
+ INTERESTED 
+partial,biassed,prejudiced,not disinterested,
+
+ HELLISH 
+of hell,infernal,diabolical,fiendish,devilish,demoniacal,fiend-like,atrocious,detestable,abominable,execrable,nefarious,very wicked,
+
+ HERCULEAN 
+strong,mighty,powerful,puissant,vigorous,sturdy,athletic,brawny,muscular,sinewy,stalwart,able-bodied,difficult,toilsome,troublesome,laborious,operose,very hard,large,great,gigantic,strapping,huge,colossal,cyclopean,
+
+ GIGANTIC 
+huge,vast,enormous,colossal,prodigious,cyclopean,herculean,giant,very large,
+
+ HOMOIOUSIAN 
+of a similar nature,of like essence,
+
+ GUARDED 
+cautious,wary,circumspect,watchful,careful,
+
+ HIGHFALUTIN 
+swelling,inflated,turgid,tumid,bombastic,pretentious,stilted,grandiloquent,declamatory,rhetorical,high-flowing,high-sounding,sophomorical,spread-eagle,high-flown,
+
+ HEAVENLY-MINDED 
+devout,pious,religious,godly,reverent,spiritually-minded,
+
+ GENTLEMANLIKE 
+polite,courteous,civil,refined,urbane,genteel,well-bred,
+
+ HURTFUL 
+injurious,detrimental,mischievous,pernicious,deleterious,noxious,baneful,prejudicial,disadvantageous,harmful,baleful,
+
+ IMPENITENT 
+uncontrite,unrepentant,obdurate,hardened,seared,lost,recusant,relentless,graceless,shameless,incorrigible,irreclaimable,
+
+ HEINOUS 
+flagrant,flagitious,atrocious,infamous,villanous,nefarious,crying,very wicked,
+
+ GLOBOSE 
+spherical,globular,globate,globated,round,globe-,shaped,
+
+ HOARSE 
+husky,raucous,rough,grating,harsh,
+
+ HORIZONTAL 
+level,parallel to the horizon,
+
+ IDIOTICAL 
+foolish,sottish,
+
+ HECTIC 
+constitutional,
+
+ GRAMINEOUS 
+grassy,
+
+ ILL-PROPORTIONED 
+misshapen,misproportioned,shapeless,ill-,shaped,ill-made,
+
+ HAWK-EYED 
+sharp-sighted,quick-sighted,keen-eyed,eagle-eyed,lynx-eyed,argus-eyed,
+
+ INTRODUCTORY 
+prefatory,preliminary,precursory,proëmial,
+
+ IMPALPABLE 
+intangible,very fine,not palpable,not to be,felt,not perceptible by the touch,imperceptible,shadowy,unsubstantial,
+
+ INNOCUOUS 
+harmless,inoffensive,innoxious,innocent,
+
+ INELEGANT 
+ungraceful,graceless,rude,rough,homely,homespun,uncouth,plain,clumsy,coarse,ungainly,uncourtly,unpolished,unrefined,stiff,constrained,harsh,crude,bald,cramped,abrupt,
+
+ HALCYON 
+placid,calm,quiet,still,peaceful,tranquil,undisturbed,unruffled,serene,palmy,happy,
+
+ HUMID 
+wet,moist,damp,dank,
+
+ FRUITFUL 
+productive,abounding in fruit,prolific,fertile,fecund,not barren,plentiful,plenteous,abundant,rich,
+
+ INTRINSICAL 
+inherent,internal,inward,inborn,inbred,native,natural,ingrained,not extrinsic,real,genuine,true,essential,
+
+ INTERVENING 
+intermediate,interjacent,
+
+ GROVELLING 
+creeping,crouching,squat,low,mean,base,vile,abject,servile,slavish,cringing,fawning,beggarly,sneaking,earth-born,
+
+ HITHER 
+nearest,
+
+ INAPPOSITE 
+unfit,unsuitable,irrelevant,inapplicable,inapt,impertinent,not pertinent,out of place,not in keeping,not to the,purpose,
+
+ INCLUSIVE 
+inclosing,encircling,including both,both being included,
+
+ INTERNATIONAL 
+between nations,
+
+ HEEDLESS 
+unobserving,unobservant,inattentive,careless,thoughtless,negligent,neglectful,unmindful,regardless,inconsiderate,unwatchful,
+
+ INDISPOSED 
+disinclined,unwilling,reluctant,averse,loath,backward,not disposed,ill,unwell,ailing,sick,out of health,out of sorts,
+
+ GENERAL 
+class,catholic,not,partial,not special,not particular,ecumenical,common,usual,vague,indefinite,lax,
+
+ INOPPORTUNE 
+unseasonable,untimely,inconvenient,unsuitable,unfit,ill-timed,not opportune,
+
+ INHOSPITABLE 
+unkind,not,hospitable,
+
+ HUMDRUM 
+dull,prosy,dronish,stupid,wearisome,tiresome,
+
+ HYPERCRITICAL 
+over-critical,captiously critical,
+
+ IMMATURITY 
+unripeness,crudeness,crudity,incompleteness,greenness,rawness,
+
+ INCOMMODIOUS 
+inconvenient,troublesome,annoying,vexatious,harassing,irritating,provoking,disadvantageous,cumbersome,cumbrous,unmanageable,unwieldy,awkward,unhandy,
+
+ INCOMMUNICATIVE 
+reserved,unsociable,unsocial,
+
+ GROSS 
+large,big,bulky,great,dense,thick,not attenuated,coarse,rough,rude,unrefined,indelicate,sensual,impure,vulgar,low,broad,enormous,flagrant,shameful,unseemly,unbecoming,outrageous,palpable,manifest,glaring,whole,total,entire,
+
+ HETERODOX 
+heretical,not orthodox,
+
+ HOT-BRAINED 
+hot-headed,
+
+ GORGEOUS 
+showy,splendid,shining,glittering,brilliant,dazzling,resplendent,magnificent,fine,rich,superb,
+
+ INNUMERABLE 
+numberless,countless,not to be counted,that,cannot be numbered,
+
+ IMPERIAL 
+kingly,regal,royal,sovereign,
+
+ IDEAL 
+intellectual,mental,imaginary,unreal,fanciful,fantastic,fancied,illusory,chimerical,visionary,shadowy,
+
+ GRASPING 
+avaricious,covetous,miserly,niggardly,penurious,parsimonious,close,stingy,mean,sordid,close-fisted,with an,itching palm,
+
+ HYPOTHETICAL 
+conditional,that involves an hypothesis,
+
+ INCAUTIOUS 
+unwary,heedless,careless,reckless,headlong,neglectful,negligent,uncircumspect,imprudent,inconsiderate,
+
+ HIDDEN 
+concealed,secret,latent,occult,clandestine,close,abstruse,recondite,mysterious,mystic,mystical,dark,obscure,
+
+ ILLIBERAL 
+parsimonious,stingy,miserly,niggardly,penurious,ungenerous,sordid,covetous,mean,selfish,close,close-,fisted,uncharitable,selfish,narrow,self-seeking,narrow-minded,
+
+ HYSTERICAL 
+spasmodic,affected with hysterics,i,
+
+ IMPIOUS 
+irreverent,ungodly,irreligious,blasphemous,wicked,sinful,unrighteous,unholy,iniquitous,profane,
+
+ INFERIOR 
+lower,subordinate,secondary,poor,indifferent,
+
+ HARDY 
+bold,intrepid,resolute,brave,daring,valiant,heroic,manly,courageous,stout-hearted,strong,robust,firm,stout,lusty,rigorous,healthy,hearty,hale,sound,
+
+ HIRELING 
+mercenary,venal,
+
+ GUILTLESS 
+innocent,sinless,spotless,unspotted,unpolluted,immaculate,unsullied,untarnished,blameless,
+
+ IMPULSIVE 
+impelling,moving,passionate,rash,quick,hot,hasty,
+
+ HARD-HEARTED 
+cruel,unfeeling,merciless,unmerciful,uncompassionate,unpitying,ruthless,fell,pitiless,relentless,unrelenting,inexorable,barbarous,savage,ferocious,inhuman,
+
+ GRISLY 
+frightful,horrible,horrid,terrific,hideous,appalling,dreadful,grim,
+
+ INCURVATE 
+curved,bowed,crooked,aduncous,arcuate,
+
+ HARD-FEATURED 
+ugly,ill-favored,homely,ill-looking,hard-,visaged,of coarse features,
+
+ INCONTROVERTIBLE 
+indisputable,unquestionable,incontestable,
+
+ IMAGINARY 
+visionary,ideal,fancied,fanciful,chimerical,dreamy,unreal,shadowy,wild,quixotic,utopian,
+
+ IMPLICIT 
+implied,inferred,understood,tacit,unreserved,unhesitating,firm,undoubting,steadfast,unshaken,
+
+ HACKNEY 
+common,hired,hack,
+
+ HANDSOME 
+fair,pretty,well-formed,well-proportioned,generous,liberal,disinterested,noble,magnanimous,ample,sufficient,plentiful,
+
+ HELVETIC 
+swiss,
+
+ INJUDICIOUS 
+unwise,indiscreet,imprudent,inconsiderate,foolish,rash,incautious,hasty,ill-judged,ill-advised,
+
+ INSIPID 
+tasteless,gustless,savorless,vapid,mawkish,stale,flat,spiritless,lifeless,heavy,stupid,dull,frigid,tame,prosaic,prosy,uninteresting,unentertaining,
+
+ HASTY 
+quick,swift,rapid,fleet,speedy,fast,brisk,cursory,slight,hurried,rash,precipitate,headlong,reckless,thoughtless,indiscreet,passionate,irritable,touchy,testy,pettish,waspish,petulant,peevish,fretful,fiery,choleric,irascible,excitable,hot,peppery,
+
+ ILL 
+bad,evil,unfortunate,unfavorable,wicked,wrong,iniquitous,naughty,indisposed,ailing,unwell,sick,on the sick list,out of sorts,out of health,laid on the shelf,laid on the back,under the weather,
+
+ INCIDENTAL 
+accidental,casual,fortuitous,contingent,occasional,adventitious,extraneous,non-essential,
+
+ IMPOLITE 
+uncivil,uncourteous,discourteous,unpolished,rude,ungentlemanly,rough,boorish,savage,bearish,
+
+ GULLIBLE 
+easily duped,
+
+ IDLE 
+unemployed,unoccupied,unbusied,inactive,indolent,lazy,slothful,sluggish,inert,vacant,unused,useless,ineffectual,bootless,fruitless,unavailing,vain,futile,abortive,trifling,trivial,unimportant,trashy,foolish,unprofitable,
+
+ INDICATION 
+indicating,sign,mark,token,note,index,symptom,manifestation,
+
+ IMPORTUNATE 
+urgent,pertinacious,pressing,teasing,busy,earnestly solicitous,
+
+ HOME-MADE 
+homespun,of domestic manufacture,
+
+ GRANDEE 
+nobleman,noble,lord,
+
+ INTENTIONAL 
+designed,intended,premeditated,contemplated,preconcerted,studied,
+
+ INEFFABLE 
+unspeakable,unutterable,inexpressible,indescribable,that cannot be spoken,beyond expression,
+
+ HARD-FAVORED 
+ugly,ill-favored,homely,ill-looking,hard-,visaged,of coarse features,
+
+ GYMNASTIC 
+athletic,
+
+ HEART-BROKEN 
+disconsolate,inconsolable,woebegone,forlorn,miserable,wretched,desolate,cheerless,comfortless,broken-hearted,in despair,
+
+ INACCESSIBLE 
+unapproachable,not to be reached,unattainable,
+
+ INCESSANT 
+ceaseless,unceasing,uninterrupted,unremitting,continual,perpetual,constant,
+
+ IMPOLITIC 
+imprudent,injudicious,indiscreet,ill-advised,ill-,judged,
+
+ GOOD-NATURED 
+benevolent,kind,amiable,humane,obliging,benignant,benign,kind-hearted,good-tempered,good-humored,
+
+ INDISSOLVABLE 
+indissoluble,that cannot be dissolved,indestructible,not to be broken,
+
+ HELICAL 
+spiral,winding,cochleary,cochleated,screw-shaped,
+
+ INODOROUS 
+scentless,without odor or smell,
+
+ HESPERIAN 
+occidental,
+
+ INTELLIGIBLE 
+clear,plain,distinct,comprehensible,that may,be understood,
+
+ HIGH-MINDED 
+proud,arrogant,haughty,lofty,noble,honorable,elevated,magnanimous,high-toned,
+
+ IMPETUOUS 
+vehement,violent,furious,fierce,passionate,precipitate,hasty,hot,over-zealous,
+
+ INADVERTENT 
+inattentive,thoughtless,careless,heedless,inconsiderate,unobservant,negligent,
+
+ IMMINENT 
+impending,threatening,impendent,near at hand,
+
+ GEOPONIC 
+agricultural,
+
+ INCONSTANT 
+changeable,fickle,capricious,vacillating,wavering,unsteady,like a weathercock,unstable,mutable,variable,unsettled,uncertain,
+
+ HOMILETICAL 
+of homilies or sermons,hortatory,persuasive,
+
+ GRANDILOQUENT 
+bombastic,turgid,tumid,swelling,inflated,stilted,pompous,declamatory,rhetorical,high-sounding,high-,flowing,highfalutin,
+
+ GRASS-EATING 
+graminivorous,phytivorous,phytophagous,
+
+ INSUFFICIENT 
+inadequate,incompetent,unequal,incapable,unfit,not sufficient,
+
+ HEAVENLY 
+celestial,of the firmament,of the visible,heavens,divine,angelic,seraphic,cherubic,godlike,
+
+ HIDEOUS 
+frightful,dreadful,appalling,horrible,terrible,horrid,ghastly,grisly,grim,shocking,
+
+ FROWARD 
+fractious,perverse,refractory,untoward,unyielding,ungovernable,disobedient,wayward,peevish,petulant,cross,
+
+ HAPPY 
+joyous,joyful,blissful,blessed,blest,pleased,gratified,delighted,rejoiced,glad,gladdened,charmed,lucky,fortunate,prosperous,successful,ready,apt,skilful,adroit,dexterous,expert,able,seasonable,opportune,befitting,pertinent,felicitous,well-,timed,auspicious,propitious,favorable,
+
+ INLAID 
+variegated,
+
+ HOBBLY 
+uneven,
+
+ INEFFICIENT 
+weak,feeble,impotent,powerless,
+
+ GAY 
+showy,gaudy,flashy,finical,tawdry,flaunting,gairish,dashing,merry,lively,cheerful,gleeful,jovial,sprightly,blithe,blithesome,airy,sportive,frolicsome,gladsome,jolly,buxom,vivacious,hilarious,light-hearted,
+
+ INOPERATIVE 
+inactive,inefficacious,ineffectual,useless,unavailing,
+
+ IMAGINABLE 
+conceivable,
+
+ GROUTY 
+moody,sulky,surly,morose,cross,glum,grum,spleeny,cynical,crabbed,out of humor,out of,temper,
+
+ HERMETIC 
+air-tight,
+
+ INATTENTIVE 
+unobservant,unobserving,unmindful,inadvertent,heedless,thoughtless,regardless,careless,negligent,remiss,unwatchful,inconsiderate,absent,absent-minded,caught napping,
+
+ INCOGNITO 
+disguised,in disguise,in an assumed character,
+
+ HERETICAL 
+heterodox,schismatic,schismatical,sectarian,
+
+ HANDY 
+dexterous,adroit,ready,expert,skilful,skilled,clever,convenient,near,at hand,close at hand,
+
+ HEROIC 
+brave,valiant,courageous,intrepid,bold,daring,gallant,fearless,dauntless,noble,magnanimous,epic,
+
+ GRAPHIC 
+vivid,lively,picturesque,well drawn,well delineated,lively,picturesque,well drawn,well,delineated,
+
+ IMMATERIAL 
+incorporeal,unbodied,spiritual,unimportant,insignificant,unessential,non-essential,of no,importance,of no consequence,
+
+ GUILTY 
+criminal,culpable,
+
+ HEADLESS 
+acephalous,
+
+ INFINITESIMAL 
+infinitely small,
+
+ INCAPACIOUS 
+narrow,scant,of small capacity,not ample,not,capacious,
+
+ INCONTINENT 
+lewd,lascivious,unchaste,
+
+ GLORIOUS 
+illustrious,renowned,celebrated,famous,famed,eminent,pre-eminent,distinguished,excellent,noble,conspicuous,resplendent,splendid,bright,brilliant,radiant,
+
+ ILL-FLAVORED 
+unsavory,unpalatable,
+
+ GLADSOME 
+pleased,delighted,cheerful,joyful,joyous,glad,gay,blithe,blithesome,gleeful,jovial,jolly,merry,lively,jocund,airy,vivacious,sprightly,sportive,frolicsome,light-hearted,
+
+ INFLAMMATORY 
+inflaming,fiery,incendiary,seditious,
+
+ HOGGISH 
+swinish,brutish,filthy,mean,selfish,greedy,
+
+ HABITUAL 
+usual,customary,accustomed,wonted,common,regular,ordinary,familiar,every-day,
+
+ INNOXIOUS 
+harmless,inoffensive,innocuous,innocent,
+
+ HEMISPHERICAL 
+half-round,
+
+ HACK 
+hired,mercenary,hireling,hackney,
+
+ HERMETICAL 
+air-tight,
+
+ FURTHER 
+farther,more in advance,additional,
+
+ INDIFFERENT 
+neutral,impartial,disinterested,unbiassed,unconcerned,unmoved,apathetic,cool,inattentive,dead,heedless,regardless,unmindful,not interested,equal,all the same,just the same,all one,the same thing,passable,tolerable,middling,ordinary,so-so,not very bad,
+
+ HYPOCRITIC 
+pharisaical,canting,sanctimonious,dissembling,insincere,false,hollow,
+
+ INEXPERT 
+unskilful,unskilled,awkward,clumsy,unhandy,inapt,bungling,maladroit,without dexterity,
+
+ ILLOGICAL 
+sophistical,inconclusive,inconsequent,fallacious,incorrect,unsound,
+
+ INAPPROPRIATE 
+unfit,unsuited,unsuitable,unadapted,unbecoming,out of character,out of keeping,out of place,in bad,taste,
+
+ INTEGRAL 
+whole,entire,total,not fractional,
+
+ GASTRIC 
+of the stomach,
+
+ ILL-LOOKING 
+ugly,homely,plain,ill-favored,
+
+ INARTIFICIAL 
+natural,not made by art,artless,ingenuous,naÏve,guileless,sincere,simple-minded,single-minded,
+
+ INSALUBRIOUS 
+unhealthy,unwholesome,unhealthful,noxious,unfavorable to health,
+
+ INGLORIOUS 
+obscure,mean,low,unknown,undistinguished,nameless,unnoted,unhonored,shameful,disgraceful,disreputable,infamous,opprobrious,odious,scandalous,ignominious,
+
+ INSOLVENT 
+bankrupt,
+
+ IMMATURE 
+unripe,crude,green,raw,unformed,unprepared,rudimental,imperfect,unfinished,premature,untimely,unseasonable,out of season,
+
+ GLARING 
+dazzling,glittering,barefaced,notorious,conspicuous,
+
+ INDEFENSIBLE 
+untenable,that cannot be defended,inexcusable,injustifiable,unwarrantable,censurable,faulty,wrong,
+
+ IMPASSABLE 
+impervious,impermeable,impenetrable,pathless,
+
+ IMPERVIOUS 
+impermeable,impenetrable,impassable,
+
+ INSUSCEPTIVE 
+insusceptible,
+
+ INARTICULATE 
+indistinct,not jointed,
+
+ IMMETHODICAL 
+unsystematic,irregular,unmethodical,confused,desultory,disorderly,
+
+ GENITIVE 
+possessive,
+
+ HEXAHEDRAL 
+cubic,six-sided,
+
+ INCONCEIVABLE 
+incomprehensible,that cannot be conceived,
+
+ INTRINSIC 
+inherent,internal,inward,inborn,inbred,native,natural,ingrained,not extrinsic,real,genuine,true,essential,
+
+ HE 
+male,
+
+ GRAY 
+hoary,black and white,
+
+ GREWSOME 
+ugly,terrible,
+
+ INSTANT 
+pressing,urgent,importunate,earnest,immediate,quick,instantaneous,current,present,now passing,
+
+ INCOHERENT 
+loose,detached,non-adhesive,incongruous,inconsistent,inconsequential,without connection,
+
+ INKY 
+black,atramentous,
+
+ INTERLINEAL 
+interlined,
+
+ HABITABLE 
+inhabitable,
+
+ HEATING 
+calorific,heat-producing,
+
+ ILL-TIMED 
+unseasonable,untimely,inopportune,inapposite,irrelevant,out of place,
+
+ FRUGAL 
+provident,economical,saving,sparing,choice,chary,careful,thrifty; not profuse,prodigal,or lavish,
+
+ INAUSPICIOUS 
+unpropitious,unfavorable,unlucky,unfortunate,untoward,unpromising,ill-omened,
+
+ HUSKY 
+dry,shrivelled,hoarse,rough,raucous,harsh,
+
+ GENTLEMANLY 
+polite,courteous,civil,refined,urbane,genteel,well-bred,
+
+ INTERNECINE 
+mortal,deadly,mutually destructive,~inter nos,~ [l.] between ourselves,
+
+ HETEROCLITE 
+irregular,anomalous,abnormal,
+
+ GOGGLED 
+rolling,
+
+ GRASSY 
+gramineous,graminaceous,
+
+ IMPOSING 
+grand,stately,august,majestic,impressive,noble,commanding,
+
+ INSOLUBLE 
+that cannot be dissolved,insolvable,inexplicable,that cannot be solved,not to be,explained,
+
+ IGNOBLE 
+plebeian,vulgar,untitled,base-born,low-born,mean,low,worthless,insignificant,mean,contemptible,dishonorable,disgraceful,infamous,base,
+
+ HIGH-SPIRITED 
+spirited,bold,daring,high-mettled,proud,high-strung,
+
+ IMITATIVE 
+imitating,copying,mimicking,aping,apish,
+
+ INEFFECTIVE 
+ineffectual,inefficacious,
+
+ INDESTRUCTIBLE 
+imperishable,that cannot be destroyed,
+
+ GRACEFUL 
+elegant,comely,becoming,beautiful,easy,natural,unlabored,
+
+ HOMILETIC 
+of homilies or sermons,hortatory,persuasive,
+
+ INSOLVABLE 
+inexplicable,that cannot be solved,not to be,explained,
+
+ INDUSTRIOUS 
+diligent,assiduous,sedulous,busy,laborious,notable,at work,active,persevering,hard-working,diligently,employed,busily engaged,up and stirring,busy as a bee,brisk as a,bee,
+
+ FULVOUS 
+yellow,tawny,fulvid,yellowish-brown,dull yellow,
+
+ HAUGHTY 
+arrogant,disdainful,supercilious,assuming,proud,lofty,
+
+ HERMENEUTICAL 
+exegetical,
+
+ IMPRESSIBLE 
+susceptible of impression,sensitive,easily affected,
+
+ ILLUSORY 
+deceptive,deceitful,delusive,fallacious,
+
+ GROTESQUE 
+fantastic,fanciful,odd,whimsical,extravagant,unnatural,wild,strange,bizarre,
+
+ HEREDITABLE 
+inheritable,
+
+ INEXACT 
+incorrect,inaccurate,
+
+ INTENSIVE 
+intensifying,
+
+ IMMOVABLE 
+fixed,firm,stable,not to be moved,steadfast,unshaken,unalterable,unchangeable,
+
+ INTERNAL 
+interior,inner,inward,not outward,not,external,spiritual,not literal,intrinsic,real,genuine,true,domestic,not foreign,
+
+ IMPERATIVE 
+commanding,authoritative,peremptory,binding,obligatory,
+
+ INSUFFERABLE 
+intolerable,insupportable,unbearable,unendurable,that cannot be borne or endured,
+
+ GUTTURAL 
+of the throat,
+
+ INDIGNANT 
+angry,incensed,provoked,irate,exasperated,wrathful,wroth,ireful,
+
+ GRACELESS 
+depraved,degenerate,corrupt,profligate,reprobate,dissolute,abandoned,lost,shameless,obdurate,hardened,incorrigible,irreclaimable,wicked,
+
+ IMPERFECT 
+defective,incomplete,faulty,not entire,weak,frail,erring,
+
+ INSUPPRESSIBLE 
+uncontrollable,irrepressible,not to be,suppressed,
+
+ INEPT 
+improper,unfit,unsuitable,inappropriate,inapposite,unapt,useless,worthless,void,null,foolish,silly,nonsensical,senseless,stupid,
+
+ INDOCILE 
+unteachable,dull,untractable,stubborn,perverse,unruly,headstrong,refractory,obstinate,dogged,mulish,unmanageable,ungovernable,cantankerous,
+
+ GREEDY 
+voracious,ravenous,gluttonous,rapacious,insatiable,insatiate,very hungry,eager,very desirous,
+
+ INDISCRIMINATE 
+undiscriminating,undistinguishing,confused,mixed,mingled,undistinguishable,promiscuous,
+
+ IMPASSIBLE 
+impassive,insensible,incapable of suffering,
+
+ INFINITE 
+unbounded,boundless,unlimited,illimitable,limitless,immeasurable,interminable,immense,enormous,vast,stupendous,very great,very large,
+
+ INCORRUPTIBLE 
+imperishable,incapable of decay,of inflexible honesty,not to be bribed,
+
+ INORGANIC 
+unorganized,
+
+ INFAMOUS 
+disreputable,of ill repute,ill spoken of,disgraceful,dishonorable,shameful,odious,detestable,scandalous,ignominious,base,vile,nefarious,villanous,heinous,atrocious,wicked,dark,
+
+ GREASY 
+unctuous,fat,fatty,oily,adipose,sebaceous,oleaginous,
+
+ GAMESOME 
+gay,sportive,vivacious,sprightly,frolicsome,playful,lively,frisky,full of frolic,
+
+ INDESCRIBABLE 
+inexpressible,ineffable,unutterable,that,cannot be described,that beggars description,
+
+ GUILELESS 
+artless,honest,sincere,undesigning,unsophisticated,frank,pure,truthful,candid,ingenuous,open,straightforward,single-minded,open-hearted,simple-hearted,simple-,minded,
+
+ INSENTIENT 
+inert,senseless,not sentient,without perception,
+
+ ILL-MANNERED 
+impolite,uncivil,uncourteous,discourteous,uncourtly,unpolished,uncouth,rude,ill-behaved,ill-bred,
+
+ HAGGISH 
+ugly,deformed,horrid,
+
+ HARE-BRAINED 
+rash,reckless,headlong,heedless,careless,wild,unsteady,giddy,volatile,flighty,giddy-brained,harum-scarum,
+
+ INEVITABLE 
+unavoidable,necessary,not to be escaped,that,must be suffered,
+
+ HOMOGENEOUS 
+cognate,congenial,kindred,akin,uniform,of the,same kind,of the same nature,of a piece,
+
+ GOLDEN 
+of gold,bright,shining,splendid,resplendent,brilliant,yellow,of a gold color,excellent,precious,of great value,auspicious,favorable,opportune,propitious,
+
+ HYPOCHONDRIACAL 
+melancholy,splenetic,dispirited,dejected,depressed,
+
+ HOUSEHOLD 
+domestic,home,
+
+ HUFFISH 
+angry,petulant,blustering,arrogant,insolent,hectoring,
+
+ HUMOROUS 
+facetious,jocular,jocose,droll,funny,sportive,comical,witty,pleasant,
+
+ INCONTESTABLE 
+indisputable,incontrovertible,unquestionable,certain,undeniable,indubitable,irrefragable,not to be disputed,beyond all question,beyond a doubt,past dispute,
+
+ INSINCERE 
+false,faithless,truthless,disingenuous,unfair,uncandid,dishonest,hollow,hypocritical,pharisaical,canting,double-tongued,double-faced,
+
+ ILL-BRED 
+impolite,uncivil,uncourteous,discourteous,uncourtly,unpolished,uncouth,rude,ill-behaved,ill-mannered,
+
+ GRATEFUL 
+thankful,obliged,indebted,beholden,under,obligation,agreeable,pleasing,pleasant,gratifying,acceptable,delightful,welcome,charming,delicious,palatable,savory,nice,luscious,cordial,refreshing,invigorating,
+
+ INSCRUTABLE 
+undiscoverable,unsearchable,hidden,mysterious,past comprehension,above comprehension,not to be understood,
+
+ INSURRECTIONARY 
+rebellious,seditious,mutinous,insubordinate,
+
+ GAWKY 
+awkward,ungainly,clownish,boorish,rustic,clumsy,raw,green,uncouth,ungainly,loutish,
+
+ IMPASSIVE 
+impassible,insensible,
+
+ INNATE 
+inborn,inbred,native,natural,inherent,not,adventitious,
+
+ HARD-VISAGED 
+ugly,homely,hard-favored,hard-featured,ill-,favored,ill-looking,of coarse features,
+
+ INFORMAL 
+irregular,out of the usual course,not according to,the prescribed form,
+
+ INHUMAN 
+barbarous,brutal,savage,cruel,ruthless,pitiless,remorseless,merciless,fell,ferocious,unfeeling,
+
+ HEBDOMADAL 
+weekly,
+
+ HEDGE-BORN 
+obscure,of low birth,meanly born,
+
+ INTERROGATIVE 
+interrogatory,
+
+ GALLICAN 
+french,
+
+ HOT 
+burning,fiery,scalding,irascible,excitable,impetuous,passionate,hasty,choleric,furious,ardent,vehement,fervent,eager,glowing,animated,fervid,violent,pungent,piquant,sharp,acrid,biting,peppery,high-flavored,high-seasoned,
+
+ HIND 
+back,hinder,posterior,
+
+ GRECIAN 
+greek,
+
+ IMMORAL 
+wicked,vicious,sinful,unprincipled,dishonest,unjust,depraved,corrupt,profligate,dissolute,
+
+ INCONVENIENT 
+incommodious,troublesome,annoying,vexatious,disadvantageous,cumbersome,cumbrous,unwieldy,awkward,unmanageable,unhandy,unfit,unsuitable,unseasonable,inopportune,untimely,
+
+ FRUITLESS 
+unfruitful,unproductive,barren,sterile,unprolific,unfertile,infecund,addle,acarpous,useless,unavailing,bootless,profitless,ineffectual,unprofitable,vain,idle,futile,abortive,without avail,
+
+ HIGH 
+lofty,elevated,tall,heaven-kissing,of great,altitude,eminent,prominent,pre-eminent,distinguished,superior,exalted,noble,dignified,abstruse,recondite,occult,obscure,dark,transcendental,profound,proud,haughty,arrogant,supercilious,lordly,boastful,ostentatious,bragging,vain-glorious,oppressive,domineering,over-bearing,tyrannical,despotic,violent,boisterous,turbulent,tumultuous,great,strong,extreme,complete,full,dear,of great price,acute,sharp,shrill,high-toned,not flat,somewhat intoxicated,tight,fuddled,boozy,
+
+ IMPERTINENT 
+irrelevant,inapposite,not applicable,not,to the point,not pertaining to the matter in hand,not pertinent,intrusive,meddling,officious,insolent,rude,impudent,saucy,forward,pert,bold,malapert,unmannerly,
+
+ INDELIBLE 
+ineffaceable,ingrained,not to be blotted out,
+
+ HAZEL 
+light brown,
+
+ HOT-HEADED 
+violent,rash,precipitate,vehement,furious,passionate,hot-brained,
+
+ INSTRUMENTAL 
+conducive,subservient,serviceable,helping,helpful,assisting,auxiliary,ancillary,ministerial,of musical instruments,
+
+ HELLENIC 
+grecian,
+
+ INTANGIBLE 
+impalpable,that cannot be touched,
+
+ IGNORANT 
+unlearned,uninstructed,uninformed,uneducated,untaught,unenlightened,blind,illiterate,unlettered,dark,
+
+ INCONSOLABLE 
+disconsolate,woebegone,comfortless,heart-,broken,broken-hearted,
+
+ INIMICAL 
+hostile,unfriendly,unkind,malevolent,antagonistic,adverse,unfavorable,opposed,contrary,repugnant,hurtful,pernicious,
+
+ HAPLESS 
+luckless,unlucky,unfortunate,unhappy,wretched,miserable,forlorn,ill-starred,ill-fated,
+
+ IMPROMPTU 
+extempore,unpremeditated,off-hand,
+
+ INTENSE 
+close,strict,intent,severe,strained,stretched,excessive,extreme,very great,forcible,energetic,vigorous,powerful,ardent,vehement,earnest,
+
+ ILLUSTRATIVE 
+explanatory,
+
+ GRACIOUS 
+benevolent,benignant,favorable,kind,friendly,merciful,condescending,compassionate,tender,lenient,mild,gentle,affable,familiar,courteous,civil,polite,easy,
+
+ GNARLY 
+gnarled,
+
+ GREAT 
+large,big,vast,huge,bulky,ample,immense,gigantic,herculean,cyclopean,enormous,much,excessive,high,numerous,countless,considerable,important,weighty,distinguished,eminent,prominent,exalted,elevated,excellent,noted,illustrious,celebrated,famous,famed,renowned,far-famed,grand,august,dignified,noble,majestic,sublime,magnanimous,generous,chivalrous,high-minded,sumptuous,rich,magnificent,hard,difficult,onerous,burdensome,grievous,chief,principal,superior,pre-eminent,
+
+ INCOMMENSURABLE 
+without a common measure,
+
+ HARMONICAL 
+harmonious,concordant,consonant,melodious,tuneful,musical,
+
+ FUTURE 
+coming,to come,yet to be,that will be,
+
+ GLOSSY 
+smooth and shining,
+
+ INHERENT 
+innate,inborn,inbred,not adventitious,
+
+ INDISTINCT 
+indeterminate,undefined,indefinite,undistinguishable,confused,not distinct,obscure,dim,vague,imperfect,faint,not clear,ambiguous,uncertain,doubtful,
+
+ INDIRECT 
+circuitous,tortuous,not straight,not direct,not rectilinear,roundabout,oblique,collateral,not directly to the point,unfair,dishonest,dishonorable,
+
+ FUSSY 
+fidgety,busy about trifles,
+
+ IMMANENT 
+intrinsic,inherent,internal,subjective,indwelling,
+
+ INTACT 
+untouched,uninjured,unhurt,unharmed,scathless,
+
+ GEMINATE 
+twin,in pairs,
+
+ INDIVIDUAL 
+particular,special,separate,single,one,
+
+ HEART-FELT 
+deep,profound,hearty,cordial,deep-felt,home-,felt,
+
+ INEQUITABLE 
+unjust,unfair,disingenuous,dishonorable,not,equitable,
+
+ HYSTERIC 
+spasmodic,affected with hysterics,
+
+ FURZY 
+gorzy,
+
+ ILL-NATURED 
+malevolent,unkind,disobliging,unfriendly,unamiable,morose,sullen,sulky,cross,churlish,crabbed,sour,perverse,wayward,crusty,petulant,cross-grained,ill-tempered,
+
+ GENTEEL 
+refined,polite,courteous,polished,civil,well-,bred,gentlemanly or lady-like,fashionable,stylish,style of living,
+
+ HOAR 
+hoary,white,gray,
+
+ INFLATED 
+swollen,bloated,puffed,up,tumid,turgid,bombastic,grandiloquent,stilted,declamatory,rhetorical,sophomorical,high-flown,highfalutin,
+
+ HEART-STIRRING 
+inspiring,animating,
