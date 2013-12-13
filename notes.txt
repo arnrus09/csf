@@ -1,0 +1,1 @@
+finds root words for words with suffixes e, ed and ing.
