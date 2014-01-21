@@ -1,0 +1,19 @@
+2.  
+infix: 7 + 1 (remember 8, clear) 8 - 3 * 8
+postfix: 7 1 + 3 8 - *
+4.
+6.
+Typed calculations allow for flexibility by conserving memory when necessary and using less efficient types when doing calculations with larger numbers or precise representations of real numbers .  They create a more complicated instruction set.
+7.
+Because once a constant is pushed to the stack it can't be distinguished from a non-constant.
+8.
+bi push 200, since 127 is the greatest possible value of type byte,
+sipush -300.0, since shorts can't have non integral values.
+9.
+Assuming that there isn't overflow, every shift n, to the left multiplies a number by 2^n.
+10.
+a) bit wise and with the bit pattern with 56 0's and 8 1's.
+b) take the number mod 2**8
+ldc
+12.
+top
