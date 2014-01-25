@@ -1,0 +1,9 @@
+1.
+	1. f0
+	2. aa
+	3. n/a
+	4. n/a
+2.
+	1. 5
+	2. 0x13f
+	3. isub, sipush, noop, iconst_4
