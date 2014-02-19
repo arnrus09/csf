@@ -1,0 +1,19 @@
+1.
+	they both provide temporary storage for variables used in computations.  
+2.
+	Registers are physical entities in a computer of which there are a finite number, as opposed to 	local variables that can be made arbitrarily large in the locals limit declaration and can be in 	memory or in registers depending on the JVM and the frequency of there use.
+3.
+	The JVM stack automatically provides the operands for most operators and it does so in a 	particular order.  with registers, the programmer is required to specify which ones to use and in 	what order.
+4.
+	5,  7,  java/lang/System/out Ljava/io/PrintStream
+5.
+	faster operations on larger integers and higher precision floating point numbers.
+6.
+	fetch, dispatch, execute,  writeback
+
+7.
+	RISC requires more instructions to be fetched on average but each one tends to be executed 	faster.
+8.
+	A list where each element contains a reference to the next as opposed to an array where each 	element is found using an offset from the base address
+9.	
+	security, programs can't mess with the contents of actual memory.  Space, more memory locations 	can be addressed than actually exist in main memory.
