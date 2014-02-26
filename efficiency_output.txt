@@ -1,0 +1,84 @@
+			CONTAINS:
+ArrayList:
+	894922000
+ArrayList:
+	863982000
+LinkedList:
+	516767000
+HashSet:
+	11699000
+LinkedHashSet:
+	168000
+TreeSet:
+	502000
+LinkedBlockingQueue:
+	245126000
+LinkedBlockingDeque:
+	83749000
+PriorityBlockingQueue:
+	901623000
+PriorityQueue:
+	583353000
+			EQUALS:
+ArrayList:
+	81646000
+ArrayList:
+	82781000
+LinkedList:
+	68598000
+HashSet:
+	9380000
+LinkedHashSet:
+	5000
+TreeSet:
+	5000
+LinkedBlockingQueue:
+	77766000
+LinkedBlockingDeque:
+	55441000
+PriorityBlockingQueue:
+	564272000
+PriorityQueue:
+	438880000
+			REMOVE:
+ArrayList does not support remove
+
+ArrayList does not support remove
+
+LinkedList does not support remove
+
+HashSet:
+	4281000
+LinkedHashSet:
+	16000
+TreeSet:
+	23000
+LinkedBlockingQueue:
+	172177000
+LinkedBlockingDeque:
+	139032000
+PriorityBlockingQueue:
+	427771000
+PriorityQueue does not support remove
+
+			ITERATION:
+ArrayList:
+	24192000
+ArrayList:
+	18112000
+LinkedList:
+	31331000
+HashSet:
+	29000
+LinkedHashSet:
+	3000
+TreeSet:
+	4000
+LinkedBlockingQueue:
+	95000
+LinkedBlockingDeque:
+	4000
+PriorityBlockingQueue:
+	7000
+PriorityQueue:
+	20039000
