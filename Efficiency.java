@@ -37,6 +37,7 @@ public class Efficiency {
 			System.out.println(name + ":\n\t" + (end - start) );
 		}
 		}
+		
 	static void perfTest(List<Collection> colls, String method){
 		System.out.println( "\t\t\t" + method.toUpperCase() + ":" );
 		for( Collection coll : colls)
@@ -47,14 +48,7 @@ public class Efficiency {
 				System.out.println(coll.getClass().getSimpleName() + " does not support " + method + "\n");
 			}
 	}
-	void getTrial(int[] arr){
-		Object x;
-		System.out.println(System.nanoTime());
-		for( int i = 0; i < arr.length; i++ ){
-			x = arr[i];
-		}
-		System.out.println(System.nanoTime());
-	}
+	
 	static void colTrial(Collection<String> col, String method) throws NoSuchMethodException, IllegalArgumentException, IllegalAccessException, InvocationTargetException{
 		String name = col.getClass().getSimpleName();
 		Method m = Collection.class.getMethod(method, Object.class );
