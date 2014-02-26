@@ -7,6 +7,10 @@ import java.lang.reflect.*;
 import java.io.*;
 
 public class Efficiency {
+	/*efficiency tests for 3 methods and iteration for 9 different java.util container classes 
+	and an ArrayList backed by a primitive array.  Output displays each type under a method title
+	followed by the time in nano seconds that it takes to perform a given method on each of
+	it's elements.*/
 	public static void main(String[] args) throws FileNotFoundException{
 		System.setOut(new PrintStream(new File("/Users/russellarnold/efficiency_out.txt")));
 		String[] prfArray = new String[1000000];
@@ -23,16 +27,16 @@ public class Efficiency {
 		new PriorityBlockingQueue<String>(Arrays.asList(prfArray)),
 		new PriorityQueue<String>(Arrays.asList(prfArray)),
 		});
-		perfTest(colls, "contains");
+		perfTest(colls, "contains"); //performance test, invokes method for argument on each collection.
 		perfTest(colls, "equals");
 		perfTest(colls, "remove");
 		System.out.println( "\t\t\t" + "ITERATION:" );
 		int x;
-		for(Collection<String> coll : colls){
-			String name = coll.getClass().getSimpleName();
+		for(Collection<String> coll : colls){			//find how long it takes for collection
+			String name = coll.getClass().getSimpleName();	//to iterate through elements
 			long start = System.nanoTime();
 			for( String e : coll)
-				x = 0;
+				x = 0;	//dummy operation
 			long end = System.nanoTime();
 			System.out.println(name + ":\n\t" + (end - start) );
 		}
