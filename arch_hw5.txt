@@ -1,0 +1,7 @@
+1. 
+Single Instruction Multiple Data parallelism applies a single operation to several different data members, for example transforming the color of a screen when each pixel is determined by a unique data member.  
+
+Multiple Instruction Multiple Data parallelism is when several different operations are set and sustained in motion  simultaneously by each clock pulse.
+
+2.
+Spacial and Temporal locality are measures of usage to determine what data members should be put in registers or cached memory based on their proximity to each other, like the elements of an array, and their frequency of use, like a loop counter frequency, respectively.
