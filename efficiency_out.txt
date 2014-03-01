@@ -1,0 +1,455 @@
+ADD
+--------
+ArrayList
+	add: 62000
+
+LinkedList
+	add: 8000
+
+HashSet
+	add: 69000
+
+LinkedHashSet
+	add: 22000
+
+LinkedBlockingQueue
+	add: 34000
+
+LinkedBlockingDeque
+	add: 17000
+
+EQUALS
+--------
+Array as List
+	equals: 12000
+
+ArrayList
+	equals: 6000
+
+LinkedList
+	equals: 6000
+
+HashSet
+	equals: 9000
+
+LinkedHashSet
+	equals: 5000
+
+TreeSet
+	equals: 12000
+
+LinkedBlockingQueue
+	equals: 8000
+
+LinkedBlockingDeque
+	equals: 7000
+
+PriorityBlockingQueue
+	equals: 5000
+
+PriorityQueue
+	equals: 9000
+
+HASHCODE
+--------
+Array as List
+	hashCode: 1733000
+
+ArrayList
+	hashCode: 5414000
+
+LinkedList
+	hashCode: 4604000
+
+HashSet
+	hashCode: 1265000
+
+LinkedHashSet
+	hashCode: 159000
+
+TreeSet
+	hashCode: 521000
+
+LinkedBlockingQueue
+	hashCode: 11000
+
+LinkedBlockingDeque
+	hashCode: 8000
+
+PriorityBlockingQueue
+	hashCode: 8000
+
+PriorityQueue
+	hashCode: 8000
+
+CLEAR
+--------
+ArrayList
+	clear: 314000
+
+LinkedList
+	clear: 540000
+
+HashSet
+	clear: 528000
+
+LinkedHashSet
+	clear: 1140000
+
+TreeSet
+	clear: 20000
+
+LinkedBlockingQueue
+	clear: 868000
+
+LinkedBlockingDeque
+	clear: 582000
+
+PriorityBlockingQueue
+	clear: 309000
+
+PriorityQueue
+	clear: 340000
+
+ISEMPTY
+--------
+Array as List
+	isEmpty: 16000
+
+ArrayList
+	isEmpty: 7000
+
+LinkedList
+	isEmpty: 9000
+
+HashSet
+	isEmpty: 12000
+
+LinkedHashSet
+	isEmpty: 7000
+
+TreeSet
+	isEmpty: 18000
+
+LinkedBlockingQueue
+	isEmpty: 8000
+
+LinkedBlockingDeque
+	isEmpty: 12000
+
+PriorityBlockingQueue
+	isEmpty: 17000
+
+PriorityQueue
+	isEmpty: 7000
+
+CONTAINS
+--------
+Array as List
+	contains: 1278000
+
+ArrayList
+	contains: 9000
+
+LinkedList
+	contains: 8000
+
+HashSet
+	contains: 15000
+
+LinkedHashSet
+	contains: 8000
+
+LinkedBlockingQueue
+	contains: 313000
+
+LinkedBlockingDeque
+	contains: 10000
+
+PriorityBlockingQueue
+	contains: 20000
+
+PriorityQueue
+	contains: 7000
+
+ADDALL
+--------
+Array as List
+	addAll: 39000
+
+ArrayList
+	addAll: 12000
+
+LinkedList
+	addAll: 18000
+
+HashSet
+	addAll: 33000
+
+LinkedHashSet
+	addAll: 21000
+
+TreeSet
+	addAll: 23000
+
+LinkedBlockingQueue
+	addAll: 16000
+
+LinkedBlockingDeque
+	addAll: 7000
+
+PriorityBlockingQueue
+	addAll: 7000
+
+PriorityQueue
+	addAll: 7000
+
+SIZE
+--------
+Array as List
+	size: 9000
+
+ArrayList
+	size: 6000
+
+LinkedList
+	size: 8000
+
+HashSet
+	size: 12000
+
+LinkedHashSet
+	size: 7000
+
+TreeSet
+	size: 8000
+
+LinkedBlockingQueue
+	size: 7000
+
+LinkedBlockingDeque
+	size: 17000
+
+PriorityBlockingQueue
+	size: 11000
+
+PriorityQueue
+	size: 7000
+
+TOARRAY
+--------
+Array as List
+	toArray: 61000
+
+ArrayList
+	toArray: 7000
+
+LinkedList
+	toArray: 7000
+
+HashSet
+	toArray: 13000
+
+LinkedHashSet
+	toArray: 13000
+
+TreeSet
+	toArray: 12000
+
+LinkedBlockingQueue
+	toArray: 15000
+
+LinkedBlockingDeque
+	toArray: 9000
+
+PriorityBlockingQueue
+	toArray: 24000
+
+PriorityQueue
+	toArray: 6000
+
+TOARRAY
+--------
+Array as List
+	toArray: 48000
+
+ArrayList
+	toArray: 9000
+
+LinkedList
+	toArray: 7000
+
+HashSet
+	toArray: 15000
+
+LinkedHashSet
+	toArray: 11000
+
+TreeSet
+	toArray: 12000
+
+LinkedBlockingQueue
+	toArray: 14000
+
+LinkedBlockingDeque
+	toArray: 25000
+
+PriorityBlockingQueue
+	toArray: 23000
+
+PriorityQueue
+	toArray: 9000
+
+ITERATOR
+--------
+Array as List
+	iterator: 11000
+
+ArrayList
+	iterator: 7000
+
+LinkedList
+	iterator: 9000
+
+HashSet
+	iterator: 10000
+
+LinkedHashSet
+	iterator: 9000
+
+TreeSet
+	iterator: 11000
+
+LinkedBlockingQueue
+	iterator: 12000
+
+LinkedBlockingDeque
+	iterator: 490000
+
+PriorityBlockingQueue
+	iterator: 159000
+
+PriorityQueue
+	iterator: 167000
+
+REMOVE
+--------
+Array as List
+	remove: 1493000
+
+ArrayList
+	remove: 11000
+
+LinkedList
+	remove: 7000
+
+HashSet
+	remove: 16000
+
+LinkedHashSet
+	remove: 7000
+
+LinkedBlockingQueue
+	remove: 14000
+
+LinkedBlockingDeque
+	remove: 14000
+
+PriorityBlockingQueue
+	remove: 16000
+
+PriorityQueue
+	remove: 6000
+
+REMOVEALL
+--------
+Array as List
+	removeAll: 3436000
+
+ArrayList
+	removeAll: 20000
+
+LinkedList
+	removeAll: 12000
+
+HashSet
+	removeAll: 23000
+
+LinkedHashSet
+	removeAll: 11000
+
+TreeSet
+	removeAll: 12000
+
+LinkedBlockingQueue
+	removeAll: 17000
+
+LinkedBlockingDeque
+	removeAll: 20000
+
+PriorityBlockingQueue
+	removeAll: 26000
+
+PriorityQueue
+	removeAll: 14000
+
+CONTAINSALL
+--------
+Array as List
+	containsAll: 14000
+
+ArrayList
+	containsAll: 9000
+
+LinkedList
+	containsAll: 9000
+
+HashSet
+	containsAll: 8000
+
+LinkedHashSet
+	containsAll: 9000
+
+TreeSet
+	containsAll: 9000
+
+LinkedBlockingQueue
+	containsAll: 11000
+
+LinkedBlockingDeque
+	containsAll: 9000
+
+PriorityBlockingQueue
+	containsAll: 9000
+
+PriorityQueue
+	containsAll: 8000
+
+RETAINALL
+--------
+ArrayList
+	retainAll: 6000
+
+LinkedList
+	retainAll: 11000
+
+HashSet
+	retainAll: 12000
+
+LinkedHashSet
+	retainAll: 10000
+
+TreeSet
+	retainAll: 17000
+
+LinkedBlockingQueue
+	retainAll: 16000
+
+LinkedBlockingDeque
+	retainAll: 12000
+
+PriorityBlockingQueue
+	retainAll: 18000
+
+PriorityQueue
+	retainAll: 9000
