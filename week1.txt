@@ -1,0 +1,3 @@
+I moved repeated code in bass, drums, melody and chord classes into an abstract instrument superclass, made the gui more 
+pretty and simplified a lot of code as well as added a load-save mechanism.  I worked through some issues with using subclass 
+specific variables in superclass defined methods, so in that way a learned a few things.
